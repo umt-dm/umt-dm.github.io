@@ -11,7 +11,7 @@ description: "A hierarchy is introduced for better tasks management. Regarding w
 # Project Development Hierarchy
 
 A hierarchy is introduced for better tasks management. Regarding work, all students are participating equally.
-
+![Team Work](/uploads/img/dp/team-work.jpg)
 There are following three levels for task division:
 
 1. Faculity
