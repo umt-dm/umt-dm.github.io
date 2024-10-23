@@ -4,8 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
-        <title>UMT DM | Project Career Guide</title>
+        <title>UMT DM</title>
       </Head>
       <body>
         <Main />

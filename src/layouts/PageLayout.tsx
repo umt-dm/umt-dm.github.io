@@ -28,7 +28,7 @@ const PageLayout: React.FC<PageLayoutProps> = ({ children }) => {
 
   useEffect(() => {
     if(!document.title){
-      document.title = `Data Mining`;
+      document.title = `UMT DM | Project Career Guide`;
     }
   }, []);
 
