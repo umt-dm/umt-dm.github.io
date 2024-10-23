@@ -83,20 +83,38 @@ Following table contains registered teams. It will keep growing as new teams are
 
 | #   | Team Name                       | Student Name       | Student ID     |
 |-----|----------------------------------|--------------------|-----------------|
-|\|         |                                  |      |      |
 | Team #1 | TEAM_NAME_NOT_DECIDED_YET      | Abdullah Ahmad      | F2021376022     |
-|\|         |                                  | Muhammad Saim      | F2021376043     |
-|\|         |                                  | Muhammad Arslaan   | F2021376045     |
-|\|         |                                  | Areesha Jameel     | F2021376108     |
-|\|         |                                  |      |      |
-| Team #2 |  Example Team                         | Julia              | F2021376000     |
-|\|         |                                  | John Doe           | F2021376000     |
-|\|         |                                  | Anderson           | F2021376000     |
-|\|         |                                  | Robert             | F2021376000     |
-|\|         |                                  | Nora               | F2021376000     |
-|\|         |                                  |      |      |
-
-
-
+|\|       |                                  | Muhammad Saim      | F2021376043     |
+|\|       |                                  | Muhammad Arslaan   | F2021376045     |
+|\|       |                                  | Areesha Jameel     | F2021376108     |
+|\|       |                                  |                    |                 |
+| Team #2 | Innovators                      | Zoha Khalid        | F2022332007     |
+|\|       |                                  | Tehreem Ghulam Nabi| F2022332020     |
+|\|       |                                  |                    |                 |
+| Team #3 | TEAM_NAME_NOT_DECIDED_YET      | Sara Azhar         | F2021376085     |
+|\|       |                                  | Moiz Amjad         | F2021376084     |
+|\|       |                                  | Daud Qaisar       | F2021376068     |
+|\|       |                                  | Minhal Awais      | F2021376059     |
+|\|       |                                  | Faisal Javed       | F2021376059     |
+|\|       |                                  |                    |                 |
+| Team #4 | Transformers                   | Ahmed Bilal Bhatti | F2021376088     |
+|\|       |                                  | Awais Ali         | F2021376035     |
+|\|       |                                  | Muhsanain Haider   | F2021376094     |
+|\|       |                                  | Sarosh Tahir       | F20213760__     |
+|\|       |                                  | Anns Ijaz          | F20213760__     |
+|\|       |                                  |                    |                 |
+| Team #5 | Code Miners                    | Abdullah Faisal    | F2021376111     |
+|\|       |                                  | Ali Adil Waseem    | F2021376026     |
+|\|       |                                  | M. Adam Khan       | F2021376048     |
+|\|       |                                  | M. Ali Waseem      | F2022376029     |
+|\|       |                                  | M. Umar Ayub       | F2022376062     |
+|\|       |                                  |                    |                 |
+| Team #6 | Alpha                          | Ghayoor Fatima     | S2023332029     |
+|\|       |                                  | Ayesha Tariq       | F2022332073     |
+|\|       |                                  | Aliza Ali          | F2022332030     |
+|\|       |                                  | Tayyaba Sikandar   | F2022332012     |
+|\|       |                                  | Musfirah Shahzeb   | F2022332022     |
+|\|       |                                  |                    |                 |
+| Team #7 | Executive                      | Muhammad Ahmad      | F2021376015     |
 
 ***
