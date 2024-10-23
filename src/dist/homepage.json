@@ -1,0 +1,31 @@
+{
+  "tags": [
+    { "name": "Announcement", "url": "/tag/announcement" },
+    { "name": "Document", "url": "/tag/document" },
+    { "name": "Release", "url": "/tag/release" }
+  ],
+  "posts": [
+    {
+      "img": "https://picsum.photos/800/450?random=2",
+      "tag": "Announcement",
+      "title": "Welcome to Project Career Guide",
+      "description": "Warm welcome you all to project Career Guide. A class project Under the supervision of Dr. Raja Noshad Jamil.",
+      "date": "2024-10-22",
+      "url": "/post/welcome",
+      "authors": [
+        { "name": "Abdullah A.", "avatar": null, "url": "/author/abdullah-ahmad" }
+      ]
+    },
+    {
+      "img": "https://picsum.photos/800/450?random=1",
+      "tag": "Announcement",
+      "title": "Development Hierarchy",
+      "description": "A hierarchy is introduced for better tasks management. Regarding work, all students are participating equally.",
+      "date": "2024-10-22",
+      "url": "/post/hierarchy",
+      "authors": [
+        { "name": "Abdullah A.", "avatar": null, "url": "/author/abdullah-ahmad" }
+      ]
+    }
+  ]
+}

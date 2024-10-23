@@ -1,0 +1,18 @@
+[
+    {
+        "label": "Career-Guide",
+        "url": "/career-guide/overview"
+    },
+    {
+        "label": "FAQs",
+        "url": "/faqs"
+    },
+    {
+        "label": "About Us",
+        "url": "/about"
+    },
+    {
+        "label": "Contact",
+        "url": "/contact"
+    }
+]

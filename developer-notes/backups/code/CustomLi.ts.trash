@@ -1,0 +1,16 @@
+import React from 'react';
+import Typography from '@mui/material/Typography';
+
+export const CustomUl: React.FC<{ children: React.ReactNode }> = ({ children }) => {
+  return <ul style={{ listStyleType: 'disc', paddingLeft: '20px' }}>{children}</ul>;
+};
+
+export const CustomOl: React.FC<{ children: React.ReactNode }> = ({ children }) => {
+  return <ol style={{ listStyleType: 'decimal', paddingLeft: '20px' }}>{children}</ol>;
+};
+
+export const CustomLi: React.FC<{ children: React.ReactNode }> = ({ children }) => {
+  return <li>{children}</li>;
+};
+
+export { CustomUl, CustomOl, CustomLi };

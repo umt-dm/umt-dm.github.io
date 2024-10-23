@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Development Hierarchy",
+    "date": "2024-10-22",
+    "authors": [
+      {
+        "name": "Abdullah A.",
+        "avatar": "/assets/images/avatar/john-doe.jpg"
+      }
+    ],
+    "tags": [
+      "Announcement"
+    ],
+    "description": "A hierarchy is introduced for better tasks management. Regarding work, all students are participating equally.",
+    "slug": "hierarchy",
+    "url": "/hierarchy"
+  },
+  {
+    "title": "Welcome to Project Career Guide",
+    "date": "2024-10-22",
+    "authors": [
+      {
+        "name": "Abdullah A.",
+        "avatar": "/assets/images/avatar/john-doe.jpg"
+      }
+    ],
+    "tags": [
+      "Announcement"
+    ],
+    "description": "Warm welcome you all to project Career Guide. A class project Under the supervision of Dr. Raja Noshad Jamil.",
+    "slug": "welcome",
+    "url": "/welcome"
+  }
+]
