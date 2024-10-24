@@ -1,7 +1,8 @@
 {
   "devDependencies": {
     "gh-pages": "^6.1.1",
-    "serve": "^14.2.4"
+    "serve": "^14.2.4",
+    "ts-node": "^10.9.2"
   },
   "scripts": {
     "build": "cd src && npm run build && cd ..",
