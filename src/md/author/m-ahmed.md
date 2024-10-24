@@ -1,3 +1,7 @@
+---
+title: "Muhammad Ahmed"
+---
+
 # Muhammad Ahmed
 
 ![Muhammad Ahmed](/uploads/img/dp/m-ahmed-pic.jpeg)
