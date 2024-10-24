@@ -4,4 +4,4 @@ title: "#Announcements"
 
 # Announcements
 
-Announcements will be added here
+Everyone finalize your teams, So that we can start our journey to connect industry with academia with your highly valuable contribution. 
