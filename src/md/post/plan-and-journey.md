@@ -14,7 +14,7 @@ This webpage contains a brief details about project and its journey. After a set
 
 Project is divided into following two primary phases:
 
-[1. Data Mining, 2. Server Development](/assets/img/content/two-division.png)
+![1. Data Mining, 2. Server Development](/assets/img/content/two-division.png)
 
 1. __Data Mining__: Phase 1 involves dividing, collecting, refining, organizing, centralizing and post-centralization refining of data. It also includes training ai-models to predict/generae responses from queries.
 2. __Server Development__: In Phase 2, an app will be developed using collected data and trained model. A final product will be made ready for users.
@@ -209,4 +209,4 @@ Following is initial timeline for project.
 Updated timelines will be poasted with "announcement tag".
 Keep checking [Announcements Page](/tag/announcement) for new updates (updated every sunday)
 
-[Project Timeline](/assets/img/content/project-timeline.png)
+![Project Timeline](/assets/img/content/project-timeline.png)
