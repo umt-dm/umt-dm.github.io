@@ -16,6 +16,22 @@
     "url": "/hierarchy"
   },
   {
+    "title": "Project Plan & Journey",
+    "date": "2024-10-22",
+    "authors": [
+      {
+        "name": "Abdullah A.",
+        "avatar": "/assets/images/avatar/john-doe.jpg"
+      }
+    ],
+    "tags": [
+      "Announcement"
+    ],
+    "description": "A summary of project's Development Plan",
+    "slug": "plan-and-journey",
+    "url": "/plan-and-journey"
+  },
+  {
     "title": "Welcome to Project Career Guide",
     "date": "2024-10-22",
     "authors": [
