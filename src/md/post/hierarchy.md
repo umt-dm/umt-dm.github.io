@@ -93,7 +93,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <!-- Team 1 -->
 <tr>
 <td>Team #1</td>
-<td colspan="2">Core</td>
+<td colspan="2"><b>Core</b></td>
 </tr>
 <tr>
 <td></td>
@@ -124,7 +124,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <!-- Team 2 -->
 <tr>
 <td>Team #2</td>
-<td colspan="2">Innovators</td>
+<td colspan="2"><b>Innovators</b></td>
 </tr>
 <tr>
 <td></td>
@@ -145,7 +145,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <!-- Team 3 -->
 <tr>
 <td>Team #3</td>
-<td colspan="2">Extractors</td>
+<td colspan="2"><b>Extractors</b></td>
 </tr>
 <tr>
 <td></td>
@@ -171,7 +171,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <!-- Team 4 -->
 <tr>
 <td>Team #4</td>
-<td colspan="2">Transformers</td>
+<td colspan="2"><b>Transformers</b></td>
 </tr>
 <tr>
 <td></td>
@@ -207,7 +207,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <!-- Team 5 -->
 <tr>
 <td>Team #5</td>
-<td colspan="2">Code Miners</td>
+<td colspan="2"><b>Code Miners</b></td>
 </tr>
 <tr>
 <td></td>
@@ -243,7 +243,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <!-- Team 6 -->
 <tr>
 <td>Team #6</td>
-<td colspan="2">Alpha</td>
+<td colspan="2"><b>Alpha</b></td>
 </tr>
 <tr>
 <td></td>
@@ -279,7 +279,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <!-- Team 7 -->
 <tr>
 <td>Team #7</td>
-<td colspan="2">Executive</td>
+<td colspan="2"><b>Executive</b></td>
 </tr>
 <tr>
 <td></td>
@@ -295,7 +295,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <!-- Team 8 -->
 <tr>
 <td>Team #8</td>
-<td colspan="2">Data Miners</td>
+<td colspan="2"><b>Data Miners</b></td>
 </tr>
 <tr>
 <td></td>
@@ -326,7 +326,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <!-- Team 9 -->
 <tr>
 <td>Team #9</td>
-<td colspan="2">TEAM_NAME_NOT_DECIDED_YET</td>
+<td colspan="2"><b>Phantoms</b></td>
 </tr>
 <tr>
 <td></td>
@@ -352,7 +352,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <!-- Team 10 -->
 <tr>
 <td>Team #10</td>
-<td colspan="2">Duo Group</td>
+<td colspan="2"><b>Duo Group</b></td>
 </tr>
 <tr>
 <td></td>
@@ -373,7 +373,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <!-- Team 11 -->
 <tr>
 <td>Team #11</td>
-<td colspan="2">Data Detective</td>
+<td colspan="2"><b>Data Detective</b></td>
 </tr>
 <tr>
 <td></td>
