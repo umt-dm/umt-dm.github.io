@@ -116,7 +116,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <td>F2021376108</td>
 </tr>
 <tr>
-<td style="opacity: 0;">.</td>
+<td><span style="opacity: 0;">.</span></td>
 <td></td>
 <td></td>
 </tr>
@@ -137,7 +137,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <td>F2022332020</td>
 </tr>
 <tr>
-<td style="opacity: 0;">.</td>
+<td><span style="opacity: 0;">.</span></td>
 <td></td>
 <td></td>
 </tr>
@@ -163,7 +163,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <td>F2021376059</td>
 </tr>
 <tr>
-<td style="opacity: 0;">.</td>
+<td><span style="opacity: 0;">.</span></td>
 <td></td>
 <td></td>
 </tr>
@@ -199,7 +199,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <td>F20213760__</td>
 </tr>
 <tr>
-<td style="opacity: 0;">.</td>
+<td><span style="opacity: 0;">.</span></td>
 <td></td>
 <td></td>
 </tr>
@@ -235,7 +235,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <td>F2022376062</td>
 </tr>
 <tr>
-<td style="opacity: 0;">.</td>
+<td><span style="opacity: 0;">.</span></td>
 <td></td>
 <td></td>
 </tr>
@@ -271,7 +271,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <td>F2022332022</td>
 </tr>
 <tr>
-<td style="opacity: 0;">.</td>
+<td><span style="opacity: 0;">.</span></td>
 <td></td>
 <td></td>
 </tr>
@@ -287,7 +287,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <td>F2021376015</td>
 </tr>
 <tr>
-<td style="opacity: 0;">.</td>
+<td><span style="opacity: 0;">.</span></td>
 <td></td>
 <td></td>
 </tr>
@@ -318,7 +318,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <td>F2021376040</td>
 </tr>
 <tr>
-<td style="opacity: 0;">.</td>
+<td><span style="opacity: 0;">.</span></td>
 <td></td>
 <td></td>
 </tr>
@@ -344,7 +344,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <td>F2021376058</td>
 </tr>
 <tr>
-<td style="opacity: 0;">.</td>
+<td><span style="opacity: 0;">.</span></td>
 <td></td>
 <td></td>
 </tr>
@@ -365,7 +365,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <td>F2022332049</td>
 </tr>
 <tr>
-<td style="opacity: 0;">.</td>
+<td><span style="opacity: 0;">.</span></td>
 <td></td>
 <td></td>
 </tr>
@@ -396,7 +396,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <td>F2021376017</td>
 </tr>
 <tr>
-<td style="opacity: 0;">.</td>
+<td><span style="opacity: 0;">.</span></td>
 <td></td>
 <td></td>
 </tr>
