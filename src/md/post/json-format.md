@@ -18,7 +18,7 @@ As it was discussed earlier in classroom, we need a uniform format to centralize
 
 JSON format is explained in following video for convenience
 
-<video src="/uploads/vid/json-format.mp4" controls />
+<video src="/uploads/vid/json-format.mp4" controls>
 
 ## Examples
 
