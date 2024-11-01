@@ -395,11 +395,6 @@ Following table contains registered teams. It will keep growing as new teams are
 <td>Ahmed Raza Attari</td>
 <td>F2021376017</td>
 </tr>
-<tr>
-<td><span style="opacity: 0;">.</span></td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
