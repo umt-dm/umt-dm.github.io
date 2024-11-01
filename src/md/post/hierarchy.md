@@ -5,13 +5,14 @@ authors:
   - name: "Abdullah A."
     avatar: "/assets/images/avatar/john-doe.jpg"
 tags: ["Announcement"]
-description: "A hierarchy is introduced for better tasks management. Regarding work, all students are participating equally."
+description: "A hierarchy is introduced in order to manage tasks in a better way. Take a look at details."
 ---
 
 # Project Development Hierarchy
 
-A hierarchy is introduced for better tasks management. Regarding work, all students are participating equally.
 ![Team Work](/uploads/img/dp/team-work.jpg)
+
+A hierarchy is introduced in order to manage tasks in a better way. All students are required to participate equally.
 There are following three levels for task division:
 
 1. Faculity
@@ -82,265 +83,265 @@ Following are core team members directly reporting to Faculity:
 Following table contains registered teams. It will keep growing as new teams are grouped:
 
 <table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Team Name</th>
-      <th>Student Name</th>
-      <th>Student ID</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Team 1 -->
-    <tr>
-      <td>1</td>
-      <td>Core</td>
-      <td>Abdullah Ahmad</td>
-      <td>F2021376022</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Muhammad Saim</td>
-      <td>F2021376043</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Muhammad Arslaan</td>
-      <td>F2021376045</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Areesha Jameel</td>
-      <td>F2021376108</td>
-    </tr>
+<thead>
+<tr>
+<th>#</th>
+<th>Team Name</th>
+<th>Student Name</th>
+<th>Student ID</th>
+</tr>
+</thead>
+<tbody>
+<!-- Team 1 -->
+<tr>
+<td>1</td>
+<td>Core</td>
+<td>Abdullah Ahmad</td>
+<td>F2021376022</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Muhammad Saim</td>
+<td>F2021376043</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Muhammad Arslaan</td>
+<td>F2021376045</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Areesha Jameel</td>
+<td>F2021376108</td>
+</tr>
 
-    <!-- Team 2 -->
-    <tr>
-      <td>2</td>
-      <td>Innovators</td>
-      <td>Zoha Khalid</td>
-      <td>F2022332007</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Tehreem Ghulam Nabi</td>
-      <td>F2022332020</td>
-    </tr>
+<!-- Team 2 -->
+<tr>
+<td>2</td>
+<td>Innovators</td>
+<td>Zoha Khalid</td>
+<td>F2022332007</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Tehreem Ghulam Nabi</td>
+<td>F2022332020</td>
+</tr>
 
-    <!-- Team 3 -->
-    <tr>
-      <td>3</td>
-      <td>Extractors</td>
-      <td>Sara Azhar</td>
-      <td>F2021376085</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Moiz Amjad</td>
-      <td>F2021376084</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Faisal Javed</td>
-      <td>F2021376059</td>
-    </tr>
+<!-- Team 3 -->
+<tr>
+<td>3</td>
+<td>Extractors</td>
+<td>Sara Azhar</td>
+<td>F2021376085</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Moiz Amjad</td>
+<td>F2021376084</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Faisal Javed</td>
+<td>F2021376059</td>
+</tr>
 
-    <!-- Team 4 -->
-    <tr>
-      <td>4</td>
-      <td>Transformers</td>
-      <td>Ahmed Bilal Bhatti</td>
-      <td>F2021376088</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Awais Ali</td>
-      <td>F2021376035</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Muhsanain Haider</td>
-      <td>F2021376094</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Sarosh Tahir</td>
-      <td>F20213760__</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Anns Ijaz</td>
-      <td>F20213760__</td>
-    </tr>
+<!-- Team 4 -->
+<tr>
+<td>4</td>
+<td>Transformers</td>
+<td>Ahmed Bilal Bhatti</td>
+<td>F2021376088</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Awais Ali</td>
+<td>F2021376035</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Muhsanain Haider</td>
+<td>F2021376094</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Sarosh Tahir</td>
+<td>F20213760__</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Anns Ijaz</td>
+<td>F20213760__</td>
+</tr>
 
-    <!-- Team 5 -->
-    <tr>
-      <td>5</td>
-      <td>Code Miners</td>
-      <td>Abdullah Faisal</td>
-      <td>F2021376111</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Ali Adil Waseem</td>
-      <td>F2021376026</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>M. Adam Khan</td>
-      <td>F2021376048</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>M. Ali Waseem</td>
-      <td>F2022376029</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>M. Umar Ayub</td>
-      <td>F2022376062</td>
-    </tr>
+<!-- Team 5 -->
+<tr>
+<td>5</td>
+<td>Code Miners</td>
+<td>Abdullah Faisal</td>
+<td>F2021376111</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Ali Adil Waseem</td>
+<td>F2021376026</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>M. Adam Khan</td>
+<td>F2021376048</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>M. Ali Waseem</td>
+<td>F2022376029</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>M. Umar Ayub</td>
+<td>F2022376062</td>
+</tr>
 
-    <!-- Team 6 -->
-    <tr>
-      <td>6</td>
-      <td>Alpha</td>
-      <td>Ghayoor Fatima</td>
-      <td>S2023332029</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Ayesha Tariq</td>
-      <td>F2022332073</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Aliza Ali</td>
-      <td>F2022332030</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Tayyaba Sikandar</td>
-      <td>F2022332012</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Musfirah Shahzeb</td>
-      <td>F2022332022</td>
-    </tr>
+<!-- Team 6 -->
+<tr>
+<td>6</td>
+<td>Alpha</td>
+<td>Ghayoor Fatima</td>
+<td>S2023332029</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Ayesha Tariq</td>
+<td>F2022332073</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Aliza Ali</td>
+<td>F2022332030</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Tayyaba Sikandar</td>
+<td>F2022332012</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Musfirah Shahzeb</td>
+<td>F2022332022</td>
+</tr>
 
-    <!-- Team 7 -->
-    <tr>
-      <td>7</td>
-      <td>Executive</td>
-      <td>Muhammad Ahmad</td>
-      <td>F2021376015</td>
-    </tr>
+<!-- Team 7 -->
+<tr>
+<td>7</td>
+<td>Executive</td>
+<td>Muhammad Ahmad</td>
+<td>F2021376015</td>
+</tr>
 
-    <!-- Team 8 -->
-    <tr>
-      <td>8</td>
-      <td>Data Miners</td>
-      <td>Muhammad Mehdi Ishaq</td>
-      <td>F2021376060</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Muhammad Kamraan Hussain</td>
-      <td>F2021376097</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Muhammad Qamer Hassan</td>
-      <td>F2021376057</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Muhammad Shoaib</td>
-      <td>F2021376040</td>
-    </tr>
+<!-- Team 8 -->
+<tr>
+<td>8</td>
+<td>Data Miners</td>
+<td>Muhammad Mehdi Ishaq</td>
+<td>F2021376060</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Muhammad Kamraan Hussain</td>
+<td>F2021376097</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Muhammad Qamer Hassan</td>
+<td>F2021376057</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Muhammad Shoaib</td>
+<td>F2021376040</td>
+</tr>
 
-    <!-- Team 9 -->
-    <tr>
-      <td>9</td>
-      <td>TEAM_NAME_NOT_DECIDED_YET</td>
-      <td>Daud Qaisar</td>
-      <td>F2021376068</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Minhal Awais</td>
-      <td>F2021376059</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Syed Sarim</td>
-      <td>F2021376058</td>
-    </tr>
+<!-- Team 9 -->
+<tr>
+<td>9</td>
+<td>TEAM_NAME_NOT_DECIDED_YET</td>
+<td>Daud Qaisar</td>
+<td>F2021376068</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Minhal Awais</td>
+<td>F2021376059</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Syed Sarim</td>
+<td>F2021376058</td>
+</tr>
 
-    <!-- Team 10 -->
-    <tr>
-      <td>10</td>
-      <td>Duo Group</td>
-      <td>Muhammad Azan</td>
-      <td>F2022332004</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Umer Bilal</td>
-      <td>F2022332049</td>
-    </tr>
+<!-- Team 10 -->
+<tr>
+<td>10</td>
+<td>Duo Group</td>
+<td>Muhammad Azan</td>
+<td>F2022332004</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Umer Bilal</td>
+<td>F2022332049</td>
+</tr>
 
-    <!-- Team 11 -->
-    <tr>
-      <td>11</td>
-      <td>Data Detective</td>
-      <td>Dur e Sameen</td>
-      <td>F2021376121</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Minahil Ijaz</td>
-      <td>F2021376109</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Taifa Mustafa</td>
-      <td>F2021376113</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td>Ahmed Raza Attari</td>
-      <td>F2021376017</td>
-    </tr>
-  </tbody>
+<!-- Team 11 -->
+<tr>
+<td>11</td>
+<td>Data Detective</td>
+<td>Dur e Sameen</td>
+<td>F2021376121</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Minahil Ijaz</td>
+<td>F2021376109</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Taifa Mustafa</td>
+<td>F2021376113</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Ahmed Raza Attari</td>
+<td>F2021376017</td>
+</tr>
+</tbody>
 </table>
 
 ***
