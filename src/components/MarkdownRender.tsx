@@ -125,13 +125,14 @@ const MarkdownRender: React.FC<CustomMarkdownProps> = ({ content }) => {
     //   <li>{children}</li>
     // ),
 
-    a: ({ href, children }: { href?: string; children?: React.ReactNode }) => (
+    a: ({ href, children, ...rest }: { href?: string; children?: React.ReactNode, rest?: any }) => (
       <Button 
         href={href} 
         rel="noopener noreferrer" 
         variant="text" 
         color="primary"
         sx={{ textDecoration: 'underline', mb: 1 }}
+        {...rest}
       >
         {children}
       </Button>
