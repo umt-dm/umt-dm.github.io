@@ -1,10 +1,13 @@
 import React from 'react';
 import { Box, Dialog, DialogContent, Typography, Divider, List, ListItem, Button, ListItemText } from '@mui/material';
 import ReactMarkdown from 'react-markdown';
+import rehypeRaw from 'rehype-raw';
 import { useState } from 'react';
-import Image from 'next/image';
+// import Image from 'next/image';
 import gfm from 'remark-gfm'
 import { Components } from 'react-markdown';
+
+import CodeBlock from './CodeBlock';
 
 interface CustomMarkdownProps {
   content: string;
@@ -183,12 +186,17 @@ const MarkdownRender: React.FC<CustomMarkdownProps> = ({ content }) => {
         </video>
       </Box>
     ),
-    
+
+
+    code: ({ className, children }) => {
+      const language = className?.replace('language-', '') || 'text';
+      return <CodeBlock language={language} value={String(children).trim()} />;
+    },
   };
 
   return (
     <>
-      <ReactMarkdown remarkPlugins={[gfm]} components={renderers}>{content}</ReactMarkdown>
+      <ReactMarkdown remarkPlugins={[gfm]} rehypePlugins={[rehypeRaw]} components={renderers}>{content}</ReactMarkdown>
       <Dialog open={open} onClose={handleClose} maxWidth="md" >
         <DialogContent>
           {modalImage && (
