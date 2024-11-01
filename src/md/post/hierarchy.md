@@ -94,7 +94,7 @@ Following table contains registered teams. It will keep growing as new teams are
 <tbody>
 <!-- Team 1 -->
 <tr>
-<td>1</td>
+<td>Team #1</td>
 <td>Core</td>
 <td>Abdullah Ahmad</td>
 <td>F2021376022</td>
@@ -120,7 +120,13 @@ Following table contains registered teams. It will keep growing as new teams are
 
 <!-- Team 2 -->
 <tr>
-<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Team #2</td>
 <td>Innovators</td>
 <td>Zoha Khalid</td>
 <td>F2022332007</td>
@@ -134,7 +140,13 @@ Following table contains registered teams. It will keep growing as new teams are
 
 <!-- Team 3 -->
 <tr>
-<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Team #3</td>
 <td>Extractors</td>
 <td>Sara Azhar</td>
 <td>F2021376085</td>
@@ -154,7 +166,13 @@ Following table contains registered teams. It will keep growing as new teams are
 
 <!-- Team 4 -->
 <tr>
-<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Team #4</td>
 <td>Transformers</td>
 <td>Ahmed Bilal Bhatti</td>
 <td>F2021376088</td>
@@ -186,7 +204,13 @@ Following table contains registered teams. It will keep growing as new teams are
 
 <!-- Team 5 -->
 <tr>
-<td>5</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Team #5</td>
 <td>Code Miners</td>
 <td>Abdullah Faisal</td>
 <td>F2021376111</td>
@@ -218,7 +242,13 @@ Following table contains registered teams. It will keep growing as new teams are
 
 <!-- Team 6 -->
 <tr>
-<td>6</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Team #6</td>
 <td>Alpha</td>
 <td>Ghayoor Fatima</td>
 <td>S2023332029</td>
@@ -250,7 +280,13 @@ Following table contains registered teams. It will keep growing as new teams are
 
 <!-- Team 7 -->
 <tr>
-<td>7</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Team #7</td>
 <td>Executive</td>
 <td>Muhammad Ahmad</td>
 <td>F2021376015</td>
@@ -258,7 +294,13 @@ Following table contains registered teams. It will keep growing as new teams are
 
 <!-- Team 8 -->
 <tr>
-<td>8</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Team #8</td>
 <td>Data Miners</td>
 <td>Muhammad Mehdi Ishaq</td>
 <td>F2021376060</td>
@@ -284,7 +326,13 @@ Following table contains registered teams. It will keep growing as new teams are
 
 <!-- Team 9 -->
 <tr>
-<td>9</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Team #9</td>
 <td>TEAM_NAME_NOT_DECIDED_YET</td>
 <td>Daud Qaisar</td>
 <td>F2021376068</td>
@@ -304,7 +352,13 @@ Following table contains registered teams. It will keep growing as new teams are
 
 <!-- Team 10 -->
 <tr>
-<td>10</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Team #10</td>
 <td>Duo Group</td>
 <td>Muhammad Azan</td>
 <td>F2022332004</td>
@@ -318,7 +372,13 @@ Following table contains registered teams. It will keep growing as new teams are
 
 <!-- Team 11 -->
 <tr>
-<td>11</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Team #11</td>
 <td>Data Detective</td>
 <td>Dur e Sameen</td>
 <td>F2021376121</td>
