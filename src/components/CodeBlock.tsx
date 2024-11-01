@@ -33,7 +33,16 @@ const CodeBlock: React.FC<CodeBlockProps> = ({ language, value }) => {
           {copied ? 'Copied' : 'Copy'}
         </button>
       </CopyToClipboard>
-      <SyntaxHighlighter language={language} style={darcula} showLineNumbers>
+      <SyntaxHighlighter
+        language={language}
+        style={darcula}
+        showLineNumbers
+          customStyle={{
+              background: '#000',
+              borderRadius: '8px',
+              padding: '1rem',
+          }}
+        >
         {value}
       </SyntaxHighlighter>
     </div>

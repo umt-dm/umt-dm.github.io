@@ -8,6 +8,7 @@ import gfm from 'remark-gfm'
 import { Components } from 'react-markdown';
 
 import CodeBlock from './CodeBlock';
+import VideoPlayer from './VideoPlayer';
 
 interface CustomMarkdownProps {
   content: string;
@@ -180,10 +181,7 @@ const MarkdownRender: React.FC<CustomMarkdownProps> = ({ content }) => {
     
     video: (props: { src?: string; controls?: boolean; }) => (
       <Box sx={{ width: '100%', mb: 2 }}>
-        <video controls style={{ width: '100%', borderRadius: '8px' }}>
-          <source src={props.src} type="video/mp4" />
-          Your browser does not support the video tag.
-        </video>
+        <VideoPlayer src={props.src}/>
       </Box>
     ),
 
