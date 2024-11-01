@@ -6,28 +6,6 @@ import Image from 'next/image';
 import gfm from 'remark-gfm'
 import { Components } from 'react-markdown';
 
-// import { CustomUl, CustomOl, CustomLi } from '../lib/CustomLi';
-
-// const CustomList = ({ children }) => (
-//   <List sx={{ padding: 0, margin: '12px 0', listStyleType: 'disc', color: 'white' }}>
-//     {children}
-//   </List>
-// );
-
-// const CustomOrderedList = ({ children }) => (
-//   <List sx={{ padding: 0, margin: '12px 0', listStyleType: 'decimal', color: 'white' }}>
-//     {children}
-//   </List>
-// );
-
-// const CustomListItem = ({ children }) => (
-//   <ListItem sx={{ padding: 0, color: 'white' }}>
-//     <ListItemText primary={<Typography variant="body1" sx={{ margin: 0 }}>{children}</Typography>} />
-//   </ListItem>
-// );
-
-
-
 interface CustomMarkdownProps {
   content: string;
 }
@@ -197,6 +175,14 @@ const MarkdownRender: React.FC<CustomMarkdownProps> = ({ content }) => {
       </td>
     ),
     
+    video: (props: { src?: string; controls?: boolean; }) => (
+      <Box sx={{ width: '100%', mb: 2 }}>
+        <video controls style={{ width: '100%', borderRadius: '8px' }}>
+          <source src={props.src} type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+      </Box>
+    ),
     
   };
 
