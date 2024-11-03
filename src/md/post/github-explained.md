@@ -14,3 +14,9 @@ description: "Learn how to setup github accound, create repository and push your
 - Create GitHub Account
 - Create GitHub Repository
 - Clone and Push Repository 
+
+### Video Explaination
+<video src="/uploads/vid/github-setup.mp4" controls></video>
+
+You can <a href="/uploads/vid/github-setup.mp4" download>Download Video</a> if it is buffering slowly.
+We do not have much processing power on our free server.
