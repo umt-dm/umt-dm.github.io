@@ -2,6 +2,6 @@
 title: "#Announcements"
 ---
 
-# Announcements
+# Tag "Announcement"
 
-Everyone finalize your teams, So that we can start our journey to connect industry with academia with your highly valuable contribution. 
+Announcements will be added here.
