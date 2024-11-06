@@ -13,6 +13,10 @@ import Paper from '@mui/material/Paper';
 import { Chart } from 'react-chartjs-2';
 import 'chart.js/auto';
 
+import Modal from '@mui/material/Modal';
+import Box from '@mui/material/Box';
+import Button from '@mui/material/Button';
+
 interface CountData {
   valid: number;
   invalid: number;
@@ -30,17 +34,21 @@ interface TeamData {
   subDomains: number;
   categories: number;
   subCategories: number;
-  message?: string;
+  errors?: string[];
 }
 
 interface AnalysisData {
   timestamp: string;
   count: CountData;
   teams: TeamData[];
+  errorSummary: string[];
 }
 
 const AnalysisPage = () => {
   const [data, setData] = useState<AnalysisData | null>(null);
+  const [open, setOpen] = useState(false);
+  const handleOpen = () => setOpen(true);
+  const handleClose = () => setOpen(false);
 
   useEffect(() => {
     // Fetch the analysis data
@@ -170,6 +178,29 @@ const AnalysisPage = () => {
             <Chart type="doughnut" data={domainData} options={{ plugins: { legend: { position: 'top' } } }} />
           </Grid>
         </Grid>
+
+        <Typography variant="h6" sx={{ mt: 4 }}>
+          Errors Summary: {data.count.invalid} invalid entries, {data.errorSummary.length} issues found
+        </Typography>
+        <Button onClick={handleOpen} variant="contained" color="error">
+          View Error Details
+        </Button>
+
+        <Modal open={open} onClose={handleClose}>
+          <Box sx={{ width: '80%', margin: 'auto', mt: 5, p: 3, bgcolor: 'background.paper', boxShadow: 24, borderRadius: 2 }}>
+            <Typography variant="h5" gutterBottom>
+              Detailed Error Report
+            </Typography>
+            <ul>
+              {data.errorSummary.map((error, index) => (
+                <li key={index}>{error}</li>
+              ))}
+            </ul>
+            <Button onClick={handleClose} variant="contained" sx={{ mt: 2 }}>
+              Close
+            </Button>
+          </Box>
+        </Modal>
       </Container>
     </PageLayout>
   );

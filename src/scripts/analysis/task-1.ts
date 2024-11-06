@@ -51,12 +51,21 @@ const readJSONFile = (filePath: string) => {
 // 
 
 const process_team = (data: any, fileName: string) => {
-    // Check for required fields in the main structure
+    const errors: string[] = [];
+
+    // Check main structure for required fields
     if (!data || typeof data !== 'object' || !data.team_name || !data.members || !data.domains) {
         const missingFields = [];
         if (!data.team_name) missingFields.push("team_name");
         if (!data.members) missingFields.push("members");
         if (!data.domains) missingFields.push("domains");
+
+        errors.push(
+            gen_error(error_messages["structure_invalid"], {
+                file_name: fileName,
+                missing_fields: missingFields.join(", ")
+            })
+        );
 
         return {
             name: fileName,
@@ -66,20 +75,19 @@ const process_team = (data: any, fileName: string) => {
             subDomains: 0,
             categories: 0,
             subCategories: 0,
-            message: gen_error(error_messages["structure_invalid"], {
-                file_name: fileName,
-                missing_fields: missingFields.join(", ")
-            })
+            errors
         };
     }
 
     let primary = 0, subDomains = 0, categories = 0, subCategories = 0;
+    const definedDomains = new Set(data.domains.map((domain: any) => domain.name));
 
-    // Process and validate domains array
-    const processDomain = (domain: any) => {
+    // Process and validate each domain
+    const domainIssues = data.domains.map((domain: any) => {
         if (typeof domain !== 'object' || !domain.level || !domain.name) {
             return { valid: false, level: "unknown" };
         }
+
         switch (domain.level) {
             case "primary":
                 primary++;
@@ -96,29 +104,47 @@ const process_team = (data: any, fileName: string) => {
             default:
                 return { valid: false, level: domain.level };
         }
+
+        // Check if referenced domains in 'children' and 'related_to' exist in 'domains'
+        const missingReferences = [...(domain.children || []), ...(domain.related_to || [])].filter(
+            (ref: string) => !definedDomains.has(ref)
+        );
+
+        if (missingReferences.length > 0) {
+            errors.push(
+                gen_error(error_messages["missing_domain_references"], {
+                    team_name: data.team_name,
+                    missing_domains: missingReferences.join(", ")
+                })
+            );
+        }
+
         return { valid: true };
-    };
+    });
 
-    const domainIssues = data.domains.map(processDomain).filter(result => !result.valid);
-
-    // Validate structure of each member and accumulate issues if any
-    const invalidMembers = data.members.filter((member: any) => !member.id || !member.name).length;
-    const status = invalidMembers > 0 || domainIssues.length > 0 ? "invalid" : "valid";
-
-    let message = null;
-    if (invalidMembers > 0) {
-        message = gen_error(error_messages["member_invalid"], {
-            team_name: data.team_name,
-            member_errors: `${invalidMembers} members have missing id or name fields`
-        });
+    // Collect domain issues
+    const invalidDomainCount = domainIssues.filter(result => !result.valid).length;
+    if (invalidDomainCount > 0) {
+        errors.push(
+            gen_error(error_messages["domain_invalid"], {
+                team_name: data.team_name,
+                invalid_domains: `${invalidDomainCount} domains have invalid levels or structures`
+            })
+        );
     }
-    if (domainIssues.length > 0) {
-        const domainMessage = gen_error(error_messages["domain_invalid"], {
-            team_name: data.team_name,
-            invalid_domains: `${domainIssues.length} domains have invalid structures or levels`
-        });
-        message = message ? `${message}; ${domainMessage}` : domainMessage;
+
+    // Validate each member's structure
+    const invalidMemberCount = data.members.filter((member: any) => !member.id || !member.name).length;
+    if (invalidMemberCount > 0) {
+        errors.push(
+            gen_error(error_messages["member_invalid"], {
+                team_name: data.team_name,
+                member_errors: `${invalidMemberCount} members have missing id or name fields`
+            })
+        );
     }
+
+    const status = errors.length > 0 ? "invalid" : "valid";
 
     return {
         name: data.team_name,
@@ -128,7 +154,7 @@ const process_team = (data: any, fileName: string) => {
         subDomains,
         categories,
         subCategories,
-        ...(message && { message })
+        errors
     };
 };
 
@@ -140,6 +166,7 @@ const process_team = (data: any, fileName: string) => {
 const analyze_submissions = () => {
     const files = fs.readdirSync(submissions_path).filter((file: string) => file.endsWith('.json'));
     const teams: Array<Object> = [];
+    const errorSummary: string[] = [];
 
     let valid_count = 0, invalid_count = 0, primary_count = 0, subdomain_count = 0, categories_count = 0, subcategories_count = 0;
 
@@ -148,6 +175,7 @@ const analyze_submissions = () => {
         const data = readJSONFile(filePath);
 
         if (!data) {
+            const errorMsg = gen_error(error_messages["file_unreadable"], { file_name: file });
             teams.push({
                 name: file,
                 members: 0,
@@ -156,10 +184,9 @@ const analyze_submissions = () => {
                 subDomains: 0,
                 categories: 0,
                 subCategories: 0,
-                message: gen_error(error_messages["file_unreadable"], {
-                    file_name: file
-                })
+                errors: [errorMsg]
             });
+            errorSummary.push(errorMsg);
             invalid_count++;
             return;
         }
@@ -172,14 +199,16 @@ const analyze_submissions = () => {
             valid_count++;
         } else {
             invalid_count++;
+            errorSummary.push(...teamDetails.errors);
         }
+
         primary_count += teamDetails.primary;
         subdomain_count += teamDetails.subDomains;
         categories_count += teamDetails.categories;
         subcategories_count += teamDetails.subCategories;
     });
 
-    // Generate final output
+    // Generate final output with error summary
     const output = {
         timestamp: new Date().toISOString(),
         count: {
@@ -190,13 +219,15 @@ const analyze_submissions = () => {
             categories: categories_count,
             subCategories: subcategories_count,
         },
-        teams
+        teams,
+        errorSummary
     };
 
     // Write the output JSON file
     fs.writeFileSync(result_path, JSON.stringify(output, null, 2), 'utf-8');
     console.log(`Output written to ${result_path}`);
 };
+
 
 // Execute the main function
 analyze_submissions();
