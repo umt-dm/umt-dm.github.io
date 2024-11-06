@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import PageLayout from '../../layouts/PageLayout';
 import Container from '@mui/material/Container';
 import Grid from '@mui/material/Grid';
 import Typography from '@mui/material/Typography';
@@ -103,72 +104,74 @@ const AnalysisPage = () => {
   };
 
   return (
-    <Container maxWidth="lg" sx={{ my: 4 }}>
-      <Typography variant="h4" gutterBottom>
-        Task 1: Domains and Categories Analysis
-      </Typography>
-      <Typography variant="body1" color="textSecondary">
-        Analysis generated on: {new Date(data.timestamp).toLocaleString()}
-      </Typography>
+    <PageLayout>
+      <Container maxWidth="lg" sx={{ my: 4 }}>
+        <Typography variant="h4" gutterBottom>
+          Task 1: Domains and Categories Analysis
+        </Typography>
+        <Typography variant="body1" color="textSecondary">
+          Analysis generated on: {new Date(data.timestamp).toLocaleString()}
+        </Typography>
 
-      <Typography variant="h6" sx={{ mt: 4 }}>
-        Overview
-      </Typography>
-      <TableContainer component={Paper} sx={{ mb: 4, backgroundColor: '#333', color: '#fff' }}>
-        <Table>
-          <TableHead>
-            <TableRow>
-              <TableCell>Metric</TableCell>
-              <TableCell align="right">Count</TableCell>
-            </TableRow>
-          </TableHead>
-          <TableBody>
-            <TableRow>
-              <TableCell>Valid Teams</TableCell>
-              <TableCell align="right">{data.count.valid}</TableCell>
-            </TableRow>
-            <TableRow>
-              <TableCell>Invalid Teams</TableCell>
-              <TableCell align="right">{data.count.invalid}</TableCell>
-            </TableRow>
-            <TableRow>
-              <TableCell>Primary Domains</TableCell>
-              <TableCell align="right">{data.count.primary}</TableCell>
-            </TableRow>
-            <TableRow>
-              <TableCell>Sub-Domains</TableCell>
-              <TableCell align="right">{data.count.subDomains}</TableCell>
-            </TableRow>
-            <TableRow>
-              <TableCell>Categories</TableCell>
-              <TableCell align="right">{data.count.categories}</TableCell>
-            </TableRow>
-            <TableRow>
-              <TableCell>Sub-Categories</TableCell>
-              <TableCell align="right">{data.count.subCategories}</TableCell>
-            </TableRow>
-          </TableBody>
-        </Table>
-      </TableContainer>
+        <Typography variant="h6" sx={{ mt: 4 }}>
+          Overview
+        </Typography>
+        <TableContainer component={Paper} sx={{ mb: 4, backgroundColor: '#333', color: '#fff' }}>
+          <Table>
+            <TableHead>
+              <TableRow>
+                <TableCell>Metric</TableCell>
+                <TableCell align="right">Count</TableCell>
+              </TableRow>
+            </TableHead>
+            <TableBody>
+              <TableRow>
+                <TableCell>Valid Teams</TableCell>
+                <TableCell align="right">{data.count.valid}</TableCell>
+              </TableRow>
+              <TableRow>
+                <TableCell>Invalid Teams</TableCell>
+                <TableCell align="right">{data.count.invalid}</TableCell>
+              </TableRow>
+              <TableRow>
+                <TableCell>Primary Domains</TableCell>
+                <TableCell align="right">{data.count.primary}</TableCell>
+              </TableRow>
+              <TableRow>
+                <TableCell>Sub-Domains</TableCell>
+                <TableCell align="right">{data.count.subDomains}</TableCell>
+              </TableRow>
+              <TableRow>
+                <TableCell>Categories</TableCell>
+                <TableCell align="right">{data.count.categories}</TableCell>
+              </TableRow>
+              <TableRow>
+                <TableCell>Sub-Categories</TableCell>
+                <TableCell align="right">{data.count.subCategories}</TableCell>
+              </TableRow>
+            </TableBody>
+          </Table>
+        </TableContainer>
 
-      <Typography variant="h6" sx={{ mt: 4 }}>
-        Visualizations
-      </Typography>
-      <Grid container spacing={4}>
-        <Grid item xs={12} sm={6}>
-          <Chart type="pie" data={domainData} options={{ plugins: { legend: { position: 'top' } } }} />
+        <Typography variant="h6" sx={{ mt: 4 }}>
+          Visualizations
+        </Typography>
+        <Grid container spacing={4}>
+          <Grid item xs={12} sm={6}>
+            <Chart type="pie" data={domainData} options={{ plugins: { legend: { position: 'top' } } }} />
+          </Grid>
+          <Grid item xs={12} sm={6}>
+            <Chart type="pie" data={teamStatusData} options={{ plugins: { legend: { position: 'top' } } }} />
+          </Grid>
+          <Grid item xs={12} sm={6}>
+            <Chart type="bar" data={submissionsPerTeam} options={{ plugins: { legend: { position: 'top' } } }} />
+          </Grid>
+          <Grid item xs={12} sm={6}>
+            <Chart type="doughnut" data={domainData} options={{ plugins: { legend: { position: 'top' } } }} />
+          </Grid>
         </Grid>
-        <Grid item xs={12} sm={6}>
-          <Chart type="pie" data={teamStatusData} options={{ plugins: { legend: { position: 'top' } } }} />
-        </Grid>
-        <Grid item xs={12} sm={6}>
-          <Chart type="bar" data={submissionsPerTeam} options={{ plugins: { legend: { position: 'top' } } }} />
-        </Grid>
-        <Grid item xs={12} sm={6}>
-          <Chart type="doughnut" data={domainData} options={{ plugins: { legend: { position: 'top' } } }} />
-        </Grid>
-      </Grid>
-    </Container>
+      </Container>
+    </PageLayout>
   );
 };
 
