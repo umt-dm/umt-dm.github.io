@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: "Muhammad Ahmed"
-=======
 title: "Muhammad Ahmad"
->>>>>>> upstream/main
 ---
 
 # Muhammad Ahmed

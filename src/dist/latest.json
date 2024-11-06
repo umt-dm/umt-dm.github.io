@@ -1,5 +1,21 @@
 [
   {
+    "title": "Setup you GitHub",
+    "date": "2024-11-03",
+    "authors": [
+      {
+        "name": "M Ahmed.",
+        "avatar": "/assets/images/avatar/john-doe.jpg"
+      }
+    ],
+    "tags": [
+      "Announcement"
+    ],
+    "description": "Learn how to setup github accound, create repository and push your content.",
+    "slug": "github-explained",
+    "url": "/github-explained"
+  },
+  {
     "title": "JSON Submission Details",
     "date": "2024-11-01",
     "authors": [
