@@ -154,7 +154,7 @@ const AnalysisPage = () => {
         </TableContainer>
 
         <Typography variant="h6" sx={{ mt: 4 }}>
-          Visualizations
+          Stats
         </Typography>
         <Grid container spacing={4}>
           <Grid item xs={12} sm={6}>
