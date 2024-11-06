@@ -16,6 +16,7 @@ import 'chart.js/auto';
 import Modal from '@mui/material/Modal';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
+import Chip from '@mui/material/Chip';
 
 interface CountData {
   valid: number;
@@ -46,9 +47,10 @@ interface AnalysisData {
 
 const AnalysisPage = () => {
   const [data, setData] = useState<AnalysisData | null>(null);
-  const [open, setOpen] = useState(false);
-  const handleOpen = () => setOpen(true);
-  const handleClose = () => setOpen(false);
+  const [open, setOpen] = useState<{ teamName: string; errors: string[] } | null>(null);
+
+  const handleOpen = (teamName: string, errors: string[]) => setOpen({ teamName, errors });
+  const handleClose = () => setOpen(null);
 
   useEffect(() => {
     // Fetch the analysis data
@@ -162,6 +164,46 @@ const AnalysisPage = () => {
         </TableContainer>
 
         <Typography variant="h6" sx={{ mt: 4 }}>
+          Team Details
+        </Typography>
+        <TableContainer component={Paper} sx={{ mb: 4 }}>
+          <Table>
+            <TableHead>
+              <TableRow>
+                <TableCell>Team Name</TableCell>
+                <TableCell align="right">Members</TableCell>
+                <TableCell align="right">Primary</TableCell>
+                <TableCell align="right">Sub-Domains</TableCell>
+                <TableCell align="right">Categories</TableCell>
+                <TableCell align="right">Sub-Categories</TableCell>
+                <TableCell align="center">Validity</TableCell>
+              </TableRow>
+            </TableHead>
+            <TableBody>
+              {data.teams.map((team, index) => (
+                <TableRow key={index}>
+                  <TableCell>{team.name}</TableCell>
+                  <TableCell align="right">{team.members}</TableCell>
+                  <TableCell align="right">{team.primary}</TableCell>
+                  <TableCell align="right">{team.subDomains}</TableCell>
+                  <TableCell align="right">{team.categories}</TableCell>
+                  <TableCell align="right">{team.subCategories}</TableCell>
+                  <TableCell align="center">
+                    {team.status === 'valid' ? (
+                      <Chip label="Valid" color="success" />
+                    ) : (
+                      <Button variant="outlined" color="error" onClick={() => handleOpen(team.name, team.errors || [])}>
+                        View Errors
+                      </Button>
+                    )}
+                  </TableCell>
+                </TableRow>
+              ))}
+            </TableBody>
+          </Table>
+        </TableContainer>
+
+        <Typography variant="h6" sx={{ mt: 4 }}>
           Stats
         </Typography>
         <Grid container spacing={4}>
@@ -179,20 +221,13 @@ const AnalysisPage = () => {
           </Grid>
         </Grid>
 
-        <Typography variant="h6" sx={{ mt: 4 }}>
-          Errors Summary: {data.count.invalid} invalid entries, {data.errorSummary.length} issues found
-        </Typography>
-        <Button onClick={handleOpen} variant="contained" color="error">
-          View Error Details
-        </Button>
-
-        <Modal open={open} onClose={handleClose}>
-          <Box sx={{ width: '80%', margin: 'auto', mt: 5, p: 3, bgcolor: 'background.paper', boxShadow: 24, borderRadius: 2 }}>
+        <Modal open={!!open} onClose={handleClose}>
+          <Box sx={{ width: '80%', maxHeight: '80vh', overflowY: 'auto', margin: 'auto', mt: 5, p: 3, bgcolor: 'background.paper', boxShadow: 24, borderRadius: 2 }}>
             <Typography variant="h5" gutterBottom>
-              Detailed Error Report
+              Error Report for {open?.teamName}
             </Typography>
             <ul>
-              {data.errorSummary.map((error, index) => (
+              {open?.errors.map((error, index) => (
                 <li key={index}>{error}</li>
               ))}
             </ul>
