@@ -1,0 +1,992 @@
+{
+  "team_name": "Code Miners",
+  "members": [
+    {
+      "id": "F2021376111",
+      "name": "Abdullah Faisal"
+    },
+    {
+      "id": "F2021376026",
+      "name": "Ali Adil Waseem"
+    },
+    {
+      "id": "F2021376048",
+      "name": "M. Adam Khan"
+    },
+    {
+      "id": "F2022376029",
+      "name": "M. Ali Waseem"
+    },
+    {
+      "id": "F2022376062",
+      "name": "M. Umar Ayub"
+    }
+  ],
+  "domains": [
+    {
+      "name": "Architecture",
+      "level": "primary",
+      "aliases": [],
+      "related_to": [],
+      "children": ["Urban Studies and Planning", "Media Arts and Sciences", "Landscape Architecture", "History of Art", "Industrial Design"]
+    },
+    {
+        "name": "Urban Studies and Planning",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Media Arts and Sciences",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Landscape Architecture",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "History of Art",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Industrial Design",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+      "name": "Engineering",
+      "level": "primary",
+      "aliases": [],
+      "related_to": [],
+      "children": ["Biological Engineering", "Chemical Engineering", "Electrical Engineering", "Materials Science and Engineering", "Mechanical Engineering", "Medical Engineering and Science", "Nuclear Science and   Engineering", "Bioengineering", "Energy Resources Engineering", "Engineering Science", "Civil Engineering", "Aerospace Engineering", "Molecular Engineering", "Geoinformatics Engineering", "Environmental Engineering",   "Metallurgy & Materials Engineering", "Computer Engineering", "Mechatronics Engineering", "Earth Science and Engineering", "Energy, Fluid Mechanics and Turbomachinery", "Mechanics, Materials and Design", "Manufacturing   and Management", "Information Engineering"]
+    },
+    {
+        "name": "Biological Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Chemical Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Electrical Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Materials Science and Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Mechanical Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Medical Engineering and Science",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Nuclear Science and Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Bioengineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Energy Resources Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Engineering Science",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Civil Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Aerospace Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Molecular Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Geoinformatics Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Environmental Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Metallurgy & Materials Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Computer Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Mechatronics Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Earth Science and Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Energy, Fluid Mechanics and Turbomachinery",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Mechanics, Materials and Design",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Manufacturing and Management",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+        "name": "Information Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+    },
+    {
+      "name": "Aviation",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Engineering"],
+      "children": ["Aeronautics", "Astronautics", "Aerospace Engineering", "Aviation Management", "Aviation Safety Management"]
+    },
+    {
+      "name": "Aeronautics",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Aviation"],
+      "children": []
+    },
+    {
+      "name": "Astronautics",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Aviation"],
+      "children": []
+    },
+    {
+      "name": "Aerospace Engineering",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Aviation"],
+      "children": []
+    },
+    {
+      "name": "Aviation Management",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Aviation"],
+      "children": []
+    },
+    {
+      "name": "Aviation Safety Management",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Aviation"],
+      "children": []
+    },
+    {
+      "name": "Social Sciences",
+      "level": "primary",
+      "aliases": [],
+      "related_to": [],
+      "children": ["Anthropology", "Economics", "Political Science", "Psychology", "Sociology", "Education", "Social and Behavioral Sciences", "Public Administration", "Criminology", "Politics and International Studies", "Land Economy", "Law"]
+    },
+    {
+      "name": "Anthropology",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Social Sciences"],
+      "children": []
+    },
+    {
+      "name": "Economics",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Social Sciences"],
+      "children": []
+    },
+    {
+      "name": "Political Science",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Social Sciences"],
+      "children": []
+    },
+    {
+      "name": "Psychology",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Social Sciences"],
+      "children": []
+    },
+    {
+      "name": "Sociology",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Social Sciences"],
+      "children": []
+    },
+    {
+      "name": "Education",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Social Sciences"],
+      "children": []
+    },
+    {
+      "name": "Social and Behavioral Sciences",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Social Sciences"],
+      "children": []
+    },
+    {
+      "name": "Public Administration",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Social Sciences"],
+      "children": []
+    },
+    {
+      "name": "Criminology",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Social Sciences"],
+      "children": []
+    },
+    {
+      "name": "Politics and International Studies",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Social Sciences"],
+      "children": []
+    },
+    {
+      "name": "Land Economy",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Social Sciences"],
+      "children": []
+    },
+    {
+      "name": "Law",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Social Sciences"],
+      "children": []
+    },
+    {
+      "name": "Arts",
+      "level": "primary",
+      "aliases": [],
+      "related_to": [],
+      "children": ["Comparative Media Studies/Writing", "Theater and Performance Studies", "Media Arts and Design", "Comparative Literature and Creative Arts", "History of Art", "Music", "Visual Arts"]
+    },
+    {
+      "name": "Comparative Media Studies/Writing",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Arts"],
+      "children": []
+    },
+    {
+      "name": "Theater and Performance Studies",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Arts"],
+      "children": []
+    },
+    {
+      "name": "Media Arts and Design",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Arts"],
+      "children": []
+    },
+    {
+      "name": "Comparative Literature and Creative Arts",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Arts"],
+      "children": []
+    },
+    {
+      "name": "History of Art",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Arts"],
+      "children": []
+    },
+    {
+      "name": "Music",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Arts"],
+      "children": []
+    },
+    {
+      "name": "Visual Arts",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Arts"],
+      "children": []
+    },
+    {
+      "name": "Humanities",
+      "level": "primary",
+      "aliases": [],
+      "related_to": [],
+      "children": ["Global Studies and Languages", "History", "Linguistics", "Classics", "Communication", "East Asian Languages and Cultures", "French and Italian", "German Studies", "Philosophy", "Religious Studies", "Slavic Languages and Literatures", "Islamic Thought and Civilization", "English Language and Literature", "Comparative Literature", "Archaeology", "Divinity", "Modern and Medieval Languages and Linguistics"]
+    },
+    {
+      "name": "Global Studies and Languages",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Humanities"],
+      "children": []
+    },
+    {
+      "name": "History",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Humanities"],
+      "children": []
+    },
+    {
+      "name": "Linguistics",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Humanities"],
+      "children": []
+    },
+    {
+      "name": "Classics",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Humanities"],
+      "children": []
+    },
+    {
+      "name": "Communication",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Humanities"],
+      "children": []
+    },
+    {
+      "name": "East Asian Languages and Cultures",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Humanities"],
+      "children": []
+    },
+    {
+      "name": "French and Italian",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Humanities"],
+      "children": []
+    },
+    {
+      "name": "German Studies",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Humanities"],
+      "children": []
+    },
+    {
+      "name": "Philosophy",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Humanities"],
+      "children": []
+    },
+    {
+      "name": "Religious Studies",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Humanities"],
+      "children": []
+    },
+    {
+      "name": "Slavic Languages and Literatures",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Humanities"],
+      "children": []
+    },
+    {
+      "name": "Islamic Thought and Civilization",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Humanities"],
+      "children": []
+    },
+    {
+      "name": "English Language and Literature",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Humanities"],
+      "children": []
+    },
+    {
+      "name": "Comparative Literature",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Humanities"],
+      "children": []
+    },
+    {
+      "name": "Archaeology",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Humanities"],
+      "children": []
+    },
+    {
+      "name": "Divinity",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Humanities"],
+      "children": []
+    },
+    {
+      "name": "Modern and Medieval Languages and Linguistics",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Humanities"],
+      "children": []
+    },
+    {
+      "name": "Medical Sciences",
+      "level": "primary",
+      "aliases": [],
+      "related_to": [],
+      "children": ["Anesthesia", "Biochemistry", "Cancer Biology", "Clinical Medicine", "Genetics", "Health Policy", "Immunology", "Infectious Disease", "Neurology", "Neurosurgery", "Obstetrics and Gynecology", "Oncology", "Pathology", "Pediatrics", "Psychiatry", "Surgery"]
+    },
+    {
+      "name": "Anesthesia",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Medical Sciences"],
+      "children": []
+    },
+    {
+      "name": "Biochemistry",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Medical Sciences"],
+      "children": []
+    },
+    {
+      "name": "Cancer Biology",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Medical Sciences"],
+      "children": []
+    },
+    {
+      "name": "Clinical Medicine",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Medical Sciences"],
+      "children": []
+    },
+    {
+      "name": "Genetics",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Medical Sciences"],
+      "children": []
+    },
+    {
+      "name": "Health Policy",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Medical Sciences"],
+      "children": []
+    },
+    {
+      "name": "Immunology",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Medical Sciences"],
+      "children": []
+    },
+    {
+      "name": "Infectious Disease",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Medical Sciences"],
+      "children": []
+    },
+    {
+      "name": "Neurology",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Medical Sciences"],
+      "children": []
+    },
+    {
+      "name": "Neurosurgery",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Medical Sciences"],
+      "children": []
+    },
+    {
+      "name": "Obstetrics and Gynecology",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Medical Sciences"],
+      "children": []
+    },
+    {
+      "name": "Oncology",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Medical Sciences"],
+      "children": []
+    },
+    {
+      "name": "Pathology",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Medical Sciences"],
+      "children": []
+    },
+    {
+      "name": "Pediatrics",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Medical Sciences"],
+      "children": []
+    },
+    {
+      "name": "Psychiatry",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Medical Sciences"],
+      "children": []
+    },
+    {
+      "name": "Surgery",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Medical Sciences"],
+      "children": []
+    },
+    {
+      "name": "Business and Management",
+      "level": "primary",
+      "aliases": [],
+      "related_to": [],
+      "children": ["Accounting", "Business Administration", "Business Economics", "Operations Research", "Entrepreneurial Management", "General Management", "Technology and Operations Management", "Health Policy and Management", "Economics and Statistics", "Banking and Finance", "Information System", "Marketing", "Operations and Supply Chain", "Human Resource Management", "International Business", "Management and Entrepreneurship", "Management Science", "Tourism and Hospitality Management"]
+    },
+    {
+      "name": "Accounting",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": []
+    },
+    {
+      "name": "Business Administration",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": []
+    },
+    {
+      "name": "Business Economics",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": []
+    },
+    {
+      "name": "Operations Research",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": []
+    },
+    {
+      "name": "Entrepreneurial Management",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": []
+    },
+    {
+      "name": "General Management",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": []
+    },
+    {
+      "name": "Technology and Operations Management",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": []
+    },
+    {
+      "name": "Health Policy and Management",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": []
+    },
+    {
+      "name": "Economics and Statistics",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": []
+    },
+    {
+      "name": "Banking and Finance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": []
+    },
+    {
+      "name": "Information System",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": []
+    },
+    {
+      "name": "Marketing",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": []
+    },
+    {
+      "name": "Operations and Supply Chain",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": []
+    },
+    {
+      "name": "Human Resource Management",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": []
+    },
+    {
+      "name": "International Business",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": []
+    },
+    {
+      "name": "Management and Entrepreneurship",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": []
+    },
+    {
+      "name": "Management Science",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": []
+    },
+    {
+      "name": "Tourism and Hospitality Management",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": []
+    },
+    {
+      "name": "Computer and Information Sciences",
+      "level": "primary",
+      "aliases": ["IT"],
+      "related_to": [],
+      "children": ["Artificial Intelligence", "Data Science", "Information Systems", "Cyber Security", "Informatics and Systems"]
+    },{
+      "name": "Artificial Intelligence",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Computer and Information Sciences"],
+      "children": []
+    },
+    {
+      "name": "Data Science",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Computer and Information Sciences"],
+      "children": []
+    },
+    {
+      "name": "Information Systems",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Computer and Information Sciences"],
+      "children": []
+    },
+    {
+      "name": "Cyber Security",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Computer and Information Sciences"],
+      "children": []
+    },
+    {
+      "name": "Informatics and Systems",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Computer and Information Sciences"],
+      "children": []
+    },
+    {
+      "name": "Environmental Sciences",
+      "level": "primary",
+      "aliases": [],
+      "related_to": [],
+      "children": ["Environmental Science", "Climate Science", "Earth System Science", "Geography", "Geophysics", "Sustainable Development"]
+    },
+    {
+      "name": "Environmental Science",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Environmental Sciences"],
+      "children": []
+    },
+    {
+      "name": "Climate Science",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Environmental Sciences"],
+      "children": []
+    },
+    {
+      "name": "Earth System Science",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Environmental Sciences"],
+      "children": []
+    },
+    {
+      "name": "Geography",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Environmental Sciences"],
+      "children": []
+    },
+    {
+      "name": "Geophysics",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Environmental Sciences"],
+      "children": []
+    },
+    {
+      "name": "Sustainable Development",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Environmental Sciences"],
+      "children": []
+    },
+    {
+      "name": "Law and Policy",
+      "level": "primary",
+      "aliases": [],
+      "related_to": [],
+      "children": ["Law", "Policy Studies", "International Law", "Human Rights Law"]
+    },
+    {
+      "name": "Law",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Law and Policy"],
+      "children": []
+    },
+    {
+      "name": "Policy Studies",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Law and Policy"],
+      "children": []
+    },
+    {
+      "name": "International Law",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Law and Policy"],
+      "children": []
+    },
+    {
+      "name": "Human Rights Law",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Law and Policy"],
+      "children": []
+    },
+    {
+      "name": "Design and Textiles",
+      "level": "primary",
+      "aliases": [],
+      "related_to": [],
+      "children": ["Textile Design", "Fashion Design", "Interior Design", "Graphic Design"]
+    },
+    {
+      "name": "Textile Design",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Design and Textiles"],
+      "children": []
+    },
+    {
+      "name": "Fashion Design",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Design and Textiles"],
+      "children": []
+    },
+    {
+      "name": "Interior Design",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Design and Textiles"],
+      "children": []
+    },
+    {
+      "name": "Graphic Design",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Design and Textiles"],
+      "children": []
+    },
+    {
+      "name": "Commerce and Accountancy",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Business and Management"],
+      "children": ["Commerce", "Accounting and Finance", "Business Administration"]
+    },
+    {
+      "name": "Commerce",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Commerce and Accountancy"],
+      "children": []
+    },
+    {
+      "name": "Accounting and Finance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Commerce and Accountancy"],
+      "children": []
+    },
+    {
+      "name": "Business Administration",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Commerce and Accountancy"],
+      "children": []
+    }
+  ]
+}

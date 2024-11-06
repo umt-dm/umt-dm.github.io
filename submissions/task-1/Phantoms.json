@@ -1,0 +1,4247 @@
+{
+  "team_name": "Phantoms",
+  "members": [
+    {
+      "id": "F2021376059",
+      "name": "Minhal Awais"
+    },
+    {
+      "id": "F2021376058",
+      "name": "Syed Sarim"
+    },
+    {
+      "id": "F2021376068",
+      "name": "Daud Qaiser"
+    }
+  ],
+  "domains": [
+    {
+      "name": "Information Technology",
+      "level": "primary",
+      "aliases": ["IT", "Software Engineering"],
+      "related_to": ["Telecommunication", "Engineering"],
+      "children": ["Software Development", "Cybersecurity", "Artificial Intelligence"]
+    },
+    {
+      "name": "Software Development",
+      "level": "primary",
+      "aliases": ["Application Development"],
+      "related_to": ["Computer Science"],
+      "children": ["Web Development", "Mobile Development", "Desktop Development"]
+    },
+    {
+      "name": "Cybersecurity",
+      "level": "primary",
+      "aliases": ["Information Security", "IT Security"],
+      "related_to": ["Information Technology", "Risk Management"],
+      "children": ["Network Security", "Application Security", "Data Security"]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "level": "primary",
+      "aliases": ["AI", "Machine Intelligence"],
+      "related_to": ["Machine Learning", "Data Science"],
+      "children": ["Machine Learning", "Natural Language Processing", "Computer Vision"]
+    },
+    {
+      "name": "Telecommunication",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Information Technology"],
+      "children": ["Network Engineering", "Wireless Communication"]
+    },
+    {
+      "name": "Data Science",
+      "level": "primary",
+      "aliases": ["Data Analytics", "Data Analysis"],
+      "related_to": ["Artificial Intelligence", "Statistics"],
+      "children": ["Data Analysis", "Data Engineering", "Big Data"]
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "primary",
+      "aliases": ["Cloud Services"],
+      "related_to": ["Data Science", "Big Data"],
+      "children": ["IaaS", "PaaS", "SaaS"]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "sub-domain",
+      "aliases": ["ML"],
+      "related_to": ["Artificial Intelligence", "Data Science"],
+      "children": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning"]
+    },
+    {
+      "name": "Natural Language Processing",
+      "level": "sub-domain",
+      "aliases": ["NLP"],
+      "related_to": ["Artificial Intelligence"],
+      "children": ["Text Analysis", "Speech Recognition", "Chatbot Development"]
+    },
+    {
+      "name": "Computer Vision",
+      "level": "sub-domain",
+      "aliases": ["Image Recognition"],
+      "related_to": ["Artificial Intelligence", "Machine Learning"],
+      "children": ["Image Processing", "Video Analysis", "Facial Recognition"]
+    },
+    {
+      "name": "Network Engineering",
+      "level": "sub-domain",
+      "aliases": ["Networking"],
+      "related_to": ["Telecommunication", "Cybersecurity"],
+      "children": ["Network Design", "Network Security", "Network Administration"]
+    },
+    {
+      "name": "Web Development",
+      "level": "category",
+      "aliases": ["Frontend Development", "Backend Development"],
+      "related_to": ["Software Development"],
+      "children": ["Frontend Development", "Backend Development", "Full Stack Development"]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "sub-category",
+      "aliases": ["Client-side Development"],
+      "related_to": ["Web Development"],
+      "children": ["HTML Development", "CSS Development", "JavaScript Development"]
+    },
+    {
+      "name": "Backend Development",
+      "level": "sub-category",
+      "aliases": ["Server-side Development"],
+      "related_to": ["Web Development"],
+      "children": ["Node.js Development", "Python Development", "Java Development"]
+    },
+    {
+      "name": "Full Stack Development",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Frontend Development", "Backend Development"],
+      "children": []
+    },
+    {
+      "name": "Mobile Development",
+      "level": "category",
+      "aliases": ["App Development"],
+      "related_to": ["Software Development"],
+      "children": ["iOS Development", "Android Development", "Cross-Platform Development"]
+    },
+    {
+      "name": "iOS Development",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Mobile Development"],
+      "children": []
+    },
+    {
+      "name": "Android Development",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Mobile Development"],
+      "children": []
+    },
+    {
+      "name": "Cross-Platform Development",
+      "level": "sub-category",
+      "aliases": ["Hybrid App Development"],
+      "related_to": ["Mobile Development"],
+      "children": []
+    },
+    {
+      "name": "Desktop Development",
+      "level": "category",
+      "aliases": ["PC Software Development"],
+      "related_to": ["Software Development"],
+      "children": ["Windows Development", "macOS Development", "Linux Development"]
+    },
+    {
+      "name": "Windows Development",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Desktop Development"],
+      "children": []
+    },
+    {
+      "name": "macOS Development",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Desktop Development"],
+      "children": []
+    },
+    {
+      "name": "Linux Development",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Desktop Development"],
+      "children": []
+    },
+    {
+      "name": "Network Security",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Cybersecurity"],
+      "children": ["Firewall Management", "Intrusion Detection", "VPN Management"]
+    },
+    {
+      "name": "Application Security",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Cybersecurity"],
+      "children": ["Code Review", "Vulnerability Assessment", "Penetration Testing"]
+    },
+    {
+      "name": "Data Security",
+      "level": "sub-domain",
+      "aliases": ["Data Protection"],
+      "related_to": ["Cybersecurity"],
+      "children": ["Encryption", "Data Masking", "Access Control"]
+    },
+    {
+      "name": "Big Data",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Data Science", "Data Engineering"],
+      "children": ["Data Mining", "Data Processing", "Data Storage"]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "sub-domain",
+      "aliases": ["Data Analytics"],
+      "related_to": ["Data Science"],
+      "children": ["Statistical Analysis", "Predictive Analytics", "Data Visualization"]
+    },
+    {
+      "name": "Data Engineering",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Data Science", "Big Data"],
+      "children": ["ETL Processes", "Data Warehousing", "Data Modeling"]
+    },
+    {
+      "name": "Data Warehousing",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Data Engineering"],
+      "children": []
+    },
+    {
+      "name": "ETL Processes",
+      "level": "sub-category",
+      "aliases": ["Extract, Transform, Load"],
+      "related_to": ["Data Engineering"],
+      "children": []
+    },
+    {
+      "name": "Blockchain",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Cryptography", "Data Science"],
+      "children": ["Cryptocurrency", "Smart Contracts", "Distributed Ledger"]
+    },
+    {
+      "name": "Cryptocurrency",
+      "level": "sub-domain",
+      "aliases": ["Digital Currency"],
+      "related_to": ["Blockchain"],
+      "children": []
+    },
+    {
+      "name": "Smart Contracts",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Blockchain"],
+      "children": []
+    },
+    {
+      "name": "DevOps",
+      "level": "primary",
+      "aliases": ["Development Operations"],
+      "related_to": ["Software Development", "System Administration"],
+      "children": ["Continuous Integration", "Continuous Deployment", "Infrastructure as Code"]
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "sub-category",
+      "aliases": ["CI"],
+      "related_to": ["DevOps"],
+      "children": []
+    },
+    {
+      "name": "Continuous Deployment",
+      "level": "sub-category",
+      "aliases": ["CD"],
+      "related_to": ["DevOps"],
+      "children": []
+    },
+    {
+      "name": "Virtual Reality",
+      "level": "primary",
+      "aliases": ["VR"],
+      "related_to": ["Augmented Reality", "Gaming"],
+      "children": ["VR Development", "VR Design", "VR Hardware"]
+    },
+    {
+      "name": "Augmented Reality",
+      "level": "primary",
+      "aliases": ["AR"],
+      "related_to": ["Virtual Reality", "Gaming"],
+      "children": ["AR Development", "AR Design", "AR Hardware"]
+    },
+    {
+      "name": "Embedded Systems",
+      "level": "primary",
+      "aliases": ["Embedded Software"],
+      "related_to": ["Hardware Engineering", "Software Development"],
+      "children": ["Firmware Development", "Microcontroller Programming", "RTOS"]
+    },
+    {
+      "name": "Firmware Development",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Embedded Systems"],
+      "children": []
+    },
+    {
+      "name": "Automation",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["DevOps", "Software Development"],
+      "children": ["Robotic Process Automation", "Test Automation", "Industrial Automation"]
+    },
+    {
+      "name": "Test Automation",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Automation"],
+      "children": ["Selenium", "Appium", "Robot Framework"]
+    },
+    {
+      "name": "Industrial Automation",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Automation"],
+      "children": ["PLC Programming", "SCADA", "HMI Development"]
+    },
+    {
+      "name": "IT Management",
+      "level": "primary",
+      "aliases": ["IT Governance"],
+      "related_to": ["Information Technology", "Business Management"],
+      "children": ["IT Project Management", "IT Strategy", "IT Service Management"]
+    },
+    {
+      "name": "Robotic Process Automation",
+      "level": "sub-domain",
+      "aliases": ["RPA"],
+      "related_to": ["Automation"],
+      "children": ["UiPath", "Blue Prism", "Automation Anywhere"]
+    },
+    {
+      "name": "Digital Marketing",
+      "level": "primary",
+      "aliases": ["Online Marketing"],
+      "related_to": ["Marketing", "E-commerce"],
+      "children": ["Search Engine Optimization", "Content Marketing", "Social Media Marketing"]
+    },
+    {
+      "name": "Search Engine Optimization",
+      "level": "sub-domain",
+      "aliases": ["SEO"],
+      "related_to": ["Digital Marketing"],
+      "children": []
+    },
+    {
+      "name": "Quantum Computing",
+      "level": "primary",
+      "aliases": ["Quantum Information Science"],
+      "related_to": ["Physics", "Artificial Intelligence"],
+      "children": ["Quantum Algorithms", "Quantum Cryptography", "Quantum Simulation"]
+    },
+    {
+      "name": "Quantum Algorithms",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Quantum Computing"],
+      "children": []
+    },
+    {
+      "name": "Quantum Cryptography",
+      "level": "sub-domain",
+      "aliases": ["Quantum Key Distribution"],
+      "related_to": ["Quantum Computing", "Cryptography"],
+      "children": []
+    },
+    {
+      "name": "Human-Computer Interaction",
+      "level": "primary",
+      "aliases": ["HCI", "User Interaction"],
+      "related_to": ["Design", "Software Development"],
+      "children": ["Usability Testing", "User Interface Design", "User Experience Design"]
+    },
+    {
+      "name": "User Interface Design",
+      "level": "sub-category",
+      "aliases": ["UI Design"],
+      "related_to": ["Human-Computer Interaction"],
+      "children": []
+    },
+    {
+      "name": "User Experience Design",
+      "level": "sub-category",
+      "aliases": ["UX Design"],
+      "related_to": ["Human-Computer Interaction"],
+      "children": []
+    },
+    {
+      "name": "Usability Testing",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Human-Computer Interaction"],
+      "children": []
+    },
+    {
+      "name": "Data Visualization",
+      "level": "primary",
+      "aliases": ["Data Viz"],
+      "related_to": ["Data Science", "Statistics"],
+      "children": ["Interactive Data Visualization", "Dashboard Development", "Infographic Design"]
+    },
+    {
+      "name": "Interactive Data Visualization",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Data Visualization"],
+      "children": []
+    },
+    {
+      "name": "Infographic Design",
+      "level": "sub-category",
+      "aliases": ["Information Graphics"],
+      "related_to": ["Data Visualization"],
+      "children": []
+    },
+    {
+      "name": "Dashboard Development",
+      "level": "sub-category",
+      "aliases": ["BI Dashboard"],
+      "related_to": ["Data Visualization", "Business Intelligence"],
+      "children": []
+    },
+    {
+      "name": "Robotics",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Automation", "Engineering"],
+      "children": ["Robot Programming", "Robot Design", "Autonomous Systems"]
+    },
+    {
+      "name": "Robot Programming",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Robotics"],
+      "children": []
+    },
+    {
+      "name": "Robot Design",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Robotics"],
+      "children": []
+    },
+    {
+      "name": "Autonomous Systems",
+      "level": "sub-domain",
+      "aliases": ["Autonomous Machines"],
+      "related_to": ["Robotics", "Machine Learning"],
+      "children": ["Self-Driving Cars", "Autonomous Drones", "Automated Industrial Robots"]
+    },
+    {
+      "name": "Self-Driving Cars",
+      "level": "sub-category",
+      "aliases": ["Autonomous Vehicles"],
+      "related_to": ["Autonomous Systems"],
+      "children": []
+    },
+    {
+      "name": "Augmented Analytics",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Data Science", "Machine Learning"],
+      "children": ["Predictive Analytics", "Diagnostic Analytics", "Prescriptive Analytics"]
+    },
+    {
+      "name": "Predictive Analytics",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Augmented Analytics"],
+      "children": []
+    },
+    {
+      "name": "Diagnostic Analytics",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Augmented Analytics"],
+      "children": []
+    },
+    {
+      "name": "Prescriptive Analytics",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Augmented Analytics"],
+      "children": []
+    },
+    {
+      "name": "Cryptography",
+      "level": "primary",
+      "aliases": ["Encryption"],
+      "related_to": ["Cybersecurity"],
+      "children": ["Public Key Infrastructure", "Symmetric Cryptography", "Asymmetric Cryptography"]
+    },
+    {
+      "name": "Public Key Infrastructure",
+      "level": "sub-category",
+      "aliases": ["PKI"],
+      "related_to": ["Cryptography"],
+      "children": []
+    },
+    {
+      "name": "Symmetric Cryptography",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Cryptography"],
+      "children": []
+    },
+    {
+      "name": "Asymmetric Cryptography",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Cryptography"],
+      "children": []
+    },
+    {
+      "name": "Edge Computing",
+      "level": "primary",
+      "aliases": ["Fog Computing"],
+      "related_to": ["Cloud Computing", "IoT"],
+      "children": ["Edge AI", "Fog Networking"]
+    },
+    {
+      "name": "Edge AI",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Edge Computing"],
+      "children": []
+    },
+    {
+      "name": "Fog Networking",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Edge Computing"],
+      "children": []
+    },
+    {
+      "name": "IoT Security",
+      "level": "sub-domain",
+      "aliases": ["Internet of Things Security"],
+      "related_to": ["Cybersecurity", "IoT"],
+      "children": ["IoT Vulnerability Assessment", "IoT Data Protection", "IoT Identity Management"]
+    },
+    {
+      "name": "IoT Vulnerability Assessment",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["IoT Security"],
+      "children": []
+    },
+    {
+      "name": "Virtualization",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Cloud Computing", "Data Center Management"],
+      "children": ["Server Virtualization", "Storage Virtualization", "Desktop Virtualization"]
+    },
+    {
+      "name": "Server Virtualization",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Virtualization"],
+      "children": []
+    },
+    {
+      "name": "Storage Virtualization",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Virtualization"],
+      "children": []
+    },
+    {
+      "name": "Desktop Virtualization",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Virtualization"],
+      "children": []
+    },
+    {
+      "name": "Smart Cities",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Urban Planning", "IoT"],
+      "children": ["Smart Infrastructure", "Smart Transportation", "Smart Energy"]
+    },
+    {
+      "name": "Smart Infrastructure",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Smart Cities"],
+      "children": []
+    },
+    {
+      "name": "Smart Transportation",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Smart Cities"],
+      "children": []
+    },
+    {
+      "name": "Smart Energy",
+      "level": "sub-category",
+      "aliases": ["Smart Grid"],
+      "related_to": ["Smart Cities"],
+      "children": []
+    },
+    {
+      "name": "Speech Recognition",
+      "level": "sub-domain",
+      "aliases": ["Voice Recognition"],
+      "related_to": ["Natural Language Processing"],
+      "children": ["Speech-to-Text", "Voice Biometrics"]
+    },
+    {
+      "name": "Speech-to-Text",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Speech Recognition"],
+      "children": []
+    },
+    {
+      "name": "Voice Biometrics",
+      "level": "sub-category",
+      "aliases": ["Voice Authentication"],
+      "related_to": ["Speech Recognition"],
+      "children": []
+    },
+    {
+      "name": "Content Delivery Networks",
+      "level": "primary",
+      "aliases": ["CDN"],
+      "related_to": ["Web Development", "Networking"],
+      "children": ["Edge Locations", "CDN Caching"]
+    },
+    {
+      "name": "Edge Locations",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Content Delivery Networks"],
+      "children": []
+    },
+    {
+      "name": "CDN Caching",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Content Delivery Networks"],
+      "children": []
+    },
+    {
+      "name": "Embedded Machine Learning",
+      "level": "sub-domain",
+      "aliases": ["TinyML"],
+      "related_to": ["Machine Learning", "Embedded Systems"],
+      "children": []
+    },
+    {
+      "name": "Image Processing",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Computer Vision", "Artificial Intelligence"],
+      "children": ["Image Recognition", "Image Segmentation", "Image Filtering"]
+    },
+    {
+      "name": "Image Segmentation",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Image Processing"],
+      "children": []
+    },
+    {
+      "name": "Image Filtering",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Image Processing"],
+      "children": []
+    },
+    {
+      "name": "Content Personalization",
+      "level": "primary",
+      "aliases": ["Content Customization"],
+      "related_to": ["Machine Learning", "Marketing"],
+      "children": ["Recommendation Systems", "Dynamic Content Display"]
+    },
+    {
+      "name": "Recommendation Systems",
+      "level": "sub-category",
+      "aliases": ["Recommender Systems"],
+      "related_to": ["Content Personalization"],
+      "children": []
+    },
+    {
+      "name": "Dynamic Content Display",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Content Personalization"],
+      "children": []
+    },
+    {
+      "name": "Application Security",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Cybersecurity", "Software Development"],
+      "children": ["Static Application Security Testing", "Dynamic Application Security Testing", "Interactive Application Security Testing"]
+    },
+    {
+      "name": "Static Application Security Testing",
+      "level": "sub-category",
+      "aliases": ["SAST"],
+      "related_to": ["Application Security"],
+      "children": []
+    },
+    {
+      "name": "Dynamic Application Security Testing",
+      "level": "sub-category",
+      "aliases": ["DAST"],
+      "related_to": ["Application Security"],
+      "children": []
+    },
+    {
+      "name": "Interactive Application Security Testing",
+      "level": "sub-category",
+      "aliases": ["IAST"],
+      "related_to": ["Application Security"],
+      "children": []
+    },
+    {
+      "name": "Neuroinformatics",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Neuroscience", "Data Science"],
+      "children": ["Brain Imaging Analysis", "Cognitive Computing"]
+    },
+    {
+      "name": "Brain Imaging Analysis",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Neuroinformatics"],
+      "children": []
+    },
+    {
+      "name": "Cognitive Computing",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Neuroinformatics"],
+      "children": []
+    },
+    {
+      "name": "Civil Engineering",
+      "level": "primary",
+      "aliases": ["Structural Engineering"],
+      "related_to": ["Construction", "Urban Planning"],
+      "children": ["Structural Analysis", "Geotechnical Engineering", "Transportation Engineering"]
+    },
+    {
+      "name": "Structural Analysis",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Civil Engineering"],
+      "children": []
+    },
+    {
+      "name": "Geotechnical Engineering",
+      "level": "sub-category",
+      "aliases": ["Soil Mechanics"],
+      "related_to": ["Civil Engineering"],
+      "children": []
+    },
+    {
+      "name": "Transportation Engineering",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Civil Engineering"],
+      "children": []
+    },
+    {
+      "name": "Mechanical Engineering",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Physics", "Thermodynamics"],
+      "children": ["Fluid Mechanics", "Thermodynamics", "Machine Design"]
+    },
+    {
+      "name": "Fluid Mechanics",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Mechanical Engineering"],
+      "children": []
+    },
+    {
+      "name": "Machine Design",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Mechanical Engineering"],
+      "children": []
+    },
+    {
+      "name": "Electrical Engineering",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Electronics", "Energy Systems"],
+      "children": ["Power Systems", "Control Systems", "Electrical Machines"]
+    },
+    {
+      "name": "Power Systems",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Electrical Engineering"],
+      "children": []
+    },
+    {
+      "name": "Control Systems",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Electrical Engineering"],
+      "children": []
+    },
+    {
+      "name": "Aerospace Engineering",
+      "level": "primary",
+      "aliases": ["Aeronautical Engineering"],
+      "related_to": ["Physics", "Mechanical Engineering"],
+      "children": ["Aviation Engineering", "Spacecraft Design", "Propulsion Systems"]
+    },
+    {
+      "name": "Aviation Engineering",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Aerospace Engineering"],
+      "children": []
+    },
+    {
+      "name": "Spacecraft Design",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Aerospace Engineering"],
+      "children": []
+    },
+    {
+      "name": "Propulsion Systems",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Aerospace Engineering"],
+      "children": []
+    },
+    {
+      "name": "Chemical Engineering",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Chemistry", "Process Engineering"],
+      "children": ["Process Engineering", "Polymer Engineering", "Biochemical Engineering"]
+    },
+    {
+      "name": "Process Engineering",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Chemical Engineering"],
+      "children": []
+    },
+    {
+      "name": "Polymer Engineering",
+      "level": "sub-category",
+      "aliases": ["Polymer Science"],
+      "related_to": ["Chemical Engineering"],
+      "children": []
+    },
+    {
+      "name": "Biochemical Engineering",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Chemical Engineering", "Biotechnology"],
+      "children": []
+    },
+    {
+      "name": "Biomedical Engineering",
+      "level": "primary",
+      "aliases": ["Bioengineering"],
+      "related_to": ["Medicine", "Biotechnology"],
+      "children": ["Medical Device Design", "Bioinstrumentation", "Biomaterials"]
+    },
+    {
+      "name": "Medical Device Design",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Biomedical Engineering"],
+      "children": []
+    },
+    {
+      "name": "Bioinstrumentation",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Biomedical Engineering"],
+      "children": []
+    },
+    {
+      "name": "Biomaterials",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Biomedical Engineering"],
+      "children": []
+    },
+    {
+      "name": "Nuclear Engineering",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Physics", "Energy Systems"],
+      "children": ["Nuclear Reactor Design", "Radiation Protection", "Nuclear Waste Management"]
+    },
+    {
+      "name": "Nuclear Reactor Design",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Nuclear Engineering"],
+      "children": []
+    },
+    {
+      "name": "Radiation Protection",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Nuclear Engineering"],
+      "children": []
+    },
+    {
+      "name": "Nuclear Waste Management",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Nuclear Engineering"],
+      "children": []
+    },
+    {
+      "name": "Industrial Engineering",
+      "level": "primary",
+      "aliases": ["Manufacturing Engineering"],
+      "related_to": ["Operations Research", "Mechanical Engineering"],
+      "children": ["Quality Control", "Production Planning", "Supply Chain Engineering"]
+    },
+    {
+      "name": "Quality Control",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Industrial Engineering"],
+      "children": []
+    },
+    {
+      "name": "Production Planning",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Industrial Engineering"],
+      "children": []
+    },
+    {
+      "name": "Supply Chain Engineering",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Industrial Engineering"],
+      "children": []
+    },
+    {
+      "name": "Materials Science and Engineering",
+      "level": "primary",
+      "aliases": ["Materials Engineering"],
+      "related_to": ["Chemistry", "Physics"],
+      "children": ["Metallurgy", "Ceramic Engineering", "Composite Materials"]
+    },
+    {
+      "name": "Metallurgy",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Materials Science and Engineering"],
+      "children": []
+    },
+    {
+      "name": "Ceramic Engineering",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Materials Science and Engineering"],
+      "children": []
+    },
+    {
+      "name": "Composite Materials",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Materials Science and Engineering"],
+      "children": []
+    },
+    {
+      "name": "Environmental Engineering",
+      "level": "primary",
+      "aliases": ["Ecological Engineering"],
+      "related_to": ["Earth Sciences", "Civil Engineering"],
+      "children": ["Water Resources Engineering", "Air Quality Engineering", "Waste Management"]
+    },
+    {
+      "name": "Water Resources Engineering",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Environmental Engineering"],
+      "children": []
+    },
+    {
+      "name": "Air Quality Engineering",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Environmental Engineering"],
+      "children": []
+    },
+    {
+      "name": "Waste Management",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Environmental Engineering"],
+      "children": []
+    },
+    {
+      "name": "Marine Engineering",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Mechanical Engineering", "Naval Architecture"],
+      "children": ["Ship Design", "Offshore Engineering", "Underwater Acoustics"]
+    },
+    {
+      "name": "Ship Design",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Marine Engineering"],
+      "children": []
+    },
+    {
+      "name": "Offshore Engineering",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Marine Engineering"],
+      "children": []
+    },
+    {
+      "name": "Underwater Acoustics",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Marine Engineering"],
+      "children": []
+    },
+    {
+      "name": "Agricultural Engineering",
+      "level": "primary",
+      "aliases": ["Agro-engineering"],
+      "related_to": ["Biotechnology", "Environmental Engineering"],
+      "children": ["Farm Machinery Design", "Irrigation Systems", "Soil Engineering"]
+    },
+    {
+      "name": "Farm Machinery Design",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Agricultural Engineering"],
+      "children": []
+    },
+    {
+      "name": "Irrigation Systems",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Agricultural Engineering"],
+      "children": []
+    },
+    {
+      "name": "Soil Engineering",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Agricultural Engineering"],
+      "children": []
+    },
+    {
+      "name": "Robotics Engineering",
+      "level": "primary",
+      "aliases": ["Robotics"],
+      "related_to": ["Mechanical Engineering", "Computer Science"],
+      "children": ["Robot Design", "Robot Control Systems", "Autonomous Robots"]
+    },
+    {
+      "name": "Robot Design",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Robotics Engineering"],
+      "children": []
+    },
+    {
+      "name": "Robot Control Systems",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Robotics Engineering"],
+      "children": []
+    },
+    {
+      "name": "Autonomous Robots",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Robotics Engineering"],
+      "children": []
+    },
+    {
+      "name": "Mechatronics Engineering",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Mechanical Engineering", "Electrical Engineering"],
+      "children": ["Sensors and Actuators", "Control Systems", "Embedded Systems"]
+    },
+    {
+      "name": "Sensors and Actuators",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Mechatronics Engineering"],
+      "children": []
+    },
+    {
+      "name": "Automotive Engineering",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Mechanical Engineering", "Electrical Engineering"],
+      "children": ["Vehicle Design", "Automotive Electronics", "Electric Vehicle Engineering"]
+    },
+    {
+      "name": "Vehicle Design",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Automotive Engineering"],
+      "children": []
+    },
+    {
+      "name": "Automotive Electronics",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Automotive Engineering"],
+      "children": []
+    },
+    {
+      "name": "Electric Vehicle Engineering",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Automotive Engineering"],
+      "children": []
+    },
+    {
+      "name": "Petroleum Engineering",
+      "level": "primary",
+      "aliases": ["Oil and Gas Engineering"],
+      "related_to": ["Earth Sciences", "Chemical Engineering"],
+      "children": ["Reservoir Engineering", "Drilling Engineering", "Production Engineering"]
+    },
+    {
+      "name": "Reservoir Engineering",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Petroleum Engineering"],
+      "children": []
+    },
+    {
+      "name": "Drilling Engineering",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Petroleum Engineering"],
+      "children": []
+    },
+    {
+      "name": "Production Engineering",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Petroleum Engineering"],
+      "children": []
+    },
+    {
+      "name": "Mining Engineering",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Geology", "Environmental Engineering"],
+      "children": ["Mineral Exploration", "Mine Safety", "Mineral Processing"]
+    },
+    {
+      "name": "Mineral Exploration",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Mining Engineering"],
+      "children": []
+    },
+    {
+      "name": "Mine Safety",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Mining Engineering"],
+      "children": []
+    },
+    {
+      "name": "Mineral Processing",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Mining Engineering"],
+      "children": []
+    },
+    {
+      "name": "Textile Engineering",
+      "level": "primary",
+      "aliases": ["Fabric Engineering"],
+      "related_to": ["Materials Science", "Chemical Engineering"],
+      "children": ["Yarn Production", "Fabric Manufacturing", "Textile Chemistry"]
+    },
+    {
+      "name": "Yarn Production",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Textile Engineering"],
+      "children": []
+    },
+    {
+      "name": "Fabric Manufacturing",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Textile Engineering"],
+      "children": []
+    },
+    {
+      "name": "Textile Chemistry",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Textile Engineering"],
+      "children": []
+    },
+    {
+      "name": "Metallurgical Engineering",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Materials Science", "Chemical Engineering"],
+      "children": ["Extractive Metallurgy", "Physical Metallurgy", "Steel Production"]
+    },
+    {
+      "name": "Extractive Metallurgy",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Metallurgical Engineering"],
+      "children": []
+    },
+    {
+      "name": "Physical Metallurgy",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Metallurgical Engineering"],
+      "children": []
+    },
+    {
+      "name": "Steel Production",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Metallurgical Engineering"],
+      "children": []
+    },
+    {
+      "name": "Telecommunication Engineering",
+      "level": "primary",
+      "aliases": ["Telecom Engineering"],
+      "related_to": ["Electrical Engineering", "Information Technology"],
+      "children": ["Network Engineering", "Wireless Communication", "Signal Processing"]
+    },
+    {
+      "name": "Network Engineering",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Telecommunication Engineering"],
+      "children": []
+    },
+    {
+      "name": "Wireless Communication",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Telecommunication Engineering"],
+      "children": []
+    },
+    {
+      "name": "Signal Processing",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Telecommunication Engineering"],
+      "children": []
+    },
+    {
+      "name": "Painting",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Visual Arts"],
+      "children": ["Acrylic Painting", "Oil Painting", "Watercolor Painting"]
+    },
+    {
+      "name": "Sculpture",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Visual Arts"],
+      "children": ["Stone Sculpture", "Metal Sculpture", "Wood Sculpture"]
+    },
+    {
+      "name": "Drawing",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Visual Arts"],
+      "children": ["Pencil Drawing", "Charcoal Drawing", "Ink Drawing"]
+    },
+    {
+      "name": "Printmaking",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Visual Arts"],
+      "children": ["Etching", "Lithography", "Screen Printing"]
+    },
+    {
+      "name": "Photography",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Visual Arts"],
+      "children": ["Portrait Photography", "Landscape Photography", "Fashion Photography"]
+    },
+    {
+      "name": "Graphic Design",
+      "level": "primary",
+      "aliases": ["Visual Communication"],
+      "related_to": ["Digital Art"],
+      "children": ["Logo Design", "Poster Design", "Infographics"]
+    },
+    {
+      "name": "Digital Art",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Graphic Design"],
+      "children": ["Digital Illustration", "Concept Art", "3D Art"]
+    },
+    {
+      "name": "Illustration",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Graphic Design", "Digital Art"],
+      "children": ["Editorial Illustration", "Children's Book Illustration", "Scientific Illustration"]
+    },
+    {
+      "name": "Typography",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Graphic Design"],
+      "children": ["Font Design", "Hand Lettering", "Type Setting"]
+    },
+    {
+      "name": "Calligraphy",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Typography"],
+      "children": ["Traditional Calligraphy", "Modern Calligraphy"]
+    },
+    {
+      "name": "Ceramics",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Crafts"],
+      "children": ["Pottery", "Sculptural Ceramics"]
+    },
+    {
+      "name": "Textile Arts",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Crafts", "Fashion Design"],
+      "children": ["Weaving", "Embroidery", "Knitting"]
+    },
+    {
+      "name": "Glass Arts",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Crafts"],
+      "children": ["Stained Glass", "Glass Blowing"]
+    },
+    {
+      "name": "Metalworking",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Crafts"],
+      "children": ["Blacksmithing", "Jewelry Making"]
+    },
+    {
+      "name": "Jewelry Design",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Metalworking"],
+      "children": ["Goldsmithing", "Silver Jewelry"]
+    },
+    {
+      "name": "Woodworking",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Crafts"],
+      "children": ["Furniture Design", "Wood Sculpture"]
+    },
+    {
+      "name": "Installation Art",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Visual Arts"],
+      "children": []
+    },
+    {
+      "name": "Land Art",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Installation Art"],
+      "children": []
+    },
+    {
+      "name": "Architecture",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Visual Arts", "Design"],
+      "children": ["Interior Design", "Landscape Architecture"]
+    },
+    {
+      "name": "Interior Design",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Architecture"],
+      "children": []
+    },
+    {
+      "name": "Landscape Architecture",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Architecture"],
+      "children": []
+    },
+    {
+      "name": "Fashion Design",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Textile Arts"],
+      "children": ["Costume Design", "Apparel Design"]
+    },
+    {
+      "name": "Costume Design",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Fashion Design"],
+      "children": []
+    },
+    {
+      "name": "Set Design",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Theater Arts"],
+      "children": []
+    },
+    {
+      "name": "Stage Design",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Set Design"],
+      "children": []
+    },
+    {
+      "name": "Lighting Design",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Theater Arts"],
+      "children": []
+    },
+    {
+      "name": "Sound Design",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Theater Arts"],
+      "children": []
+    },
+    {
+      "name": "Theater Arts",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Performing Arts"],
+      "children": ["Acting", "Directing", "Set Design"]
+    },
+    {
+      "name": "Acting",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Theater Arts"],
+      "children": []
+    },
+    {
+      "name": "Directing",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Theater Arts"],
+      "children": []
+    },
+    {
+      "name": "Dance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Performing Arts"],
+      "children": ["Ballet", "Modern Dance", "Hip Hop Dance"]
+    },
+    {
+      "name": "Ballet",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Dance"],
+      "children": []
+    },
+    {
+      "name": "Modern Dance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Dance"],
+      "children": []
+    },
+    {
+      "name": "Hip Hop Dance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Dance"],
+      "children": []
+    },
+    {
+      "name": "Music Composition",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Music"],
+      "children": ["Orchestration"]
+    },
+    {
+      "name": "Orchestration",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Music Composition"],
+      "children": []
+    },
+    {
+      "name": "Conducting",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Music"],
+      "children": []
+    },
+    {
+      "name": "Vocal Performance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Music"],
+      "children": []
+    },
+    {
+      "name": "Instrumental Performance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Music"],
+      "children": []
+    },
+    {
+      "name": "Opera",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Music", "Theater Arts"],
+      "children": []
+    },
+    {
+      "name": "Musical Theater",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Theater Arts", "Music"],
+      "children": []
+    },
+    {
+      "name": "Film Production",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Visual Arts"],
+      "children": ["Film Directing", "Cinematography"]
+    },
+    {
+      "name": "Film Directing",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Film Production"],
+      "children": []
+    },
+    {
+      "name": "Screenwriting",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Film Production"],
+      "children": []
+    },
+    {
+      "name": "Cinematography",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Film Production"],
+      "children": []
+    },
+    {
+      "name": "Video Editing",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Film Production"],
+      "children": []
+    },
+    {
+      "name": "Animation",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Digital Art"],
+      "children": ["3D Animation", "2D Animation"]
+    },
+    {
+      "name": "3D Modeling",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Animation"],
+      "children": []
+    },
+    {
+      "name": "Virtual Reality Art",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Digital Art"],
+      "children": []
+    },
+    {
+      "name": "Augmented Reality Art",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Digital Art"],
+      "children": []
+    },
+    {
+      "name": "Game Design",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Digital Art"],
+      "children": []
+    },
+    {
+      "name": "Game Art",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Game Design"],
+      "children": []
+    },
+    {
+      "name": "Comic Book Art",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Illustration"],
+      "children": []
+    },
+    {
+      "name": "Storyboarding",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Animation", "Film Production"],
+      "children": []
+    },
+    {
+      "name": "Cartooning",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Illustration"],
+      "children": []
+    },
+    {
+      "name": "Caricature",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Cartooning"],
+      "children": []
+    },
+    {
+      "name": "Graffiti Art",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Street Art"],
+      "children": []
+    },
+    {
+      "name": "Street Art",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Graffiti Art"],
+      "children": []
+    },
+    {
+      "name": "Tattoo Art",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Body Art"],
+      "children": []
+    },
+    {
+      "name": "Mural Painting",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Street Art", "Painting"],
+      "children": []
+    },
+    {
+      "name": "Mixed Media Art",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Visual Arts"],
+      "children": []
+    },
+    {
+      "name": "Performance Art",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Performing Arts"],
+      "children": []
+    },
+    {
+      "name": "Conceptual Art",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Modern Art"],
+      "children": []
+    },
+    {
+      "name": "Experimental Art",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Modern Art"],
+      "children": []
+    },
+    {
+      "name": "Public Art",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Installation Art"],
+      "children": []
+    },
+    {
+      "name": "Art History",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Cultural Studies"],
+      "children": []
+    },
+    {
+      "name": "Art Criticism",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Art History"],
+      "children": []
+    },
+    {
+      "name": "Art Curation",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Museum Studies"],
+      "children": []
+    },
+    {
+      "name": "Art Therapy",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Psychology"],
+      "children": []
+    },
+    {
+      "name": "Art Education",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Education"],
+      "children": []
+    },
+    {
+      "name": "Literary Arts",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Writing"],
+      "children": ["Poetry", "Fiction", "Nonfiction"]
+    },
+    {
+      "name": "Poetry",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Literary Arts"],
+      "children": []
+    },
+    {
+      "name": "Fiction Writing",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Literary Arts"],
+      "children": ["Short Stories", "Novels"]
+    },
+    {
+      "name": "Nonfiction Writing",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Literary Arts"],
+      "children": ["Memoir", "Biography"]
+    },
+    {
+      "name": "Screenplay Writing",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Film Production"],
+      "children": []
+    },
+    {
+      "name": "Playwriting",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Theater Arts"],
+      "children": []
+    },
+    {
+      "name": "Journalism",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Writing"],
+      "children": ["Investigative Journalism", "Photojournalism"]
+    },
+    {
+      "name": "Memoir Writing",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Nonfiction Writing"],
+      "children": []
+    },
+    {
+      "name": "Creative Nonfiction",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Nonfiction Writing"],
+      "children": []
+    },
+    {
+      "name": "Historical Fiction",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Fiction Writing"],
+      "children": []
+    },
+    {
+      "name": "Science Fiction and Fantasy Writing",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Fiction Writing"],
+      "children": []
+    },
+    {
+      "name": "Children’s Literature",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Fiction Writing"],
+      "children": []
+    },
+    {
+      "name": "Young Adult Literature",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Fiction Writing"],
+      "children": []
+    },
+    {
+      "name": "Translation Studies",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Literary Arts"],
+      "children": []
+    },
+    {
+      "name": "Cultural Studies",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Social Sciences"],
+      "children": []
+    },
+    {
+      "name": "Art Conservation",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Museum Studies"],
+      "children": []
+    },
+    {
+      "name": "Museum Studies",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Art History"],
+      "children": []
+    },
+    {
+      "name": "Fashion Illustration",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Fashion Design"],
+      "children": []
+    },
+    {
+      "name": "Editorial Design",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Graphic Design"],
+      "children": []
+    },
+    {
+      "name": "Bookbinding",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Literary Arts"],
+      "children": []
+    },
+    {
+      "name": "Art Restoration",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Art Conservation"],
+      "children": []
+    },
+    {
+      "name": "Art Installation Management",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Installation Art"],
+      "children": []
+    },
+    {
+      "name": "Print Media Design",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Graphic Design"],
+      "children": []
+    },
+    {
+      "name": "Visual Communication",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Graphic Design"],
+      "children": []
+    },
+    {
+      "name": "Advertising Design",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Graphic Design"],
+      "children": []
+    },
+    {
+      "name": "Branding and Identity Design",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Graphic Design"],
+      "children": []
+    },
+    {
+      "name": "Business Management",
+      "level": "primary",
+      "aliases": ["Management", "Business Administration"],
+      "related_to": ["Leadership", "Operations"],
+      "children": ["Strategic Management", "Operations Management", "Project Management"]
+    },
+    {
+      "name": "Strategic Management",
+      "level": "sub-domain",
+      "aliases": ["Business Strategy"],
+      "related_to": ["Leadership"],
+      "children": ["Corporate Strategy", "Competitive Strategy", "Business Development"]
+    },
+    {
+      "name": "Corporate Strategy",
+      "level": "category",
+      "aliases": ["Corporate Planning"],
+      "related_to": ["Strategic Management"],
+      "children": []
+    },
+    {
+      "name": "Operations Management",
+      "level": "sub-domain",
+      "aliases": ["Operations"],
+      "related_to": ["Supply Chain Management"],
+      "children": ["Supply Chain", "Logistics", "Quality Management"]
+    },
+    {
+      "name": "Supply Chain",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Logistics"],
+      "children": []
+    },
+    {
+      "name": "Project Management",
+      "level": "sub-domain",
+      "aliases": ["PM"],
+      "related_to": ["Operations"],
+      "children": ["Agile Management", "Waterfall Project Management", "Risk Management"]
+    },
+    {
+      "name": "Finance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Economics", "Accounting"],
+      "children": ["Corporate Finance", "Personal Finance", "Investment Banking", "Financial Analysis"]
+    },
+    {
+      "name": "Corporate Finance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Finance"],
+      "children": ["Financial Planning", "Capital Budgeting", "Treasury Management"]
+    },
+    {
+      "name": "Financial Planning",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Investment"],
+      "children": []
+    },
+    {
+      "name": "Marketing",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Sales", "Consumer Behavior"],
+      "children": ["Digital Marketing", "Brand Management", "Market Research", "Product Marketing"]
+    },
+    {
+      "name": "Digital Marketing",
+      "level": "sub-domain",
+      "aliases": ["Online Marketing"],
+      "related_to": ["E-commerce"],
+      "children": ["Social Media Marketing", "Content Marketing", "Email Marketing", "SEO"]
+    },
+    {
+      "name": "Social Media Marketing",
+      "level": "category",
+      "aliases": ["SMM"],
+      "related_to": ["Digital Marketing"],
+      "children": []
+    },
+    {
+      "name": "Human Resources",
+      "level": "primary",
+      "aliases": ["HR", "Personnel Management"],
+      "related_to": ["Business Administration"],
+      "children": ["Recruitment", "Training and Development", "Performance Management"]
+    },
+    {
+      "name": "Recruitment",
+      "level": "sub-domain",
+      "aliases": ["Hiring"],
+      "related_to": ["HR"],
+      "children": ["Talent Acquisition", "Onboarding", "Employer Branding"]
+    },
+    {
+      "name": "Accounting",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Finance", "Taxation"],
+      "children": ["Financial Accounting", "Management Accounting", "Tax Accounting"]
+    },
+    {
+      "name": "Financial Accounting",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Finance"],
+      "children": ["Auditing", "Reporting", "Budgeting"]
+    },
+    {
+      "name": "Auditing",
+      "level": "category",
+      "aliases": ["Internal Auditing"],
+      "related_to": ["Financial Accounting"],
+      "children": []
+    },
+    {
+      "name": "Sales",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Marketing", "Customer Relations"],
+      "children": ["B2B Sales", "B2C Sales", "Sales Operations"]
+    },
+    {
+      "name": "B2B Sales",
+      "level": "sub-domain",
+      "aliases": ["Business-to-Business Sales"],
+      "related_to": ["Sales"],
+      "children": ["Lead Generation", "Account Management"]
+    },
+    {
+      "name": "Technology",
+      "level": "primary",
+      "aliases": ["IT"],
+      "related_to": ["Business Innovation", "Digital Transformation"],
+      "children": ["Information Systems", "IT Management", "Data Management"]
+    },
+    {
+      "name": "Information Systems",
+      "level": "sub-domain",
+      "aliases": ["IS"],
+      "related_to": ["Technology"],
+      "children": ["ERP", "CRM"]
+    },
+    {
+      "name": "ERP",
+      "level": "category",
+      "aliases": ["Enterprise Resource Planning"],
+      "related_to": ["Information Systems"],
+      "children": []
+    },
+    {
+      "name": "Data Management",
+      "level": "sub-domain",
+      "aliases": ["Data Governance"],
+      "related_to": ["Information Systems"],
+      "children": ["Data Analytics", "Data Warehousing"]
+    },
+    {
+      "name": "Entrepreneurship",
+      "level": "primary",
+      "aliases": ["Startups"],
+      "related_to": ["Business Development"],
+      "children": ["Venture Capital", "Startup Management", "Business Planning"]
+    },
+    {
+      "name": "Venture Capital",
+      "level": "sub-domain",
+      "aliases": ["VC"],
+      "related_to": ["Entrepreneurship", "Investment"],
+      "children": []
+    },
+    {
+      "name": "Economics",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Finance"],
+      "children": ["Microeconomics", "Macroeconomics", "Behavioral Economics"]
+    },
+    {
+      "name": "Macroeconomics",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Economics"],
+      "children": ["Fiscal Policy", "Monetary Policy"]
+    },
+    {
+      "name": "Ethics",
+      "level": "primary",
+      "aliases": ["Corporate Ethics"],
+      "related_to": ["Corporate Social Responsibility"],
+      "children": ["Business Ethics", "Corporate Governance"]
+    },
+    {
+      "name": "Corporate Governance",
+      "level": "sub-domain",
+      "aliases": ["Governance"],
+      "related_to": ["Management"],
+      "children": []
+    },
+    {
+      "name": "Legal Compliance",
+      "level": "primary",
+      "aliases": ["Compliance"],
+      "related_to": ["Risk Management"],
+      "children": ["Regulatory Compliance", "Contract Management", "Intellectual Property"]
+    },
+    {
+      "name": "Risk Management",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Finance", "Legal Compliance"],
+      "children": ["Enterprise Risk Management", "Operational Risk", "Financial Risk"]
+    },
+    {
+      "name": "Customer Service",
+      "level": "primary",
+      "aliases": ["Customer Relations"],
+      "related_to": ["Sales", "Marketing"],
+      "children": ["Customer Support", "Customer Success", "Service Quality"]
+    },
+    {
+      "name": "Supply Chain Management",
+      "level": "primary",
+      "aliases": ["SCM"],
+      "related_to": ["Logistics", "Operations Management"],
+      "children": ["Procurement", "Inventory Management", "Warehouse Management"]
+    },
+    {
+      "name": "Logistics",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Supply Chain"],
+      "children": ["Shipping", "Freight Management"]
+    },
+    {
+      "name": "Corporate Social Responsibility",
+      "level": "primary",
+      "aliases": ["CSR"],
+      "related_to": ["Ethics"],
+      "children": ["Environmental Sustainability", "Social Impact"]
+    },
+    {
+      "name": "General Medicine",
+      "level": "primary",
+      "aliases": ["Internal Medicine"],
+      "related_to": ["Primary Care", "Diagnostics"],
+      "children": ["Cardiology", "Gastroenterology", "Endocrinology"]
+    },
+    {
+      "name": "Cardiology",
+      "level": "sub-domain",
+      "aliases": ["Heart Medicine"],
+      "related_to": ["Pulmonology"],
+      "children": ["Interventional Cardiology", "Cardiac Electrophysiology", "Pediatric Cardiology"]
+    },
+    {
+      "name": "Interventional Cardiology",
+      "level": "category",
+      "aliases": ["Cardiac Intervention"],
+      "related_to": ["Cardiology"],
+      "children": []
+    },
+    {
+      "name": "Pediatrics",
+      "level": "primary",
+      "aliases": ["Child Health"],
+      "related_to": ["General Medicine"],
+      "children": ["Neonatology", "Pediatric Oncology", "Pediatric Cardiology"]
+    },
+    {
+      "name": "Neonatology",
+      "level": "sub-domain",
+      "aliases": ["Newborn Medicine"],
+      "related_to": ["Pediatrics"],
+      "children": []
+    },
+    {
+      "name": "Surgery",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Anesthesiology", "Emergency Medicine"],
+      "children": ["General Surgery", "Orthopedic Surgery", "Neurosurgery"]
+    },
+    {
+      "name": "Orthopedic Surgery",
+      "level": "sub-domain",
+      "aliases": ["Orthopedics"],
+      "related_to": ["Surgery"],
+      "children": ["Sports Medicine", "Joint Replacement"]
+    },
+    {
+      "name": "Sports Medicine",
+      "level": "category",
+      "aliases": ["Athletic Medicine"],
+      "related_to": ["Orthopedic Surgery"],
+      "children": []
+    },
+    {
+      "name": "Psychiatry",
+      "level": "primary",
+      "aliases": ["Mental Health"],
+      "related_to": ["Neurology"],
+      "children": ["Child Psychiatry", "Addiction Psychiatry", "Forensic Psychiatry"]
+    },
+    {
+      "name": "Addiction Psychiatry",
+      "level": "sub-domain",
+      "aliases": ["Substance Use Psychiatry"],
+      "related_to": ["Psychiatry"],
+      "children": []
+    },
+    {
+      "name": "Neurology",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Psychiatry"],
+      "children": ["Neurophysiology", "Neuroimmunology", "Stroke Medicine"]
+    },
+    {
+      "name": "Neurophysiology",
+      "level": "sub-domain",
+      "aliases": ["Brain Function"],
+      "related_to": ["Neurology"],
+      "children": ["EEG", "EMG"]
+    },
+    {
+      "name": "Radiology",
+      "level": "primary",
+      "aliases": ["Imaging"],
+      "related_to": ["Diagnostics"],
+      "children": ["Diagnostic Radiology", "Interventional Radiology", "Pediatric Radiology"]
+    },
+    {
+      "name": "Diagnostic Radiology",
+      "level": "sub-domain",
+      "aliases": ["Imaging Diagnosis"],
+      "related_to": ["Radiology"],
+      "children": ["MRI", "CT", "Ultrasound"]
+    },
+    {
+      "name": "Oncology",
+      "level": "primary",
+      "aliases": ["Cancer Medicine"],
+      "related_to": ["Hematology"],
+      "children": ["Medical Oncology", "Radiation Oncology", "Pediatric Oncology"]
+    },
+    {
+      "name": "Radiation Oncology",
+      "level": "sub-domain",
+      "aliases": ["Radiotherapy"],
+      "related_to": ["Oncology"],
+      "children": ["Brachytherapy", "External Beam Radiotherapy"]
+    },
+    {
+      "name": "Dermatology",
+      "level": "primary",
+      "aliases": ["Skin Medicine"],
+      "related_to": ["Allergy and Immunology"],
+      "children": ["Cosmetic Dermatology", "Pediatric Dermatology", "Dermatopathology"]
+    },
+    {
+      "name": "Cosmetic Dermatology",
+      "level": "sub-domain",
+      "aliases": ["Aesthetic Dermatology"],
+      "related_to": ["Dermatology"],
+      "children": []
+    },
+    {
+      "name": "Ophthalmology",
+      "level": "primary",
+      "aliases": ["Eye Medicine"],
+      "related_to": ["Optometry"],
+      "children": ["Retina Specialist", "Cornea Specialist", "Glaucoma Specialist"]
+    },
+    {
+      "name": "Retina Specialist",
+      "level": "sub-domain",
+      "aliases": ["Retina Surgery"],
+      "related_to": ["Ophthalmology"],
+      "children": []
+    },
+    {
+      "name": "Anesthesiology",
+      "level": "primary",
+      "aliases": ["Anesthesia"],
+      "related_to": ["Surgery"],
+      "children": ["Pain Medicine", "Critical Care Anesthesiology", "Pediatric Anesthesiology"]
+    },
+    {
+      "name": "Pain Medicine",
+      "level": "sub-domain",
+      "aliases": ["Pain Management"],
+      "related_to": ["Anesthesiology"],
+      "children": []
+    },
+    {
+      "name": "Emergency Medicine",
+      "level": "primary",
+      "aliases": ["Emergency Care"],
+      "related_to": ["Trauma"],
+      "children": ["Pediatric Emergency Medicine", "Toxicology", "Disaster Medicine"]
+    },
+    {
+      "name": "Family Medicine",
+      "level": "primary",
+      "aliases": ["General Practice"],
+      "related_to": ["Primary Care"],
+      "children": ["Preventive Medicine", "Geriatrics", "Adolescent Medicine"]
+    },
+    {
+      "name": "Preventive Medicine",
+      "level": "sub-domain",
+      "aliases": ["Preventative Health"],
+      "related_to": ["Public Health"],
+      "children": []
+    },
+    {
+      "name": "Infectious Diseases",
+      "level": "primary",
+      "aliases": ["ID"],
+      "related_to": ["Public Health"],
+      "children": ["Virology", "Bacteriology", "Epidemiology"]
+    },
+    {
+      "name": "Virology",
+      "level": "sub-domain",
+      "aliases": ["Virus Studies"],
+      "related_to": ["Infectious Diseases"],
+      "children": []
+    },
+    {
+      "name": "Obstetrics and Gynecology",
+      "level": "primary",
+      "aliases": ["OB-GYN"],
+      "related_to": ["Reproductive Health"],
+      "children": ["Maternal-Fetal Medicine", "Reproductive Endocrinology", "Gynecologic Oncology"]
+    },
+    {
+      "name": "Maternal-Fetal Medicine",
+      "level": "sub-domain",
+      "aliases": ["Perinatology"],
+      "related_to": ["Obstetrics"],
+      "children": []
+    },
+    {
+      "name": "Pathology",
+      "level": "primary",
+      "aliases": ["Laboratory Medicine"],
+      "related_to": ["Diagnostics"],
+      "children": ["Anatomic Pathology", "Clinical Pathology", "Forensic Pathology"]
+    },
+    {
+      "name": "Clinical Pathology",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Pathology"],
+      "children": ["Hematopathology", "Microbiology"]
+    },
+    {
+      "name": "Pharmacology",
+      "level": "primary",
+      "aliases": ["Drug Studies"],
+      "related_to": ["Toxicology"],
+      "children": ["Clinical Pharmacology", "Toxicology", "Pharmaceutical Research"]
+    },
+    {
+      "name": "Clinical Pharmacology",
+      "level": "sub-domain",
+      "aliases": ["Clinical Drugs"],
+      "related_to": ["Pharmacology"],
+      "children": []
+    },
+    {
+      "name": "Rehabilitation Medicine",
+      "level": "primary",
+      "aliases": ["Physical Medicine"],
+      "related_to": ["Orthopedics"],
+      "children": ["Physical Therapy", "Occupational Therapy", "Speech Therapy"]
+    },
+    {
+      "name": "Physical Therapy",
+      "level": "sub-domain",
+      "aliases": ["Physiotherapy"],
+      "related_to": ["Rehabilitation"],
+      "children": []
+    },
+    {
+      "name": "Public Health",
+      "level": "primary",
+      "aliases": ["Community Health"],
+      "related_to": ["Preventive Medicine"],
+      "children": ["Epidemiology", "Biostatistics", "Health Education"]
+    },
+    {
+      "name": "Epidemiology",
+      "level": "sub-domain",
+      "aliases": ["Disease Studies"],
+      "related_to": ["Public Health"],
+      "children": []
+    },
+    {
+      "name": "Genetics",
+      "level": "primary",
+      "aliases": ["Medical Genetics"],
+      "related_to": ["Pediatrics"],
+      "children": ["Clinical Genetics", "Genetic Counseling", "Pharmacogenomics"]
+    },
+    {
+      "name": "Genetic Counseling",
+      "level": "sub-domain",
+      "aliases": ["Genetic Support"],
+      "related_to": ["Genetics"],
+      "children": []
+    },
+    {
+      "name": "Genomic Medicine",
+      "level": "primary",
+      "aliases": ["Genomics"],
+      "related_to": ["Genetics", "Precision Medicine"],
+      "children": ["Pharmacogenomics", "Epigenetics", "Cancer Genomics"]
+    },
+    {
+      "name": "Pharmacogenomics",
+      "level": "sub-domain",
+      "aliases": ["Drug Genomics"],
+      "related_to": ["Genomic Medicine", "Pharmacology"],
+      "children": []
+    },
+    {
+      "name": "Precision Medicine",
+      "level": "primary",
+      "aliases": ["Personalized Medicine"],
+      "related_to": ["Genomics"],
+      "children": ["Molecular Diagnostics", "Tailored Therapy", "Biomarker Discovery"]
+    },
+    {
+      "name": "Molecular Diagnostics",
+      "level": "sub-domain",
+      "aliases": ["Genetic Testing"],
+      "related_to": ["Precision Medicine"],
+      "children": []
+    },
+    {
+      "name": "Health Informatics",
+      "level": "primary",
+      "aliases": ["Medical Informatics"],
+      "related_to": ["Healthcare IT"],
+      "children": ["Electronic Health Records", "Data Analytics", "Telemedicine"]
+    },
+    {
+      "name": "Electronic Health Records",
+      "level": "sub-domain",
+      "aliases": ["EHR"],
+      "related_to": ["Health Informatics"],
+      "children": []
+    },
+    {
+      "name": "Telemedicine",
+      "level": "primary",
+      "aliases": ["Telehealth"],
+      "related_to": ["Health Informatics"],
+      "children": ["Remote Diagnostics", "Virtual Consultations", "Digital Therapeutics"]
+    },
+    {
+      "name": "Remote Diagnostics",
+      "level": "sub-domain",
+      "aliases": ["Tele-Diagnostics"],
+      "related_to": ["Telemedicine"],
+      "children": []
+    },
+    {
+      "name": "Geriatrics",
+      "level": "primary",
+      "aliases": ["Elderly Care"],
+      "related_to": ["Family Medicine"],
+      "children": ["Gerontology", "Palliative Care", "Dementia Care"]
+    },
+    {
+      "name": "Gerontology",
+      "level": "sub-domain",
+      "aliases": ["Aging Science"],
+      "related_to": ["Geriatrics"],
+      "children": []
+    },
+    {
+      "name": "Palliative Care",
+      "level": "sub-domain",
+      "aliases": ["End-of-Life Care"],
+      "related_to": ["Geriatrics"],
+      "children": []
+    },
+    {
+      "name": "Addiction Medicine",
+      "level": "primary",
+      "aliases": ["Substance Use Disorder"],
+      "related_to": ["Psychiatry"],
+      "children": ["Substance Abuse Treatment", "Behavioral Addiction", "Medication-Assisted Treatment"]
+    },
+    {
+      "name": "Substance Abuse Treatment",
+      "level": "sub-domain",
+      "aliases": ["Drug Rehabilitation"],
+      "related_to": ["Addiction Medicine"],
+      "children": []
+    },
+    {
+      "name": "Sleep Medicine",
+      "level": "primary",
+      "aliases": ["Sleep Disorders"],
+      "related_to": ["Neurology"],
+      "children": ["Sleep Apnea", "Insomnia Treatment", "Circadian Rhythm Disorders"]
+    },
+    {
+      "name": "Sleep Apnea",
+      "level": "sub-domain",
+      "aliases": ["OSA"],
+      "related_to": ["Sleep Medicine"],
+      "children": []
+    },
+    {
+      "name": "Nutrition and Dietetics",
+      "level": "primary",
+      "aliases": ["Nutrition Science"],
+      "related_to": ["Public Health"],
+      "children": ["Clinical Nutrition", "Sports Nutrition", "Pediatric Nutrition"]
+    },
+    {
+      "name": "Clinical Nutrition",
+      "level": "sub-domain",
+      "aliases": ["Hospital Nutrition"],
+      "related_to": ["Nutrition"],
+      "children": []
+    },
+    {
+      "name": "Sports Medicine",
+      "level": "primary",
+      "aliases": ["Athletic Medicine"],
+      "related_to": ["Orthopedics"],
+      "children": ["Exercise Physiology", "Injury Prevention", "Rehabilitation"]
+    },
+    {
+      "name": "Exercise Physiology",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Sports Medicine"],
+      "children": []
+    },
+    {
+      "name": "Reproductive Medicine",
+      "level": "primary",
+      "aliases": ["Fertility"],
+      "related_to": ["Obstetrics and Gynecology"],
+      "children": ["Infertility Treatment", "Assisted Reproductive Technology", "Men's Health"]
+    },
+    {
+      "name": "Infertility Treatment",
+      "level": "sub-domain",
+      "aliases": ["IVF"],
+      "related_to": ["Reproductive Medicine"],
+      "children": []
+    },
+    {
+      "name": "Occupational Medicine",
+      "level": "primary",
+      "aliases": ["Workplace Health"],
+      "related_to": ["Public Health"],
+      "children": ["Occupational Toxicology", "Workplace Safety", "Ergonomics"]
+    },
+    {
+      "name": "Occupational Toxicology",
+      "level": "sub-domain",
+      "aliases": ["Industrial Toxicology"],
+      "related_to": ["Occupational Medicine"],
+      "children": []
+    },
+    {
+      "name": "Biomedical Engineering",
+      "level": "primary",
+      "aliases": ["Medical Engineering"],
+      "related_to": ["Medical Technology"],
+      "children": ["Prosthetics", "Biomaterials", "Medical Device Design"]
+    },
+    {
+      "name": "Prosthetics",
+      "level": "sub-domain",
+      "aliases": ["Artificial Limbs"],
+      "related_to": ["Biomedical Engineering"],
+      "children": []
+    },
+    {
+      "name": "Tropical Medicine",
+      "level": "primary",
+      "aliases": ["Infectious Disease"],
+      "related_to": ["Public Health"],
+      "children": ["Malaria Research", "Dengue Studies", "Parasitology"]
+    },
+    {
+      "name": "Malaria Research",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Tropical Medicine"],
+      "children": []
+    },
+    {
+      "name": "Forensic Medicine",
+      "level": "primary",
+      "aliases": ["Medical Forensics"],
+      "related_to": ["Pathology"],
+      "children": ["Forensic Toxicology", "Medical-Legal Death Investigation"]
+    },
+    {
+      "name": "Forensic Toxicology",
+      "level": "sub-domain",
+      "aliases": ["Toxic Forensics"],
+      "related_to": ["Forensic Medicine"],
+      "children": []
+    },
+    {
+      "name": "Environmental Medicine",
+      "level": "primary",
+      "aliases": ["Environmental Health"],
+      "related_to": ["Public Health"],
+      "children": ["Pollution Studies", "Occupational Toxicology"]
+    },
+    {
+      "name": "Pollution Studies",
+      "level": "sub-domain",
+      "aliases": ["Pollutant Research"],
+      "related_to": ["Environmental Medicine"],
+      "children": []
+    },
+    {
+      "name": "Health Policy and Management",
+      "level": "primary",
+      "aliases": ["Healthcare Administration"],
+      "related_to": ["Public Health"],
+      "children": ["Health Economics", "Healthcare Leadership", "Health Law"]
+    },
+    {
+      "name": "Health Economics",
+      "level": "sub-domain",
+      "aliases": ["Healthcare Finance"],
+      "related_to": ["Health Policy"],
+      "children": []
+    },
+    {
+      "name": "Pain Management",
+      "level": "primary",
+      "aliases": ["Pain Therapy"],
+      "related_to": ["Anesthesiology"],
+      "children": ["Chronic Pain", "Acute Pain", "Palliative Pain Management"]
+    },
+    {
+      "name": "Chronic Pain",
+      "level": "sub-domain",
+      "aliases": ["Persistent Pain"],
+      "related_to": ["Pain Management"],
+      "children": []
+    },
+    {
+      "name": "Medical Ethics",
+      "level": "primary",
+      "aliases": ["Bioethics"],
+      "related_to": ["Healthcare Policy"],
+      "children": ["Clinical Ethics", "Research Ethics", "End-of-Life Ethics"]
+    },
+    {
+      "name": "Clinical Ethics",
+      "level": "sub-domain",
+      "aliases": ["Medical Ethics"],
+      "related_to": ["Medical Ethics"],
+      "children": []
+    },
+    {
+      "name": "Toxicology",
+      "level": "primary",
+      "aliases": ["Toxic Studies"],
+      "related_to": ["Pharmacology"],
+      "children": ["Environmental Toxicology", "Forensic Toxicology", "Industrial Toxicology"]
+    },
+    {
+      "name": "Environmental Toxicology",
+      "level": "sub-domain",
+      "aliases": ["Ecotoxicology"],
+      "related_to": ["Toxicology"],
+      "children": []
+    },
+    {
+      "name": "Radiology",
+      "level": "primary",
+      "aliases": ["Imaging"],
+      "related_to": ["Diagnostics"],
+      "children": ["Interventional Radiology", "Nuclear Medicine", "Pediatric Radiology"]
+    },
+    {
+      "name": "Interventional Radiology",
+      "level": "sub-domain",
+      "aliases": ["Image-Guided Surgery"],
+      "related_to": ["Radiology"],
+      "children": []
+    },
+    {
+      "name": "Rehabilitation",
+      "level": "primary",
+      "aliases": ["Rehab"],
+      "related_to": ["Physical Therapy"],
+      "children": ["Physical Rehabilitation", "Cognitive Rehabilitation", "Speech Therapy"]
+    },
+    {
+      "name": "Physical Rehabilitation",
+      "level": "sub-domain",
+      "aliases": ["Physio Rehab"],
+      "related_to": ["Rehabilitation"],
+      "children": []
+    },
+    {
+      "name": "Biomedical Science",
+      "level": "primary",
+      "aliases": ["Biomedicine"],
+      "related_to": ["Medical Research"],
+      "children": ["Cell Biology", "Molecular Biology", "Immunology"]
+    },
+    {
+      "name": "Cell Biology",
+      "level": "sub-domain",
+      "aliases": ["Cytology"],
+      "related_to": ["Biomedical Science"],
+      "children": []
+    },
+    {
+      "name": "Journalism",
+      "level": "primary",
+      "aliases": ["News Reporting"],
+      "related_to": ["Broadcasting", "Public Relations"],
+      "children": ["Print Journalism", "Broadcast Journalism", "Online Journalism"]
+    },
+    {
+      "name": "Broadcasting",
+      "level": "primary",
+      "aliases": ["Media Broadcasting"],
+      "related_to": ["Journalism", "Television"],
+      "children": ["Radio Broadcasting", "Television Broadcasting", "Internet Broadcasting"]
+    },
+    {
+      "name": "Public Relations",
+      "level": "primary",
+      "aliases": ["PR"],
+      "related_to": ["Marketing", "Advertising"],
+      "children": ["Corporate Communications", "Crisis Management", "Media Relations"]
+    },
+    {
+      "name": "Advertising",
+      "level": "primary",
+      "aliases": ["Ads"],
+      "related_to": ["Marketing", "Public Relations"],
+      "children": ["Digital Advertising", "Print Advertising", "Broadcast Advertising"]
+    },
+    {
+      "name": "Marketing",
+      "level": "primary",
+      "aliases": ["Marketing Communications"],
+      "related_to": ["Advertising", "Public Relations"],
+      "children": ["Content Marketing", "Social Media Marketing", "Email Marketing"]
+    },
+    {
+      "name": "Film Studies",
+      "level": "primary",
+      "aliases": ["Cinema Studies"],
+      "related_to": ["Media Studies", "Film Production"],
+      "children": ["Film Theory", "Film Criticism", "Film History"]
+    },
+    {
+      "name": "Media Studies",
+      "level": "primary",
+      "aliases": ["Media Theory"],
+      "related_to": ["Communication Studies", "Film Studies"],
+      "children": ["Media Ethics", "Media Law", "Media Research"]
+    },
+    {
+      "name": "Communication Studies",
+      "level": "primary",
+      "aliases": ["Communication Theory"],
+      "related_to": ["Media Studies", "Public Relations"],
+      "children": ["Interpersonal Communication", "Mass Communication", "Organizational Communication"]
+    },
+    {
+      "name": "Print Journalism",
+      "level": "sub-domain",
+      "aliases": ["Newspaper Journalism"],
+      "related_to": ["Journalism"],
+      "children": ["Newspaper Reporting", "Magazine Journalism", "Newsletter Writing"]
+    },
+    {
+      "name": "Broadcast Journalism",
+      "level": "sub-domain",
+      "aliases": ["TV Journalism"],
+      "related_to": ["Journalism"],
+      "children": ["Television News", "Radio News", "News Anchoring"]
+    },
+    {
+      "name": "Online Journalism",
+      "level": "sub-domain",
+      "aliases": ["Digital Journalism"],
+      "related_to": ["Journalism"],
+      "children": ["Blog Writing", "Web News", "Social Media Journalism"]
+    },
+    {
+      "name": "Radio Broadcasting",
+      "level": "sub-domain",
+      "aliases": ["Radio"],
+      "related_to": ["Broadcasting"],
+      "children": ["Radio News", "Radio Talk Shows", "Radio Music Programs"]
+    },
+    {
+      "name": "Television Broadcasting",
+      "level": "sub-domain",
+      "aliases": ["TV"],
+      "related_to": ["Broadcasting"],
+      "children": ["TV News", "TV Shows", "TV Documentaries"]
+    },
+    {
+      "name": "Internet Broadcasting",
+      "level": "sub-domain",
+      "aliases": ["Web Broadcasting"],
+      "related_to": ["Broadcasting"],
+      "children": ["Live Streaming", "Podcasting", "Webinars"]
+    },
+    {
+      "name": "Corporate Communications",
+      "level": "sub-domain",
+      "aliases": ["Corporate Comms"],
+      "related_to": ["Public Relations"],
+      "children": ["Internal Communications", "External Communications", "Corporate Branding"]
+    },
+    {
+      "name": "Crisis Management",
+      "level": "sub-domain",
+      "aliases": ["Crisis Comms"],
+      "related_to": ["Public Relations"],
+      "children": ["Crisis Planning", "Crisis Response", "Crisis Recovery"]
+    },
+    {
+      "name": "Media Relations",
+      "level": "sub-domain",
+      "aliases": ["Media PR"],
+      "related_to": ["Public Relations"],
+      "children": ["Press Releases", "Media Interviews", "Media Events"]
+    },
+    {
+      "name": "Digital Advertising",
+      "level": "sub-domain",
+      "aliases": ["Online Ads"],
+      "related_to": ["Advertising"],
+      "children": ["Social Media Ads", "Search Engine Ads", "Display Ads"]
+    },
+    {
+      "name": "Print Advertising",
+      "level": "sub-domain",
+      "aliases": ["Print Ads"],
+      "related_to": ["Advertising"],
+      "children": ["Newspaper Ads", "Magazine Ads", "Billboard Ads"]
+    },
+    {
+      "name": "Broadcast Advertising",
+      "level": "sub-domain",
+      "aliases": ["Broadcast Ads"],
+      "related_to": ["Advertising"],
+      "children": ["TV Commercials", "Radio Ads", "Infomercials"]
+    },
+    {
+      "name": "Content Marketing",
+      "level": "sub-domain",
+      "aliases": ["Content Strategy"],
+      "related_to": ["Marketing"],
+      "children": ["Blog Marketing", "Video Marketing", "Infographic Marketing"]
+    },
+    {
+      "name": "Social Media Marketing",
+      "level": "sub-domain",
+      "aliases": ["SMM"],
+      "related_to": ["Marketing"],
+      "children": ["Facebook Marketing", "Instagram Marketing", "Twitter Marketing"]
+    },
+    {
+      "name": "Email Marketing",
+      "level": "sub-domain",
+      "aliases": ["Email Campaigns"],
+      "related_to": ["Marketing"],
+      "children": ["Newsletters", "Promotional Emails", "Transactional Emails"]
+    },
+    {
+      "name": "Film Theory",
+      "level": "sub-domain",
+      "aliases": ["Cinema Theory"],
+      "related_to": ["Film Studies"],
+      "children": ["Auteur Theory", "Genre Theory", "Narrative Theory"]
+    },
+    {
+      "name": "Film Criticism",
+      "level": "sub-domain",
+      "aliases": ["Cinema Criticism"],
+      "related_to": ["Film Studies"],
+      "children": ["Film Reviews", "Film Analysis", "Film Essays"]
+    },
+    {
+      "name": "Film History",
+      "level": "sub-domain",
+      "aliases": ["Cinema History"],
+      "related_to": ["Film Studies"],
+      "children": ["Silent Film Era", "Golden Age of Hollywood", "New Wave Cinema"]
+    },
+    {
+      "name": "Media Ethics",
+      "level": "sub-domain",
+      "aliases": ["Ethics in Media"],
+      "related_to": ["Media Studies"],
+      "children": ["Journalistic Ethics", "Advertising Ethics", "Public Relations Ethics"]
+    },
+    {
+      "name": "Media Law",
+      "level": "sub-domain",
+      "aliases": ["Media Legislation"],
+      "related_to": ["Media Studies"],
+      "children": ["Defamation Law", "Copyright Law", "Broadcasting Law"]
+    },
+    {
+      "name": "Media Research",
+      "level": "sub-domain",
+      "aliases": ["Media Analysis"],
+      "related_to": ["Media Studies"],
+      "children": ["Audience Research", "Content Analysis", "Media Effects"]
+    },
+    {
+      "name": "Interpersonal Communication",
+      "level": "sub-domain",
+      "aliases": ["Personal Communication"],
+      "related_to": ["Communication Studies"],
+      "children": ["Verbal Communication", "Nonverbal Communication", "Listening Skills"]
+    },
+    {
+      "name": "Mass Communication",
+      "level": "sub-domain",
+      "aliases": ["Mass Media"],
+      "related_to": ["Communication Studies"],
+      "children": ["Broadcast Media", "Print Media", "Digital Media"]
+    },
+    {
+      "name": "Organizational Communication",
+      "level": "sub-domain",
+      "aliases": ["Corporate Communication"],
+      "related_to": ["Communication Studies"],
+      "children": ["Internal Communication", "External Communication", "Crisis Communication"]
+    },
+    {
+      "name": "Newspaper Reporting",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Print Journalism"],
+      "children": ["News Articles", "Feature Stories", "Editorials"]
+    },
+    {
+      "name": "Magazine Journalism",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Print Journalism"],
+      "children": ["Magazine Articles", "Feature Stories", "Interviews"]
+    },
+    {
+      "name": "Newsletter Writing",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Print Journalism"],
+      "children": ["Company Newsletters", "Industry Newsletters", "Community Newsletters"]
+    },
+    {
+      "name": "Television News",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Broadcast Journalism"],
+      "children": ["News Bulletins", "News Reports", "News Analysis"]
+    },
+    {
+      "name": "Radio News",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Broadcast Journalism"],
+      "children": ["News Bulletins", "News Reports", "News Analysis"]
+    },
+    {
+      "name": "News Anchoring",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Broadcast Journalism"],
+      "children": ["TV News Anchoring", "Radio News Anchoring", "Web News Anchoring"]
+    },
+    {
+      "name": "Radio Talk Shows",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Radio Broadcasting"],
+      "children": ["Talk Radio", "Interview Shows", "Call-in Shows"]
+    },
+    {
+      "name": "Radio Music Programs",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Radio Broadcasting"],
+      "children": ["Music Shows", "DJ Programs", "Music Countdowns"]
+    },
+    {
+      "name": "TV News",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Television Broadcasting"],
+      "children": ["News Bulletins", "News Reports", "News Analysis"]
+    },
+    {
+      "name": "TV Shows",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Television Broadcasting"],
+      "children": ["Drama Series", "Comedy Series", "Reality Shows"]
+    },
+    {
+      "name": "TV Documentaries",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Television Broadcasting"],
+      "children": ["Historical Documentaries", "Nature Documentaries", "Social Documentaries"]
+    },
+    {
+      "name": "Live Streaming",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Internet Broadcasting"],
+      "children": ["Live Events", "Live Shows", "Live Interviews"]
+    },
+    {
+      "name": "Podcasting",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Internet Broadcasting"],
+      "children": ["Interview Podcasts", "Discussion Podcasts", "Storytelling Podcasts"]
+    },
+    {
+      "name": "Webinars",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Internet Broadcasting"],
+      "children": ["Educational Webinars", "Business Webinars", "Training Webinars"]
+    },
+    {
+      "name": "Internal Communications",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Corporate Communications"],
+      "children": ["Employee Newsletters", "Intranet Communications", "Internal Meetings"]
+    },
+    {
+      "name": "External Communications",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Corporate Communications"],
+      "children": ["Press Releases", "Media Relations", "Customer Communications"]
+    },
+    {
+      "name": "Corporate Branding",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Corporate Communications"],
+      "children": ["Brand Identity", "Brand Strategy", "Brand Management"]
+    },
+    {
+      "name": "Crisis Planning",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Crisis Management"],
+      "children": ["Crisis Communication Plans", "Emergency Response Plans", "Business Continuity Plans"]
+    },
+    {
+      "name": "Crisis Response",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Crisis Management"],
+      "children": ["Immediate Response", "Media Response", "Stakeholder Response"]
+    },
+    {
+      "name": "Crisis Recovery",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Crisis Management"],
+      "children": ["Post-Crisis Communication", "Reputation Management", "Crisis Evaluation"]
+    },
+    {
+      "name": "Press Releases",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Media Relations"],
+      "children": ["News Releases", "Media Alerts", "Press Statements"]
+    },
+    {
+      "name": "Media Interviews",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Media Relations"],
+      "children": ["TV Interviews", "Radio Interviews", "Print Interviews"]
+    },
+    {
+      "name": "Media Events",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Media Relations"],
+      "children": ["Press Conferences", "Media Tours", "Product Launches"]
+    },
+    {
+      "name": "Social Media Ads",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Digital Advertising"],
+      "children": ["Facebook Ads", "Instagram Ads", "Twitter Ads"]
+    },
+    {
+      "name": "Search Engine Ads",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Digital Advertising"],
+      "children": ["Google Ads", "Bing Ads", "Yahoo Ads"]
+    },
+    {
+      "name": "Display Ads",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Digital Advertising"],
+      "children": ["Banner Ads", "Video Ads", "Rich Media Ads"]
+    },
+    {
+      "name": "Newspaper Ads",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Print Advertising"],
+      "children": ["Classified Ads", "Display Ads", "Inserts"]
+    },
+    {
+      "name": "Magazine Ads",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Print Advertising"],
+      "children": ["Full-Page Ads", "Half-Page Ads", "Quarter-Page Ads"]
+    },
+    {
+      "name": "Billboard Ads",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Print Advertising"],
+      "children": ["Outdoor Billboards", "Indoor Billboards", "Digital Billboards"]
+    },
+    {
+      "name": "TV Commercials",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Broadcast Advertising"],
+      "children": ["30-Second Spots", "60-Second Spots", "Infomercials"]
+    },
+    {
+      "name": "Radio Ads",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Broadcast Advertising"],
+      "children": ["30-Second Spots", "60-Second Spots", "Sponsored Segments"]
+    },
+    {
+      "name": "Infomercials",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Broadcast Advertising"],
+      "children": ["Long-Form Infomercials", "Short-Form Infomercials", "Direct Response TV"]
+    },
+    {
+      "name": "Blog Marketing",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Content Marketing"],
+      "children": ["Blog Posts", "Guest Blogging", "Blog Advertising"]
+    },
+    {
+      "name": "Video Marketing",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Content Marketing"],
+      "children": ["YouTube Videos", "Instagram Videos", "Facebook Videos"]
+    },
+    {
+      "name": "Infographic Marketing",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Content Marketing"],
+      "children": ["Infographic Design", "Infographic Distribution", "Infographic Promotion"]
+    },
+    {
+      "name": "Facebook Marketing",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Social Media Marketing"],
+      "children": ["Facebook Ads", "Facebook Pages", "Facebook Groups"]
+    },
+    {
+      "name": "Instagram Marketing",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Social Media Marketing"],
+      "children": ["Instagram Ads", "Instagram Stories", "Instagram Reels"]
+    },
+    {
+      "name": "Twitter Marketing",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Social Media Marketing"],
+      "children": ["Twitter Ads", "Twitter Hashtags", "Twitter Chats"]
+    },
+    {
+      "name": "Newsletters",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Email Marketing"],
+      "children": ["Company Newsletters", "Industry Newsletters", "Community Newsletters"]
+    },
+    {
+      "name": "Promotional Emails",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Email Marketing"],
+      "children": ["Sales Emails", "Discount Emails", "Event Invitations"]
+    },
+    {
+      "name": "Transactional Emails",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Email Marketing"],
+      "children": ["Order Confirmations", "Shipping Notifications", "Password Resets"]
+    },
+    {
+      "name": "Auteur Theory",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Film Theory"],
+      "children": ["Director's Vision", "Film Authorship", "Auteur Criticism"]
+    },
+    {
+      "name": "Genre Theory",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Film Theory"],
+      "children": ["Genre Analysis", "Genre Conventions", "Genre Evolution"]
+    },
+    {
+      "name": "Narrative Theory",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Film Theory"],
+      "children": ["Storytelling Techniques", "Narrative Structure", "Narrative Analysis"]
+    },
+    {
+      "name": "Film Reviews",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Film Criticism"],
+      "children": ["Movie Reviews", "Critic Reviews", "Audience Reviews"]
+    },
+    {
+      "name": "Film Analysis",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Film Criticism"],
+      "children": ["Thematic Analysis", "Character Analysis", "Plot Analysis"]
+    },
+    {
+      "name": "Film Essays",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Film Criticism"],
+      "children": ["Critical Essays", "Analytical Essays", "Comparative Essays"]
+    },
+    {
+      "name": "Silent Film Era",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Film History"],
+      "children": ["Silent Film Actors", "Silent Film Directors", "Silent Film Techniques"]
+    },
+    {
+      "name": "Golden Age of Hollywood",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Film History"],
+      "children": ["Classic Hollywood Films", "Hollywood Studios", "Hollywood Stars"]
+    },
+    {
+      "name": "New Wave Cinema",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Film History"],
+      "children": ["French New Wave", "Japanese New Wave", "American New Wave"]
+    },
+    {
+      "name": "Journalistic Ethics",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Media Ethics"],
+      "children": ["Objectivity", "Accuracy", "Fairness"]
+    },
+    {
+      "name": "Advertising Ethics",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Media Ethics"],
+      "children": ["Truth in Advertising", "Ethical Advertising Practices", "Advertising Regulations"]
+    },
+    {
+      "name": "Public Relations Ethics",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Media Ethics"],
+      "children": ["Transparency", "Honesty", "Professionalism"]
+    },
+    {
+      "name": "Defamation Law",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Media Law"],
+      "children": ["Libel", "Slander", "Defamation Defense"]
+    },
+    {
+      "name": "Copyright Law",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Media Law"],
+      "children": ["Copyright Protection", "Copyright Infringement", "Fair Use"]
+    },
+    {
+      "name": "Broadcasting Law",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Media Law"],
+      "children": ["Broadcast Regulations", "Broadcast Licensing", "Broadcast Standards"]
+    },
+    {
+      "name": "Audience Research",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Media Research"],
+      "children": ["Audience Measurement", "Audience Analysis", "Audience Segmentation"]
+    },
+    {
+      "name": "Content Analysis",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Media Research"],
+      "children": ["Media Content Analysis", "Thematic Analysis", "Discourse Analysis"]
+    },
+    {
+      "name": "Media Effects",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Media Research"],
+      "children": ["Media Influence", "Media Impact", "Media Psychology"]
+    },
+    {
+      "name": "Verbal Communication",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Interpersonal Communication"],
+      "children": ["Speaking Skills", "Listening Skills", "Conversation Skills"]
+    },
+    {
+      "name": "Nonverbal Communication",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Interpersonal Communication"],
+      "children": ["Body Language", "Facial Expressions", "Gestures"]
+    },
+    {
+      "name": "Listening Skills",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Interpersonal Communication"],
+      "children": ["Active Listening", "Empathetic Listening", "Critical Listening"]
+    },
+    {
+      "name": "Broadcast Media",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Mass Communication"],
+      "children": ["Television", "Radio", "Internet Broadcasting"]
+    },
+    {
+      "name": "Print Media",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Mass Communication"],
+      "children": ["Newspapers", "Magazines", "Books"]
+    },
+    {
+      "name": "Digital Media",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Mass Communication"],
+      "children": ["Websites", "Social Media", "Mobile Apps"]
+    },
+    {
+      "name": "Internal Communication",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Organizational Communication"],
+      "children": ["Employee Newsletters", "Intranet Communications", "Internal Meetings"]
+    },
+    {
+      "name": "External Communication",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Organizational Communication"],
+      "children": ["Press Releases", "Media Relations", "Customer Communications"]
+    },
+    {
+      "name": "Crisis Communication",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Organizational Communication"],
+      "children": ["Crisis Planning", "Crisis Response", "Crisis Recovery"]
+    },
+    {
+      "name": "Clinical Psychology",
+      "level": "primary",
+      "aliases": ["Clinical Psych"],
+      "related_to": ["Counseling Psychology", "Psychotherapy"],
+      "children": ["Psychological Assessment", "Psychotherapy", "Behavioral Therapy"]
+    },
+    {
+      "name": "Cognitive Psychology",
+      "level": "primary",
+      "aliases": ["Cognitive Science"],
+      "related_to": ["Neuropsychology", "Experimental Psychology"],
+      "children": ["Memory Research", "Perception Studies", "Problem Solving"]
+    },
+    {
+      "name": "Developmental Psychology",
+      "level": "primary",
+      "aliases": ["Developmental Psych"],
+      "related_to": ["Child Psychology", "Lifespan Development"],
+      "children": ["Child Development", "Adolescent Development", "Adult Development"]
+    },
+    {
+      "name": "Social Psychology",
+      "level": "primary",
+      "aliases": ["Social Psych"],
+      "related_to": ["Personality Psychology", "Community Psychology"],
+      "children": ["Attitude Research", "Social Influence", "Group Dynamics"]
+    },
+    {
+      "name": "Personality Psychology",
+      "level": "primary",
+      "aliases": ["Personality Studies"],
+      "related_to": ["Clinical Psychology", "Social Psychology"],
+      "children": ["Personality Theories", "Personality Assessment", "Personality Development"]
+    },
+    {
+      "name": "Neuropsychology",
+      "level": "primary",
+      "aliases": ["Neuropsych"],
+      "related_to": ["Cognitive Psychology", "Clinical Psychology"],
+      "children": ["Brain Injury Rehabilitation", "Neurocognitive Assessment", "Neuropsychological Research"]
+    },
+    {
+      "name": "Forensic Psychology",
+      "level": "primary",
+      "aliases": ["Forensic Psych"],
+      "related_to": ["Clinical Psychology", "Legal Psychology"],
+      "children": ["Criminal Profiling", "Expert Witness Testimony", "Offender Rehabilitation"]
+    },
+    {
+      "name": "Health Psychology",
+      "level": "primary",
+      "aliases": ["Health Psych"],
+      "related_to": ["Clinical Psychology", "Medical Psychology"],
+      "children": ["Health Promotion", "Illness Prevention", "Patient Care"]
+    },
+    {
+      "name": "Educational Psychology",
+      "level": "primary",
+      "aliases": ["Educational Psych"],
+      "related_to": ["Developmental Psychology", "School Psychology"],
+      "children": ["Learning Theories", "Instructional Design", "Educational Assessment"]
+    },
+    {
+      "name": "Industrial and Organizational Psychology",
+      "level": "primary",
+      "aliases": ["I/O Psychology"],
+      "related_to": ["Human Resources", "Organizational Behavior"],
+      "children": ["Employee Selection", "Performance Management", "Organizational Development"]
+    },
+    {
+      "name": "Counseling Psychology",
+      "level": "primary",
+      "aliases": ["Counseling Psych"],
+      "related_to": ["Clinical Psychology", "Psychotherapy"],
+      "children": ["Career Counseling", "Marriage and Family Therapy", "Mental Health Counseling"]
+    },
+    {
+      "name": "Experimental Psychology",
+      "level": "primary",
+      "aliases": ["Experimental Psych"],
+      "related_to": ["Cognitive Psychology", "Neuropsychology"],
+      "children": ["Behavioral Research", "Cognitive Research", "Sensory Research"]
+    },
+    {
+      "name": "Evolutionary Psychology",
+      "level": "primary",
+      "aliases": ["Evolutionary Psych"],
+      "related_to": ["Biological Psychology", "Social Psychology"],
+      "children": ["Evolutionary Theory", "Adaptive Behavior", "Mating Strategies"]
+    },
+    {
+      "name": "Positive Psychology",
+      "level": "primary",
+      "aliases": ["Positive Psych"],
+      "related_to": ["Clinical Psychology", "Health Psychology"],
+      "children": ["Well-being Research", "Happiness Studies", "Resilience"]
+    },
+    {
+      "name": "Psychometrics",
+      "level": "primary",
+      "aliases": ["Psychometric Testing"],
+      "related_to": ["Clinical Psychology", "Educational Psychology"],
+      "children": ["Intelligence Testing", "Personality Testing", "Aptitude Testing"]
+    },
+    {
+      "name": "Behavioral Psychology",
+      "level": "primary",
+      "aliases": ["Behaviorism"],
+      "related_to": ["Clinical Psychology", "Experimental Psychology"],
+      "children": ["Classical Conditioning", "Operant Conditioning", "Behavior Modification"]
+    },
+    {
+      "name": "Humanistic Psychology",
+      "level": "primary",
+      "aliases": ["Humanistic Psych"],
+      "related_to": ["Clinical Psychology", "Counseling Psychology"],
+      "children": ["Self-Actualization", "Client-Centered Therapy", "Existential Therapy"]
+    },
+    {
+      "name": "Psychoanalysis",
+      "level": "primary",
+      "aliases": ["Psychoanalytic Theory"],
+      "related_to": ["Clinical Psychology", "Psychotherapy"],
+      "children": ["Freudian Theory", "Jungian Theory", "Psychoanalytic Therapy"]
+    },
+    {
+      "name": "Gestalt Psychology",
+      "level": "primary",
+      "aliases": ["Gestalt Theory"],
+      "related_to": ["Cognitive Psychology", "Perception Studies"],
+      "children": ["Gestalt Principles", "Gestalt Therapy", "Gestalt Research"]
+    },
+    {
+      "name": "Existential Psychology",
+      "level": "primary",
+      "aliases": ["Existential Therapy"],
+      "related_to": ["Humanistic Psychology", "Psychotherapy"],
+      "children": ["Existential Anxiety", "Meaning in Life", "Existential Therapy"]
+    },
+    {
+      "name": "Transpersonal Psychology",
+      "level": "primary",
+      "aliases": ["Transpersonal Psych"],
+      "related_to": ["Humanistic Psychology", "Spiritual Psychology"],
+      "children": ["Spiritual Development", "Transpersonal Therapy", "Consciousness Studies"]
+    },
+    {
+      "name": "Community Psychology",
+      "level": "primary",
+      "aliases": ["Community Psych"],
+      "related_to": ["Social Psychology", "Clinical Psychology"],
+      "children": ["Community Interventions", "Prevention Programs", "Community Research"]
+    },
+    {
+      "name": "Environmental Psychology",
+      "level": "primary",
+      "aliases": ["Environmental Psych"],
+      "related_to": ["Social Psychology", "Ecopsychology"],
+      "children": ["Environmental Design", "Human-Environment Interaction", "Environmental Behavior"]
+    },
+    {
+      "name": "Cross-Cultural Psychology",
+      "level": "primary",
+      "aliases": ["Cross-Cultural Psych"],
+      "related_to": ["Social Psychology", "Cultural Psychology"],
+      "children": ["Cultural Differences", "Cross-Cultural Research", "Cultural Adaptation"]
+    },
+    {
+      "name": "Sport Psychology",
+      "level": "primary",
+      "aliases": ["Sport Psych"],
+      "related_to": ["Clinical Psychology", "Performance Psychology"],
+      "children": ["Athletic Performance", "Mental Training", "Sport Counseling"]
+    },
+    {
+      "name": "Military Psychology",
+      "level": "primary",
+      "aliases": ["Military Psych"],
+      "related_to": ["Clinical Psychology", "Organizational Psychology"],
+      "children": ["Combat Stress", "Military Training", "Veteran Care"]
+    },
+    {
+      "name": "School Psychology",
+      "level": "primary",
+      "aliases": ["School Psych"],
+      "related_to": ["Educational Psychology", "Clinical Psychology"],
+      "children": ["School Counseling", "Educational Assessment", "Behavioral Interventions"]
+    },
+    {
+      "name": "Psychological Assessment",
+      "level": "sub-domain",
+      "aliases": ["Psych Assessment"],
+      "related_to": ["Clinical Psychology"],
+      "children": ["Intelligence Testing", "Personality Testing", "Neuropsychological Assessment"]
+    },
+    {
+      "name": "Psychotherapy",
+      "level": "sub-domain",
+      "aliases": ["Therapy"],
+      "related_to": ["Clinical Psychology"],
+      "children": ["Cognitive Behavioral Therapy", "Psychodynamic Therapy", "Humanistic Therapy"]
+    },
+    {
+      "name": "Behavioral Therapy",
+      "level": "sub-domain",
+      "aliases": ["Behavior Therapy"],
+      "related_to": ["Clinical Psychology"],
+      "children": ["Cognitive Behavioral Therapy", "Dialectical Behavior Therapy", "Applied Behavior Analysis"]
+    },
+    {
+      "name": "Memory Research",
+      "level": "sub-domain",
+      "aliases": ["Memory Studies"],
+      "related_to": ["Cognitive Psychology"],
+      "children": ["Short-Term Memory", "Long-Term Memory", "Working Memory"]
+    },
+    {
+      "name": "Perception Studies",
+      "level": "sub-domain",
+      "aliases": ["Perception Research"],
+      "related_to": ["Cognitive Psychology"],
+      "children": ["Visual Perception", "Auditory Perception", "Multisensory Perception"]
+    },
+    {
+      "name": "Problem Solving",
+      "level": "sub-domain",
+      "aliases": ["Problem-Solving Skills"],
+      "related_to": ["Cognitive Psychology"],
+      "children": ["Critical Thinking", "Decision Making", "Creative Problem Solving"]
+    },
+    {
+      "name": "Child Development",
+      "level": "sub-domain",
+      "aliases": ["Child Psych"],
+      "related_to": ["Developmental Psychology"],
+      "children": ["Infant Development", "Toddler Development", "Preschool Development"]
+    },
+    {
+      "name": "Adolescent Development",
+      "level": "sub-domain",
+      "aliases": ["Adolescent Psych"],
+      "related_to": ["Developmental Psychology"],
+      "children": ["Teenage Development", "Adolescent Identity", "Adolescent Behavior"]
+    },
+    {
+      "name": "Adult Development",
+      "level": "sub-domain",
+      "aliases": ["Adult Psych"],
+      "related_to": ["Developmental Psychology"],
+      "children": ["Young Adulthood", "Middle Adulthood", "Late Adulthood"]
+    },
+    {
+      "name": "Attitude Research",
+      "level": "sub-domain",
+      "aliases": ["Attitude Studies"],
+      "related_to": ["Social Psychology"],
+      "children": ["Attitude Formation", "Attitude Change", "Attitude Measurement"]
+    },
+    {
+      "name": "Social Influence",
+      "level": "sub-domain",
+      "aliases": ["Social Influence Studies"],
+      "related_to": ["Social Psychology"],
+      "children": ["Conformity", "Compliance", "Obedience"]
+    },
+    {
+      "name": "Group Dynamics",
+      "level": "sub-domain",
+      "aliases": ["Group Dynamics Studies"],
+      "related_to": ["Social Psychology"],
+      "children": ["Group Formation", "Group Cohesion", "Group Decision Making"]
+    },
+    {
+      "name": "Personality Theories",
+      "level": "sub-domain",
+      "aliases": ["Personality Theory"],
+      "related_to": ["Personality Psychology"],
+      "children": ["Big Five Personality Traits", "Myers-Briggs Type Indicator", "Personality Disorders"]
+    },
+    {
+      "name": "Personality Assessment",
+      "level": "sub-domain",
+      "aliases": ["Personality Testing"],
+      "related_to": ["Personality Psychology"],
+      "children": ["Personality Inventories", "Projective Tests", "Self-Report Measures"]
+    },
+    {
+      "name": "Personality Development",
+      "level": "sub-domain",
+      "aliases": ["Personality Growth"],
+      "related_to": ["Personality Psychology"],
+      "children": ["Childhood Personality", "Adolescent Personality", "Adult Personality"]
+    },
+    {
+      "name": "Brain Injury Rehabilitation",
+      "level": "sub-domain",
+      "aliases": ["Brain Injury Rehab"],
+      "related_to": ["Neuropsychology"],
+      "children": ["Cognitive Rehabilitation", "Physical Rehabilitation", "Emotional Rehabilitation"]
+    },
+    {
+      "name": "Neurocognitive Assessment",
+      "level": "sub-domain",
+      "aliases": ["Neurocognitive Testing"],
+      "related_to": ["Neuropsychology"],
+      "children": ["Cognitive Testing", "Memory Testing", "Executive Function Testing"]
+    },
+    {
+      "name": "Neuropsychological Research",
+      "level": "sub-domain",
+      "aliases": ["Neuropsych Research"],
+      "related_to": ["Neuropsychology"],
+      "children": ["Brain-Behavior Relationships", "Neuropsychological Disorders", "Neuropsychological Treatment"]
+    },
+    {
+      "name": "Criminal Profiling",
+      "level": "sub-domain",
+      "aliases": ["Profiling"],
+      "related_to": ["Forensic Psychology"],
+      "children": ["Behavioral Analysis", "Crime Scene Analysis", "Offender Profiling"]
+    },
+    {
+      "name": "Expert Witness Testimony",
+      "level": "sub-domain",
+      "aliases": ["Expert Testimony"],
+      "related_to": ["Forensic Psychology"],
+      "children": ["Courtroom Testimony", "Expert Reports", "Legal Consultation"]
+    },
+    {
+      "name": "Offender Rehabilitation",
+      "level": "sub-domain",
+      "aliases": ["Offender Rehab"],
+      "related_to": ["Forensic Psychology"],
+      "children": ["Cognitive Behavioral Programs", "Substance Abuse Treatment", "Vocational Training"]
+    },
+    {
+      "name": "Health Promotion",
+      "level": "sub-domain",
+      "aliases": ["Health Promotion Programs"],
+      "related_to": ["Health Psychology"],
+      "children": ["Health Education", "Preventive Healthcare", "Health Behavior Change"]
+    },
+    {
+      "name": "Illness Prevention",
+      "level": "sub-domain",
+      "aliases": ["Illness Prevention Programs"],
+      "related_to": ["Health Psychology"],
+      "children": ["Disease Prevention", "Health Screening", "Health Risk Assessment"]
+    },
+    {
+      "name": "Patient Care",
+      "level": "sub-domain",
+      "aliases": ["Patient Care Services"],
+      "related_to": ["Health Psychology"],
+      "children": ["Patient Education", "Patient Support", "Patient Advocacy"]
+    },
+    {
+      "name": "Learning Theories",
+      "level": "sub-domain",
+      "aliases": ["Learning Theory"],
+      "related_to": ["Educational Psychology"],
+      "children": ["Behaviorism", "Cognitivism", "Constructivism"]
+    },
+    {
+      "name": "Instructional Design",
+      "level": "sub-domain",
+      "aliases": ["Instructional Design Theory"],
+      "related_to": ["Educational Psychology"],
+      "children": ["Curriculum Development", "Instructional Strategies", "Educational Technology"]
+    },
+    {
+      "name": "Educational Assessment",
+      "level": "sub-domain",
+      "aliases": ["Educational Testing"],
+      "related_to": ["Educational Psychology"],
+      "children": ["Standardized Testing", "Formative Assessment", "Summative Assessment"]
+    },
+    {
+      "name": "Employee Selection",
+      "level": "sub-domain",
+      "aliases": ["Employee Hiring"],
+      "related_to": ["Industrial and Organizational Psychology"],
+      "children": ["Job Analysis", "Recruitment", "Selection Interviews"]
+    },
+    {
+      "name": "Performance Management",
+      "level": "sub-domain",
+      "aliases": ["Performance Appraisal"],
+      "related_to": ["Industrial and Organizational Psychology"],
+      "children": ["Performance Reviews", "Goal Setting", "Performance Feedback"]
+    },
+    {
+      "name": "Organizational Development",
+      "level": "sub-domain",
+      "aliases": ["OD"],
+      "related_to": ["Industrial and Organizational Psychology"],
+      "children": ["Change Management", "Organizational Culture", "Team Building"]
+    },
+    {
+      "name": "Career Counseling",
+      "level": "sub-domain",
+      "aliases": ["Career Guidance"],
+      "related_to": ["Counseling Psychology"],
+      "children": ["Career Planning", "Job Search Strategies", "Career Transition"]
+    },
+    {
+      "name": "Marriage and Family Therapy",
+      "level": "sub-domain",
+      "aliases": ["MFT"],
+      "related_to": ["Counseling Psychology"],
+      "children": ["Couples Therapy", "Family Therapy", "Systemic Therapy"]
+    },
+    {
+      "name": "Mental Health Counseling",
+      "level": "sub-domain",
+      "aliases": ["Mental Health Therapy"],
+      "related_to": ["Counseling Psychology"],
+      "children": ["Individual Counseling", "Group Counseling", "Crisis Counseling"]
+    },
+    {
+      "name": "Behavioral Research",
+      "level": "sub-domain",
+      "aliases": ["Behavioral Studies"],
+      "related_to": ["Experimental Psychology"],
+      "children": ["Behavioral Observation", "Behavioral Experiments", "Behavioral Analysis"]
+    },
+    {
+      "name": "Cognitive Research",
+      "level": "sub-domain",
+      "aliases": ["Cognitive Studies"],
+      "related_to": ["Experimental Psychology"],
+      "children": ["Cognitive Processes", "Cognitive Functions", "Cognitive Tasks"]
+    },
+    {
+      "name": "Sensory Research",
+      "level": "sub-domain",
+      "aliases": ["Sensory Studies"],
+      "related_to": ["Experimental Psychology"],
+      "children": ["Sensory Perception", "Sensory Processing", "Sensory Integration"]
+    },
+    {
+      "name": "Evolutionary Theory",
+      "level": "sub-domain",
+      "aliases": ["Evolutionary Psych Theory"],
+      "related_to": ["Evolutionary Psychology"],
+      "children": ["Natural Selection", "Sexual Selection", "Evolutionary Mechanisms"]
+    },
+    {
+      "name": "Adaptive Behavior",
+      "level": "sub-domain",
+      "aliases": ["Adaptive Behaviors"],
+      "related_to": ["Evolutionary Psychology"],
+      "children": ["Survival Strategies", "Reproductive Strategies", "Social Behaviors"]
+    },
+    {
+      "name": "Mating Strategies",
+      "level": "sub-domain",
+      "aliases": ["Mating Behaviors"],
+      "related_to": ["Evolutionary Psychology"],
+      "children": ["Courtship Behavior", "Mate Selection", "Mate Retention"]
+    },
+    {
+      "name": "Well-being Research",
+      "level": "sub-domain",
+      "aliases": ["Well-being Studies"],
+      "related_to": ["Positive Psychology"],
+      "children": ["Subjective Well-being", "Psychological Well-being", "Social Well-being"]
+    },
+    {
+      "name": "Happiness Studies",
+      "level": "sub-domain",
+      "aliases": ["Happiness Research"],
+      "related_to": ["Positive Psychology"],
+      "children": ["Happiness Measurement", "Happiness Factors", "Happiness Interventions"]
+    },
+    {
+      "name": "Resilience",
+      "level": "sub-domain",
+      "aliases": ["Resilience Studies"],
+      "related_to": ["Positive Psychology"],
+      "children": ["Resilience Factors", "Resilience Interventions", "Resilience Measurement"]
+    },
+    {
+      "name": "Intelligence Testing",
+      "level": "sub-domain",
+      "aliases": ["IQ Testing"],
+      "related_to": ["Psychometrics"],
+      "children": ["IQ Tests", "Aptitude Tests", "Cognitive Ability Tests"]
+    },
+    {
+      "name": "Personality Testing",
+      "level": "sub-domain",
+      "aliases": ["Personality Assessment"],
+      "related_to": ["Psychometrics"],
+      "children": ["Personality Inventories", "Projective Tests", "Self-Report Measures"]
+    },
+    {
+      "name": "Aptitude Testing",
+      "level": "sub-domain",
+      "aliases": ["Aptitude Assessment"],
+      "related_to": ["Psychometrics"],
+      "children": ["Aptitude Tests", "Skill Tests", "Ability Tests"]
+    },
+    {
+      "name": "Classical Conditioning",
+      "level": "sub-domain",
+      "aliases": ["Pavlovian Conditioning"],
+      "related_to": ["Behavioral Psychology"],
+      "children": ["Associative Learning", "Stimulus-Response Learning", "Conditioned Reflexes"]
+    },
+    {
+      "name": "Operant Conditioning",
+      "level": "sub-domain",
+      "aliases": ["Skinnerian Conditioning"],
+      "related_to": ["Behavioral Psychology"],
+      "children": ["Reinforcement", "Punishment", "Shaping"]
+    },
+    {
+      "name": "Behavior Modification",
+      "level": "sub-domain",
+      "aliases": ["Behavior Change"],
+      "related_to": ["Behavioral Psychology"],
+      "children": ["Behavioral Interventions", "Behavioral Therapy", "Behavioral Training"]
+    },
+    {
+      "name": "Self-Actualization",
+      "level": "sub-domain",
+      "aliases": ["Self-Realization"],
+      "related_to": ["Humanistic Psychology"],
+      "children": ["Personal Growth", "Self-Fulfillment", "Self-Transcendence"]
+    },
+    {
+      "name": "Client-Centered Therapy",
+      "level": "sub-domain",
+      "aliases": ["Person-Centered Therapy"],
+      "related_to": ["Humanistic Psychology"],
+      "children": ["Empathy", "Unconditional Positive Regard", "Genuineness"]
+    },
+    {
+      "name": "Existential Therapy",
+      "level": "sub-domain",
+      "aliases": ["Existential Counseling"],
+      "related_to": ["Humanistic Psychology"],
+      "children": ["Meaning in Life", "Existential Anxiety", "Existential Freedom"]
+    },
+    {
+      "name": "Freudian Theory",
+      "level": "sub-domain",
+      "aliases": ["Freud's Theory"],
+      "related_to": ["Psychoanalysis"],
+      "children": ["Id, Ego, and Superego", "Unconscious Mind", "Psychosexual Development"]
+    },
+    {
+      "name": "Jungian Theory",
+      "level": "sub-domain",
+      "aliases": ["Jung's Theory"],
+      "related_to": ["Psychoanalysis"],
+      "children": ["Collective Unconscious", "Archetypes", "Individuation"]
+    },
+    {
+      "name": "Psychoanalytic Therapy",
+      "level": "sub-domain",
+      "aliases": ["Psychoanalytic Treatment"],
+      "related_to": ["Psychoanalysis"],
+      "children": ["Free Association", "Dream Analysis", "Transference"]
+    },
+    {
+      "name": "Gestalt Principles",
+      "level": "sub-domain",
+      "aliases": ["Gestalt Laws"],
+      "related_to": ["Gestalt Psychology"],
+      "children": ["Proximity", "Similarity", "Continuity"]
+    },
+    {
+      "name": "Gestalt Therapy",
+      "level": "sub-domain",
+      "aliases": ["Gestalt Counseling"],
+      "related_to": ["Gestalt Psychology"],
+      "children": ["Empty Chair Technique", "Role-Playing", "Dialogue"]
+    },
+    {
+      "name": "Gestalt Research",
+      "level": "sub-domain",
+      "aliases": ["Gestalt Studies"],
+      "related_to": ["Gestalt Psychology"],
+      "children": ["Perceptual Organization", "Figure-Ground Perception", "Grouping Principles"]
+    },
+    {
+      "name": "Existential Anxiety",
+      "level": "sub-domain",
+      "aliases": ["Existential Angst"],
+      "related_to": ["Existential Psychology"],
+      "children": ["Death Anxiety", "Freedom Anxiety", "Isolation Anxiety"]
+    },
+    {
+      "name": "Meaning in Life",
+      "level": "sub-domain",
+      "aliases": ["Life Meaning"],
+      "related_to": ["Existential Psychology"],
+      "children": ["Purpose in Life", "Life Goals", "Life Satisfaction"]
+    },
+    {
+      "name": "Existential Therapy",
+      "level": "sub-domain",
+      "aliases": ["Existential Counseling"],
+      "related_to": ["Existential Psychology"],
+      "children": ["Existential Crisis", "Existential Guilt", "Existential Freedom"]
+    },
+    {
+      "name": "Spiritual Development",
+      "level": "sub-domain",
+      "aliases": ["Spiritual Growth"],
+      "related_to": ["Transpersonal Psychology"],
+      "children": ["Spiritual Practices", "Spiritual Experiences", "Spiritual Transformation"]
+    },
+    {
+      "name": "Transpersonal Therapy",
+      "level": "sub-domain",
+      "aliases": ["Transpersonal Counseling"],
+      "related_to": ["Transpersonal Psychology"],
+      "children": ["Holotropic Breathwork", "Shamanic Practices", "Mindfulness Meditation"]
+    },
+    {
+      "name": "Consciousness Studies",
+      "level": "sub-domain",
+      "aliases": ["Consciousness Research"],
+      "related_to": ["Transpersonal Psychology"],
+      "children": ["States of Consciousness", "Altered States of Consciousness", "Consciousness Expansion"]
+    },
+    {
+      "name": "Community Interventions",
+      "level": "sub-domain",
+      "aliases": ["Community Programs"],
+      "related_to": ["Community Psychology"],
+      "children": ["Community Development", "Community Empowerment", "Community Support"]
+    },
+    {
+      "name": "Prevention Programs",
+      "level": "sub-domain",
+      "aliases": ["Prevention Strategies"],
+      "related_to": ["Community Psychology"],
+      "children": ["Disease Prevention", "Crime Prevention", "Substance Abuse Prevention"]
+    },
+    {
+      "name": "Community Research",
+      "level": "sub-domain",
+      "aliases": ["Community Studies"],
+      "related_to": ["Community Psychology"],
+      "children": ["Community Needs Assessment", "Community Evaluation", "Community Participation"]
+    },
+    {
+      "name": "Environmental Design",
+      "level": "sub-domain",
+      "aliases": ["Environmental Planning"],
+      "related_to": ["Environmental Psychology"],
+      "children": ["Architectural Design", "Urban Design", "Landscape Design"]
+    },
+    {
+      "name": "Human-Environment Interaction",
+      "level": "sub-domain",
+      "aliases": ["Human-Environment Relationships"],
+      "related_to": ["Environmental Psychology"],
+      "children": ["Human-Nature Interaction", "Human-Built Environment Interaction", "Human-Social Environment Interaction"]
+    },
+    {
+      "name": "Environmental Behavior",
+      "level": "sub-domain",
+      "aliases": ["Environmental Behavior Studies"],
+      "related_to": ["Environmental Psychology"],
+      "children": ["Pro-environmental Behavior", "Environmental Attitudes", "Environmental Values"]
+    },
+    {
+      "name": "Cultural Differences",
+      "level": "sub-domain",
+      "aliases": ["Cultural Variations"],
+      "related_to": ["Cross-Cultural Psychology"],
+      "children": ["Cultural Values", "Cultural Beliefs", "Cultural Practices"]
+    },
+    {
+      "name": "Cross-Cultural Research",
+      "level": "sub-domain",
+      "aliases": ["Cross-Cultural Studies"],
+      "related_to": ["Cross-Cultural Psychology"],
+      "children": ["Cross-Cultural Comparisons", "Cross-Cultural Analysis", "Cross-Cultural Methods"]
+    },
+    {
+      "name": "Cultural Adaptation",
+      "level": "sub-domain",
+      "aliases": ["Cultural Acculturation"],
+      "related_to": ["Cross-Cultural Psychology"],
+      "children": ["Cultural Integration", "Cultural Assimilation", "Cultural Separation"]
+    },
+    {
+      "name": "Athletic Performance",
+      "level": "sub-domain",
+      "aliases": ["Sport Performance"],
+      "related_to": ["Sport Psychology"],
+      "children": ["Physical Performance", "Mental Performance", "Performance Enhancement"]
+    },
+    {
+      "name": "Mental Training",
+      "level": "sub-domain",
+      "aliases": ["Mental Skills Training"],
+      "related_to": ["Sport Psychology"],
+      "children": ["Visualization", "Goal Setting", "Mental Rehearsal"]
+    },
+    {
+      "name": "Sport Counseling",
+      "level": "sub-domain",
+      "aliases": ["Sport Therapy"],
+      "related_to": ["Sport Psychology"],
+      "children": ["Sport Injury Counseling", "Performance Anxiety Counseling", "Career Transition Counseling"]
+    },
+    {
+      "name": "Combat Stress",
+      "level": "sub-domain",
+      "aliases": ["Combat Trauma"],
+      "related_to": ["Military Psychology"],
+      "children": ["Post-Traumatic Stress Disorder", "Combat Fatigue", "Combat Stress Reactions"]
+    },
+    {
+      "name": "Military Training",
+      "level": "sub-domain",
+      "aliases": ["Military Education"],
+      "related_to": ["Military Psychology"],
+      "children": ["Basic Training", "Advanced Training", "Special Forces Training"]
+    },
+    {
+      "name": "Veteran Care",
+      "level": "sub-domain",
+      "aliases": ["Veteran Support"],
+      "related_to": ["Military Psychology"],
+      "children": ["Veteran Healthcare", "Veteran Counseling", "Veteran Reintegration"]
+    },
+    {
+      "name": "School Counseling",
+      "level": "sub-domain",
+      "aliases": ["School Guidance"],
+      "related_to": ["School Psychology"],
+      "children": ["Academic Counseling", "Career Counseling", "Personal Counseling"]
+    },
+    {
+      "name": "Educational Assessment",
+      "level": "sub-domain",
+      "aliases": ["Educational Testing"],
+      "related_to": ["School Psychology"],
+      "children": ["Standardized Testing", "Formative Assessment", "Summative Assessment"]
+    },
+    {
+      "name": "Behavioral Interventions",
+      "level": "sub-domain",
+      "aliases": ["Behavioral Strategies"],
+      "related_to": ["School Psychology"],
+      "children": ["Behavior Modification", "Behavior Management", "Behavior Therapy"]
+    }
+  ]
+}

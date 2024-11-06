@@ -1,0 +1,695 @@
+ {
+    "team_name": "Alpha Team",
+    "submission_details": {
+      "submission_id": "DS-1",
+      "submission_version": "v1.0.0",
+      "submission_date": "2024-11-04"
+    },
+    "members": [
+      {
+        "id": "S2023332029",
+        "name": "Ghayoor Fatima"
+      },
+      {
+        "id": "F2022332073",
+        "name": "Ayesha Tariq"
+      },
+      {
+        "id": "F2022332022",
+        "name": "Musfirah Shahzeb"
+      }
+    ],
+    
+      "domains": [
+        {
+          "name": "Science",
+          "level": "primary",
+          "aliases": ["Natural Sciences"],
+          "related_to": ["Research", "Academia"],
+          "children": [
+            {
+              "name": "Physics",
+              "level": "secondary",
+              "children": [
+                {
+                  "name": "Quantum Mechanics",
+                  "level": "tertiary",
+                  "children": [
+                    "Quantum Field Theory",
+                    "Quantum Computing",
+                    "Quantum Optics"
+                  ]
+                },
+                {
+                  "name": "Thermodynamics",
+                  "level": "tertiary",
+                  "children": [
+                    "Heat Transfer",
+                    "Statistical Mechanics",
+                    "Classical Thermodynamics"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chemistry",
+              "level": "secondary",
+              "children": [
+                {
+                  "name": "Organic Chemistry",
+                  "level": "tertiary",
+                  "children": [
+                    "Biomolecular Chemistry",
+                    "Polymer Chemistry",
+                    "Environmental Organic Chemistry"
+                  ]
+                },
+                {
+                  "name": "Inorganic Chemistry",
+                  "level": "tertiary",
+                  "children": [
+                    "Coordination Chemistry",
+                    "Organometallic Chemistry",
+                    "Bioinorganic Chemistry"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+        "name": "Engineering",
+        "level": "primary",
+        "aliases": ["Engineering Sciences"],
+        "related_to": ["Technology", "Physics", "Mathematics"],
+        "children": [
+            {
+                "name": "Mechanical Engineering",
+                "level": "secondary",
+                "aliases": ["MechEng", "Mechanical"],
+                "related_to": ["Thermodynamics", "Mechanics"],
+                "children": [
+                    "Thermal Engineering",
+                    "Manufacturing Engineering",
+                    "Mechatronics",
+                    "Automotive Engineering"
+                ]
+            },
+            {
+                "name": "Electrical Engineering",
+                "level": "secondary",
+                "aliases": ["Electrical", "EE"],
+                "related_to": ["Electronics", "Power Systems"],
+                "children": [
+                    "Power Engineering",
+                    "Control Systems Engineering",
+                    "Telecommunications",
+                    "Instrumentation Engineering"
+                ]
+            },
+            {
+                "name": "Civil Engineering",
+                "level": "secondary",
+                "aliases": ["Civil", "Structural Engineering"],
+                "related_to": ["Construction", "Infrastructure"],
+                "children": [
+                    "Structural Engineering",
+                    "Geotechnical Engineering",
+                    "Transportation Engineering",
+                    "Water Resources Engineering"
+                ]
+            },
+            {
+                "name": "Chemical Engineering",
+                "level": "secondary",
+                "aliases": ["ChemEng", "Chemical"],
+                "related_to": ["Chemistry", "Process Engineering"],
+                "children": [
+                    "Process Engineering",
+                    "Biochemical Engineering",
+                    "Materials Engineering",
+                    "Petroleum Engineering"
+                ]
+            },
+            {
+                "name": "Aerospace Engineering",
+                "level": "secondary",
+                "aliases": ["AeroEng", "Aeronautical"],
+                "related_to": ["Physics", "Flight"],
+                "children": [
+                    "Aeronautical Engineering",
+                    "Astronautical Engineering",
+                    "Avionics"
+                ]
+            },
+            {
+                "name": "Biomedical Engineering",
+                "level": "secondary",
+                "aliases": ["BioEng", "Medical Engineering"],
+                "related_to": ["Healthcare", "Biotechnology"],
+                "children": [
+                    "Medical Device Engineering",
+                    "Biomaterials",
+                    "Biomechanics"
+                ]
+            },
+            {
+                "name": "Environmental Engineering",
+                "level": "secondary",
+                "aliases": ["EnvEng", "Environmental"],
+                "related_to": ["Ecology", "Sustainability"],
+                "children": [
+                    "Water Resources Engineering",
+                    "Waste Management",
+                    "Air Quality Control"
+                ]
+            },
+            {
+                "name": "Industrial Engineering",
+                "level": "secondary",
+                "aliases": ["IE", "Manufacturing Engineering"],
+                "related_to": ["Management", "Efficiency"],
+                "children": [
+                    "Production Engineering",
+                    "Operations Research",
+                    "Supply Chain Engineering"
+                ]
+            },
+            {
+                "name": "Nuclear Engineering",
+                "level": "secondary",
+                "aliases": ["Nuclear", "Atomic Engineering"],
+                "related_to": ["Physics", "Energy"],
+                "children": [
+                    "Radiological Engineering",
+                    "Fusion Engineering",
+                    "Reactor Engineering"
+                ]
+            },
+            {
+                "name": "Materials Engineering",
+                "level": "secondary",
+                "aliases": ["Materials Science", "Metallurgy"],
+                "related_to": ["Chemistry", "Physics"],
+                "children": [
+                    "Metallurgical Engineering",
+                    "Polymer Engineering",
+                    "Nanotechnology"
+                ]
+            },
+            {
+                "name": "Computer Engineering",
+                "level": "secondary",
+                "aliases": ["CompEng", "CE"],
+                "related_to": ["Computer Science", "IT"],
+                "children": [
+                    "Hardware Engineering",
+                    "Embedded Systems",
+                    "Software Engineering"
+                ]
+            },
+            {
+                "name": "Robotics Engineering",
+                "level": "secondary",
+                "aliases": ["Robotics", "Automation"],
+                "related_to": ["Mechanical Engineering", "Computer Engineering"],
+                "children": [
+                    "Autonomous Systems",
+                    "Human-Robot Interaction",
+                    "Industrial Robotics"
+                ]
+            },
+            {
+                "name": "Automotive Engineering",
+                "level": "secondary",
+                "aliases": ["Automobile Engineering", "Vehicle Engineering"],
+                "related_to": ["Mechanical Engineering", "Electrical Engineering"],
+                "children": [
+                    "Vehicle Design",
+                    "Powertrain Engineering",
+                    "Safety Engineering"
+                ]
+            },
+            {
+                "name": "Marine Engineering",
+                "level": "secondary",
+                "aliases": ["Marine", "Ocean Engineering"],
+                "related_to": ["Mechanical Engineering", "Naval Architecture"],
+                "children": [
+                    "Offshore Engineering",
+                    "Naval Architecture",
+                    "Ocean Engineering"
+                ]
+            },
+            {
+                "name": "Software Engineering",
+                "level": "secondary",
+                "aliases": ["Software Development", "Programming"],
+                "related_to": ["Computer Science", "IT"],
+                "children": [
+                    "Web Development",
+                    "Application Development",
+                    "Systems Programming"
+                ]
+            }
+        ]
+    },
+        {
+          "name": "Medicine",
+          "level": "primary",
+          "aliases": ["Healthcare"],
+          "related_to": ["Biology", "Health Sciences"],
+          "children": [
+            {
+              "name": "Surgery",
+              "level": "secondary",
+              "children": [
+                {
+                  "name": "Neurosurgery",
+                  "level": "tertiary",
+                  "children": [
+                    "Brain Surgery",
+                    "Spinal Surgery",
+                    "Pediatric Neurosurgery"
+                  ]
+                },
+                {
+                  "name": "Cardiothoracic Surgery",
+                  "level": "tertiary",
+                  "children": [
+                    "Heart Surgery",
+                    "Lung Surgery",
+                    "Minimally Invasive Surgery"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Internal Medicine",
+              "level": "secondary",
+              "children": [
+                {
+                  "name": "Cardiology",
+                  "level": "tertiary",
+                  "children": [
+                    "Interventional Cardiology",
+                    "Electrophysiology",
+                    "Heart Failure"
+                  ]
+                },
+                {
+                  "name": "Endocrinology",
+                  "level": "tertiary",
+                  "children": [
+                    "Diabetes Management",
+                    "Thyroid Disorders",
+                    "Adrenal Disorders"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Computer Science",
+          "level": "primary",
+          "aliases": ["Computing"],
+          "related_to": ["Technology", "Engineering"],
+          "children": [
+            {
+              "name": "Software Development",
+              "level": "secondary",
+              "children": [
+                {
+                  "name": "Web Development",
+                  "level": "tertiary",
+                  "children": [
+                    "Frontend Development",
+                    "Backend Development",
+                    "Full-Stack Development"
+                  ]
+                },
+                {
+                  "name": "Mobile Development",
+                  "level": "tertiary",
+                  "children": [
+                    "iOS Development",
+                    "Android Development",
+                    "Cross-Platform Development"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Data Science",
+              "level": "secondary",
+              "children": [
+                
+                {
+                  "name": "Machine Learning",
+                  "level": "tertiary",
+                  "aliases": ["ML"],
+                  "related_to": ["Artificial Intelligence", "Statistics"],
+                  "children": [
+                     "Supervised Learning" ,
+                     "Unsupervised Learning" ,
+                     "Reinforcement Learning" ,
+                     "Deep Learning" ,
+                     "Natural Language Processing" 
+                  ]
+                },
+                {
+                  "name": "Big Data",
+                  "level": "tertiary",
+                  "aliases": ["Large-scale Data Analysis"],
+                  "related_to": ["Data Science", "Cloud Computing"],
+                  "children": [
+                     "Data Lakes" ,
+                     "Data Warehousing" ,
+                     "Distributed Computing" ,
+                     "Real-time Data Processing" ,
+                     "Data Mining" 
+                  ]
+                },
+                {
+                  "name": "Statistics",
+                  "level": "tertiary",
+                  "aliases": ["Statistical Science"],
+                  "related_to": ["Mathematics", "Data Science"],
+                  "children": [
+                     "Descriptive Statistics" ,
+                     "Inferential Statistics" ,
+                     "Bayesian Statistics" ,
+                     "Regression Analysis" ,
+                     "Hypothesis Testing" 
+                  ]
+                },
+                {
+                  "name": "Data Engineering",
+                  "level": "tertiary",
+                  "aliases": ["Data Architecture"],
+                  "related_to": ["Big Data", "Database Management"],
+                  "children": [
+                     "Data Pipeline Development" ,
+                     "ETL Processes" ,
+                     "Data Storage Solutions" ,
+                     "Data Quality Management" ,
+                     "Database Design" 
+                  ]
+                },
+                {
+                  "name": "Data Visualization",
+                  "level": "tertiary",
+                  "aliases": ["Data Presentation"],
+                  "related_to": ["Data Science", "Information Design"],
+                  "children": [
+                     "Interactive Dashboards" ,
+                     "Infographics" ,
+                     "Data Storytelling" ,
+                     "Geospatial Visualization" ,
+                     "Time Series Visualization" 
+                  ]
+                },
+                
+                {
+                  "name": "Natural Language Processing",
+                  "level": "tertiary",
+                  "aliases": ["NLP"],
+                  "related_to": ["Machine Learning", "Linguistics"],
+                  "children": [
+                     "Text Classification" ,
+                     "Sentiment Analysis" ,
+                     "Speech Recognition" ,
+                     "Machine Translation" ,
+                     "Chatbots" 
+                  ]
+                },
+                {
+                  "name": "Computer Vision",
+                  "level": "tertiary",
+                  "aliases": ["Image Processing"],
+                  "related_to": ["Artificial Intelligence", "Machine Learning"],
+                  "children": [
+                     "Object Detection" ,
+                     "Image Segmentation" ,
+                     "Facial Recognition" ,
+                     "Video Analysis" ,
+                     "3D Reconstruction" 
+                  ]
+                },
+                
+                {
+                  "name": "Cloud Computing",
+                  "level": "tertiary",
+                  "aliases": ["Cloud Technology"],
+                  "related_to": ["Big Data", "Data Storage"],
+                  "children": [
+                     "Infrastructure as a Service" ,
+                     "Platform as a Service" ,
+                     "Software as a Service" ,
+                     "Serverless Computing" ,
+                     "Cloud Security" 
+                  ]
+                },
+                {
+                  "name": "Big Data",
+                  "level": "tertiary",
+                  "aliases": ["Large-scale Data Analysis"],
+                  "related_to": ["Data Science", "Cloud Computing"],
+                  "children": [
+                      "Data Lakes" ,
+                     "Data Warehousing" ,
+                     "Distributed Computing" ,
+                     "Real-time Data Processing" ,
+                     "Data Mining" 
+                  ]
+                },
+                {
+                  "name": "Data Engineering",
+                  "level": "tertiary",
+                  "children": [
+                    "Data Pipelines",
+                    "Big Data",
+                    "ETL Processes"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+        "name": "Business",
+        "level": "primary",
+        "aliases": ["Commerce", "Corporate"],
+        "related_to": ["Economics", "Finance", "Management"],
+        "children": [
+            {
+                "name": "Finance",
+                "level": "secondary",
+                "aliases": ["Financial Management", "Corporate Finance"],
+                "related_to": ["Economics", "Accounting"],
+                "children": [
+                    {
+                        "name": "Investment Banking",
+                        "level": "tertiary",
+                        "aliases": ["IB", "Investment"],
+                        "related_to": ["Corporate Finance", "Capital Markets"],
+                        "children": [
+                            "Mergers and Acquisitions",
+                            "Equity Research",
+                            "Sales and Trading"
+                        ]
+                    },
+                    {
+                        "name": "Corporate Finance",
+                        "level": "tertiary",
+                        "aliases": ["CorpFin", "Financial Planning"],
+                        "related_to": ["Accounting", "Risk Management"],
+                        "children": [
+                            "Financial Planning and Analysis",
+                            "Capital Budgeting",
+                            "Treasury Management"
+                        ]
+                    },
+                    {
+                        "name": "Wealth Management",
+                        "level": "tertiary",
+                        "aliases": ["WM", "Private Banking"],
+                        "related_to": ["Personal Finance", "Investments"],
+                        "children": [
+                            "Portfolio Management",
+                            "Financial Advisory",
+                            "Estate Planning"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Marketing",
+                "level": "secondary",
+                "aliases": ["Sales", "Branding"],
+                "related_to": ["Consumer Behavior", "Advertising"],
+                "children": [
+                    {
+                        "name": "Digital Marketing",
+                        "level": "tertiary",
+                        "aliases": ["Online Marketing", "Internet Marketing"],
+                        "related_to": ["Social Media", "Content Marketing"],
+                        "children": [
+                            "Search Engine Optimization (SEO)",
+                            "Pay-Per-Click (PPC)",
+                            "Email Marketing"
+                        ]
+                    },
+                    {
+                        "name": "Market Research",
+                        "level": "tertiary",
+                        "aliases": ["Consumer Insights", "Research"],
+                        "related_to": ["Data Analytics", "Consumer Behavior"],
+                        "children": [
+                            "Qualitative Research",
+                            "Quantitative Research",
+                            "Survey Analysis"
+                        ]
+                    },
+                    {
+                        "name": "Product Marketing",
+                        "level": "tertiary",
+                        "aliases": ["Product Management", "Product Promotion"],
+                        "related_to": ["Sales", "Product Development"],
+                        "children": [
+                            "Product Launch",
+                            "Market Positioning",
+                            "Product Lifecycle Management"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Human Resources",
+                "level": "secondary",
+                "aliases": ["HR", "Personnel Management"],
+                "related_to": ["Organizational Behavior", "Labor Relations"],
+                "children": [
+                    {
+                        "name": "Recruitment",
+                        "level": "tertiary",
+                        "aliases": ["Hiring", "Talent Acquisition"],
+                        "related_to": ["Talent Management", "Staffing"],
+                        "children": [
+                            "Job Posting",
+                            "Candidate Screening",
+                            "Interviewing"
+                        ]
+                    },
+                    {
+                        "name": "Training and Development",
+                        "level": "tertiary",
+                        "aliases": ["Learning and Development", "Employee Training"],
+                        "related_to": ["Employee Engagement", "Performance Management"],
+                        "children": [
+                            "Onboarding",
+                            "Skills Development",
+                            "Leadership Training"
+                        ]
+                    },
+                    {
+                        "name": "Compensation and Benefits",
+                        "level": "tertiary",
+                        "aliases": ["Payroll", "Employee Benefits"],
+                        "related_to": ["Finance", "Employee Satisfaction"],
+                        "children": [
+                            "Salary Structuring",
+                            "Health Insurance",
+                            "Retirement Plans"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Operations Management",
+                "level": "secondary",
+                "aliases": ["Operations", "Production Management"],
+                "related_to": ["Supply Chain", "Logistics"],
+                "children": [
+                    {
+                        "name": "Supply Chain Management",
+                        "level": "tertiary",
+                        "aliases": ["SCM", "Supply Chain"],
+                        "related_to": ["Logistics", "Inventory Management"],
+                        "children": [
+                            "Procurement",
+                            "Inventory Management",
+                            "Distribution"
+                        ]
+                    },
+                    {
+                        "name": "Quality Control",
+                        "level": "tertiary",
+                        "aliases": ["QC", "Quality Assurance"],
+                        "related_to": ["Manufacturing", "Process Improvement"],
+                        "children": [
+                            "Process Inspection",
+                            "Testing and Certification",
+                            "Compliance Standards"
+                        ]
+                    },
+                    {
+                        "name": "Process Improvement",
+                        "level": "tertiary",
+                        "aliases": ["Operational Efficiency", "Lean Management"],
+                        "related_to": ["Operations", "Project Management"],
+                        "children": [
+                            "Lean Six Sigma",
+                            "Kaizen",
+                            "Process Automation"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Accounting",
+                "level": "secondary",
+                "aliases": ["Financial Accounting", "Bookkeeping"],
+                "related_to": ["Finance", "Auditing"],
+                "children": [
+                    {
+                        "name": "Managerial Accounting",
+                        "level": "tertiary",
+                        "aliases": ["Cost Accounting", "Management Accounting"],
+                        "related_to": ["Finance", "Budgeting"],
+                        "children": [
+                            "Cost Analysis",
+                            "Budget Preparation",
+                            "Variance Analysis"
+                        ]
+                    },
+                    {
+                        "name": "Tax Accounting",
+                        "level": "tertiary",
+                        "aliases": ["Taxation", "Tax Preparation"],
+                        "related_to": ["Law", "Compliance"],
+                        "children": [
+                            "Corporate Tax",
+                            "Income Tax",
+                            "Sales Tax"
+                        ]
+                    },
+                    {
+                        "name": "Auditing",
+                        "level": "tertiary",
+                        "aliases": ["Audit", "Internal Control"],
+                        "related_to": ["Compliance", "Risk Management"],
+                        "children": [
+                            "Internal Auditing",
+                            "External Auditing",
+                            "Compliance Auditing"
+                        ]
+                    }
+                ]
+            }
+        ]
+      }
+    ]
+  }    
+    

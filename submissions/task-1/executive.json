@@ -1,0 +1,1643 @@
+{
+    "team_name": "Executive",
+    "members": [
+      {
+        "id": "F2021376015",
+        "name": "Muhammad Ahmed"
+      }
+    ],
+    "domains": [
+      {
+        "name": "Computer Science",
+        "level": "primary",
+        "aliases": ["CS"],
+        "related_to": ["Mathematics"],
+        "children": ["Artificial Intelligence", "Software Engineering", "Information Technology", "Cyber Security", "Data Science", "Game Development"]
+      },
+      {
+        "name": "Artificial Intelligence",
+        "level": "sub-domain",
+        "aliases": ["AI"],
+        "related_to": ["Machine Learning"],
+        "children": ["Machine Learning", "Natural Language Processing", "Computer Vision", "Robotics"]
+      },
+      {
+        "name": "Machine Learning",
+        "level": "sub-domain",
+        "aliases": ["ML"],
+        "related_to": ["Statistics"],
+        "children": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning", "Deep Learning"]
+      },
+      {
+        "name": "Supervised Learning",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Predictive Modeling"],
+        "children": ["Regression Specialist", "Classification Specialist"]
+      },
+      {
+        "name": "Unsupervised Learning",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": [],
+        "children": ["Clustering Analyst", "Dimensionality Reduction Expert"]
+      },
+      {
+        "name": "Deep Learning",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Neural Networks"],
+        "children": ["CNN Developer", "RNN Developer", "Transformer Model Specialist"]
+      },
+      {
+        "name": "Software Engineering",
+        "level": "sub-domain",
+        "aliases": ["SE"],
+        "related_to": ["Computer Science"],
+        "children": ["Application Development", "Systems Engineering", "DevOps Engineering", "Quality Assurance"]
+      },
+      {
+        "name": "Application Development",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Web Development"],
+        "children": ["Full Stack Developer", "Front-end Developer", "Backend Developer"]
+      },
+      {
+        "name": "Full Stack Developer",
+        "level": "job position",
+        "aliases": [],
+        "related_to": [],
+        "children": ["React Developer", "Node.js Developer"]
+      },
+      {
+        "name": "Front-end Developer",
+        "level": "job position",
+        "aliases": [],
+        "related_to": [],
+        "children": ["React Developer", "Angular Developer", "Vue.js Developer"]
+      },
+      {
+        "name": "Backend Developer",
+        "level": "job position",
+        "aliases": [],
+        "related_to": [],
+        "children": ["Java Developer", "Python Developer", "Laravel Developer"]
+      },
+      {
+        "name": "Information Technology",
+        "level": "sub-domain",
+        "aliases": ["IT"],
+        "related_to": ["Networking"],
+        "children": ["System Administration", "IT Support", "Cloud Services"]
+      },
+      {
+        "name": "System Administration",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": [],
+        "children": ["Network Administrator", "Linux System Administrator"]
+      },
+      {
+        "name": "Cyber Security",
+        "level": "sub-domain",
+        "aliases": ["InfoSec"],
+        "related_to": ["IT Security"],
+        "children": ["Network Security", "Application Security", "Incident Response"]
+      },
+      {
+        "name": "Network Security",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Network Administration"],
+        "children": ["Security Analyst", "Firewall Specialist", "IDS/IPS Analyst"]
+      },
+      {
+        "name": "Data Science",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Machine Learning"],
+        "children": ["Data Analysis", "Big Data Processing", "Data Visualization"]
+      },
+      {
+        "name": "Data Analysis",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Statistics"],
+        "children": ["Data Analyst", "Data Scientist"]
+      },
+      {
+        "name": "Game Development",
+        "level": "sub-domain",
+        "aliases": ["Game Design"],
+        "related_to": ["Computer Graphics"],
+        "children": ["Game Programming", "Game Design"]
+      },
+      {
+        "name": "Game Programming",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Software Engineering"],
+        "children": ["Unity Developer", "Unreal Engine Developer"]
+      },
+      {
+        "name": "Game Design",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["HCI"],
+        "children": ["Game Designer", "Level Designer"]
+      },
+      {
+        "name": "Engineering",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Applied Sciences", "Technology"],
+        "children": ["Mechanical Engineering", "Electrical Engineering", "Civil Engineering", "Industrial Engineering", "Chemical Engineering", "Aerospace Engineering", "Biomedical Engineering", "Environmental Engineering", "Software Engineering", "Petroleum Engineering"]
+      },
+      {
+        "name": "Mechanical Engineering",
+        "level": "sub-domain",
+        "aliases": ["ME"],
+        "related_to": ["Engineering"],
+        "children": ["Thermodynamics", "Manufacturing Engineering", "Robotics", "Automotive Engineering"]
+      },
+      {
+        "name": "Thermodynamics",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Heat Transfer", "Energy Systems"],
+        "children": ["Thermal Engineer", "HVAC Engineer"]
+      },
+      {
+        "name": "Manufacturing Engineering",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Production Engineering"],
+        "children": ["Manufacturing Engineer", "Process Engineer", "Quality Engineer"]
+      },
+      {
+        "name": "Robotics",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Automation", "Control Systems"],
+        "children": ["Robotics Engineer", "Automation Engineer"]
+      },
+      {
+        "name": "Automotive Engineering",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Transportation Engineering"],
+        "children": ["Automotive Engineer", "Vehicle Design Engineer", "Safety Engineer"]
+      },
+      {
+        "name": "Electrical Engineering",
+        "level": "sub-domain",
+        "aliases": ["EE"],
+        "related_to": ["Engineering"],
+        "children": ["Power Engineering", "Control Engineering", "Telecommunications", "Electronics"]
+      },
+      {
+        "name": "Power Engineering",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Energy Systems"],
+        "children": ["Power Systems Engineer", "Electrical Grid Engineer"]
+      },
+      {
+        "name": "Control Engineering",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Automation"],
+        "children": ["Control Systems Engineer", "Instrumentation Engineer"]
+      },
+      {
+        "name": "Telecommunications",
+        "level": "sub-category",
+        "aliases": ["Telecom"],
+        "related_to": ["Networking", "Signal Processing"],
+        "children": ["Telecommunications Engineer", "Network Engineer"]
+      },
+      {
+        "name": "Electronics",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Embedded Systems"],
+        "children": ["Electronics Engineer", "Embedded Systems Engineer"]
+      },
+      {
+        "name": "Civil Engineering",
+        "level": "sub-domain",
+        "aliases": ["CE"],
+        "related_to": ["Engineering"],
+        "children": ["Structural Engineering", "Geotechnical Engineering", "Transportation Engineering", "Environmental Engineering"]
+      },
+      {
+        "name": "Structural Engineering",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Civil Engineering"],
+        "children": ["Structural Engineer", "Bridge Engineer"]
+      },
+      {
+        "name": "Geotechnical Engineering",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Soil Mechanics"],
+        "children": ["Geotechnical Engineer", "Soil Engineer"]
+      },
+      {
+        "name": "Transportation Engineering",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Urban Planning"],
+        "children": ["Transportation Engineer", "Traffic Engineer"]
+      },
+      {
+        "name": "Environmental Engineering",
+        "level": "sub-domain",
+        "aliases": ["EnvEng"],
+        "related_to": ["Sustainability"],
+        "children": ["Water Resources Engineering", "Waste Management", "Air Quality Control"]
+      },
+      {
+        "name": "Water Resources Engineering",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Hydrology"],
+        "children": ["Water Resource Engineer", "Hydrologist"]
+      },
+      {
+        "name": "Waste Management",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Recycling", "Environmental Health"],
+        "children": ["Waste Management Engineer", "Environmental Scientist"]
+      },
+      {
+        "name": "Air Quality Control",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Pollution Control"],
+        "children": ["Air Quality Engineer", "Environmental Analyst"]
+      },
+      {
+        "name": "Industrial Engineering",
+        "level": "sub-domain",
+        "aliases": ["IE"],
+        "related_to": ["Optimization"],
+        "children": ["Production Engineering", "Quality Engineering", "Operations Management"]
+      },
+      {
+        "name": "Production Engineering",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Manufacturing"],
+        "children": ["Production Engineer", "Industrial Engineer"]
+      },
+      {
+        "name": "Quality Engineering",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Quality Assurance"],
+        "children": ["Quality Engineer", "Quality Assurance Specialist"]
+      },
+      {
+        "name": "Operations Management",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Logistics"],
+        "children": ["Operations Manager", "Supply Chain Engineer"]
+      },
+      {
+        "name": "Chemical Engineering",
+        "level": "sub-domain",
+        "aliases": ["ChemEng"],
+        "related_to": ["Chemistry"],
+        "children": ["Process Engineering", "Biochemical Engineering", "Materials Science"]
+      },
+      {
+        "name": "Process Engineering",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Manufacturing"],
+        "children": ["Process Engineer", "Chemical Process Engineer"]
+      },
+      {
+        "name": "Biochemical Engineering",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Biotechnology"],
+        "children": ["Biochemical Engineer", "Bioprocess Engineer"]
+      },
+      {
+        "name": "Materials Science",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Nanotechnology"],
+        "children": ["Materials Engineer", "Metallurgist"]
+      },
+      {
+        "name": "Aerospace Engineering",
+        "level": "sub-domain",
+        "aliases": ["AeroEng"],
+        "related_to": ["Mechanical Engineering"],
+        "children": ["Aerodynamics", "Avionics", "Propulsion"]
+      },
+      {
+        "name": "Aerodynamics",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Fluid Dynamics"],
+        "children": ["Aerodynamicist", "Flight Dynamics Engineer"]
+      },
+      {
+        "name": "Avionics",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Electronics"],
+        "children": ["Avionics Engineer", "Systems Engineer"]
+      },
+      {
+        "name": "Propulsion",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Mechanical Engineering"],
+        "children": ["Propulsion Engineer", "Rocket Scientist"]
+      },
+      {
+        "name": "Biomedical Engineering",
+        "level": "sub-domain",
+        "aliases": ["BME"],
+        "related_to": ["Healthcare"],
+        "children": ["Medical Devices", "Biomechanics", "Clinical Engineering"]
+      },
+      {
+        "name": "Medical Devices",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Healthcare Technology"],
+        "children": ["Medical Device Engineer", "Biomedical Engineer"]
+      },
+      {
+        "name": "Biomechanics",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Anatomy"],
+        "children": ["Biomechanical Engineer", "Research Scientist"]
+      },
+      {
+        "name": "Clinical Engineering",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Healthcare"],
+        "children": ["Clinical Engineer", "Medical Equipment Engineer"]
+      },
+      {
+        "name": "Software Engineering",
+        "level": "sub-domain",
+        "aliases": ["SE"],
+        "related_to": ["Computer Science"],
+        "children": ["Application Development", "Systems Engineering", "DevOps Engineering"]
+      },
+      {
+        "name": "Application Development",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Web Development"],
+        "children": ["Full Stack Developer", "Front-end Developer", "Backend Developer"]
+      },
+      {
+        "name": "Petroleum Engineering",
+        "level": "sub-domain",
+        "aliases": ["PE"],
+        "related_to": ["Energy"],
+        "children": ["Reservoir Engineering", "Drilling Engineering", "Production Engineering"]
+      },
+      {
+        "name": "Reservoir Engineering",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Geology"],
+        "children": ["Reservoir Engineer", "Petroleum Geologist"]
+      },
+      {
+        "name": "Drilling Engineering",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Mechanical Engineering"],
+        "children": ["Drilling Engineer", "Well Planning Engineer"]
+      },
+      {
+        "name": "Production Engineering",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Industrial Engineering"],
+        "children": ["Production Engineer", "Facilities Engineer"]
+      },
+      {
+        "name": "Aviation",
+        "level": "primary",
+        "aliases": ["Aerospace"],
+        "related_to": ["Engineering", "Transportation"],
+        "children": ["Flight Operations", "Aerospace Engineering", "Air Traffic Control", "Aviation Safety", "Aircraft Maintenance", "Airport Operations", "Aviation Management"]
+      },
+      {
+        "name": "Flight Operations",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Piloting", "Aviation Safety"],
+        "children": ["Commercial Piloting", "Military Piloting", "Flight Instructing", "Helicopter Operations"]
+      },
+      {
+        "name": "Commercial Piloting",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Airlines"],
+        "children": ["Airline Pilot", "Charter Pilot", "Cargo Pilot"]
+      },
+      {
+        "name": "Military Piloting",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Defense"],
+        "children": ["Fighter Pilot", "Transport Pilot", "Reconnaissance Pilot"]
+      },
+      {
+        "name": "Flight Instructing",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Education", "Flight Training"],
+        "children": ["Flight Instructor", "Certified Flight Instructor", "Ground Instructor"]
+      },
+      {
+        "name": "Helicopter Operations",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Emergency Response"],
+        "children": ["Helicopter Pilot", "Air Ambulance Pilot", "Search and Rescue Pilot"]
+      },
+      {
+        "name": "Aerospace Engineering",
+        "level": "sub-domain",
+        "aliases": ["AeroEng"],
+        "related_to": ["Engineering", "Technology"],
+        "children": ["Aircraft Design", "Aerodynamics", "Propulsion Systems", "Avionics"]
+      },
+      {
+        "name": "Aircraft Design",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Mechanical Engineering"],
+        "children": ["Aerospace Engineer", "Aircraft Structural Engineer", "Design Engineer"]
+      },
+      {
+        "name": "Aerodynamics",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Fluid Dynamics"],
+        "children": ["Aerodynamicist", "Flight Dynamics Engineer"]
+      },
+      {
+        "name": "Propulsion Systems",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Mechanical Engineering"],
+        "children": ["Propulsion Engineer", "Jet Engine Engineer", "Rocket Scientist"]
+      },
+      {
+        "name": "Avionics",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Electronics", "Control Systems"],
+        "children": ["Avionics Engineer", "Systems Engineer", "Flight Systems Engineer"]
+      },
+      {
+        "name": "Air Traffic Control",
+        "level": "sub-domain",
+        "aliases": ["ATC"],
+        "related_to": ["Aviation Safety", "Navigation"],
+        "children": ["Tower Control", "Approach Control", "En Route Control"]
+      },
+      {
+        "name": "Tower Control",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Airport Operations"],
+        "children": ["Tower Controller", "Ground Controller"]
+      },
+      {
+        "name": "Approach Control",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Radar"],
+        "children": ["Approach Controller", "Radar Controller"]
+      },
+      {
+        "name": "En Route Control",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Air Traffic Management"],
+        "children": ["En Route Controller", "Center Controller"]
+      },
+      {
+        "name": "Aviation Safety",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Risk Management", "Regulations"],
+        "children": ["Safety Management", "Accident Investigation", "Emergency Response"]
+      },
+      {
+        "name": "Safety Management",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Compliance"],
+        "children": ["Safety Manager", "Risk Analyst"]
+      },
+      {
+        "name": "Accident Investigation",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Forensics"],
+        "children": ["Accident Investigator", "Aviation Safety Inspector"]
+      },
+      {
+        "name": "Emergency Response",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Crisis Management"],
+        "children": ["Emergency Response Coordinator", "Rescue Operations Manager"]
+      },
+      {
+        "name": "Aircraft Maintenance",
+        "level": "sub-domain",
+        "aliases": ["Maintenance Engineering"],
+        "related_to": ["Engineering", "Mechanical Engineering"],
+        "children": ["Airframe Maintenance", "Powerplant Maintenance", "Avionics Maintenance"]
+      },
+      {
+        "name": "Airframe Maintenance",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Structural Engineering"],
+        "children": ["Airframe Mechanic", "Aircraft Maintenance Engineer"]
+      },
+      {
+        "name": "Powerplant Maintenance",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Propulsion Systems"],
+        "children": ["Powerplant Mechanic", "Jet Engine Technician"]
+      },
+      {
+        "name": "Avionics Maintenance",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Electronics"],
+        "children": ["Avionics Technician", "Electronic Systems Specialist"]
+      },
+      {
+        "name": "Airport Operations",
+        "level": "sub-domain",
+        "aliases": ["Airport Management"],
+        "related_to": ["Airports", "Transportation"],
+        "children": ["Ground Operations", "Passenger Services", "Cargo Operations"]
+      },
+      {
+        "name": "Ground Operations",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Logistics"],
+        "children": ["Ground Crew", "Ramp Agent", "Operations Coordinator"]
+      },
+      {
+        "name": "Passenger Services",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Customer Service"],
+        "children": ["Passenger Service Agent", "Gate Agent"]
+      },
+      {
+        "name": "Cargo Operations",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Logistics"],
+        "children": ["Cargo Handler", "Freight Coordinator"]
+      },
+      {
+        "name": "Aviation Management",
+        "level": "sub-domain",
+        "aliases": ["Aviation Administration"],
+        "related_to": ["Business Administration", "Finance"],
+        "children": ["Airline Management", "Airport Management", "Fleet Management"]
+      },
+      {
+        "name": "Airline Management",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Airlines"],
+        "children": ["Route Planner", "Airline Operations Manager", "Revenue Manager"]
+      },
+      {
+        "name": "Airport Management",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Airport Operations"],
+        "children": ["Airport Manager", "Operations Director"]
+      },
+      {
+        "name": "Fleet Management",
+        "level": "sub-category",
+        "aliases": [],
+        "related_to": ["Logistics"],
+        "children": ["Fleet Manager", "Maintenance Planner"]
+      },
+      {
+        "name": "Medical",
+        "level": "primary",
+        "aliases": ["Healthcare", "Medicine"],
+        "related_to": ["Biology", "Health Sciences"],
+        "children": ["Clinical Medicine", "Surgery", "Medical Research", "Medical Imaging", "Public Health", "Allied Health", "Pharmacy", "Nursing", "Medical Administration", "Medical Education"]
+      },
+      {
+        "name": "Clinical Medicine",
+        "level": "sub-domain",
+        "aliases": ["Internal Medicine", "Clinical Practice"],
+        "related_to": ["Patient Care"],
+        "children": ["General Practice", "Pediatrics", "Cardiology", "Neurology", "Oncology", "Endocrinology", "Pulmonology", "Rheumatology", "Infectious Disease"]
+      },
+      {
+        "name": "General Practice",
+        "level": "category",
+        "aliases": ["Family Medicine", "Primary Care"],
+        "related_to": ["Primary Care", "Preventive Medicine"],
+        "children": ["Family Physician", "General Practitioner", "Primary Care Physician"]
+      },
+      {
+        "name": "Pediatrics",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Child Healthcare"],
+        "children": ["Pediatrician", "Neonatologist", "Pediatric Cardiologist"]
+      },
+      {
+        "name": "Cardiology",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Cardiovascular Medicine"],
+        "children": ["Cardiologist", "Interventional Cardiologist", "Electrophysiologist"]
+      },
+      {
+        "name": "Neurology",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Brain Sciences", "Nervous System"],
+        "children": ["Neurologist", "Neuropsychiatrist", "Epileptologist"]
+      },
+      {
+        "name": "Oncology",
+        "level": "category",
+        "aliases": ["Cancer Medicine"],
+        "related_to": ["Cancer Research"],
+        "children": ["Medical Oncologist", "Radiation Oncologist", "Hematologist-Oncologist"]
+      },
+      {
+        "name": "Endocrinology",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Hormone Disorders"],
+        "children": ["Endocrinologist", "Diabetologist", "Pediatric Endocrinologist"]
+      },
+      {
+        "name": "Pulmonology",
+        "level": "category",
+        "aliases": ["Respiratory Medicine"],
+        "related_to": ["Respiratory Health"],
+        "children": ["Pulmonologist", "Critical Care Physician"]
+      },
+      {
+        "name": "Rheumatology",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Immunology"],
+        "children": ["Rheumatologist", "Pediatric Rheumatologist"]
+      },
+      {
+        "name": "Infectious Disease",
+        "level": "category",
+        "aliases": ["ID"],
+        "related_to": ["Epidemiology", "Public Health"],
+        "children": ["Infectious Disease Specialist", "Virologist", "HIV Specialist"]
+      },
+      {
+        "name": "Surgery",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Medical Procedures"],
+        "children": ["General Surgery", "Orthopedic Surgery", "Neurosurgery", "Cardiothoracic Surgery", "Plastic Surgery", "Ophthalmic Surgery", "Pediatric Surgery"]
+      },
+      {
+        "name": "General Surgery",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["General Medicine"],
+        "children": ["General Surgeon", "Trauma Surgeon"]
+      },
+      {
+        "name": "Orthopedic Surgery",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Bone Health"],
+        "children": ["Orthopedic Surgeon", "Spine Surgeon", "Sports Medicine Surgeon"]
+      },
+      {
+        "name": "Neurosurgery",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Neurology"],
+        "children": ["Neurosurgeon", "Pediatric Neurosurgeon"]
+      },
+      {
+        "name": "Cardiothoracic Surgery",
+        "level": "category",
+        "aliases": ["CT Surgery"],
+        "related_to": ["Cardiology", "Pulmonology"],
+        "children": ["Cardiac Surgeon", "Thoracic Surgeon"]
+      },
+      {
+        "name": "Plastic Surgery",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Cosmetic Surgery"],
+        "children": ["Plastic Surgeon", "Reconstructive Surgeon"]
+      },
+      {
+        "name": "Ophthalmic Surgery",
+        "level": "category",
+        "aliases": ["Eye Surgery"],
+        "related_to": ["Ophthalmology"],
+        "children": ["Ophthalmic Surgeon", "Retinal Specialist"]
+      },
+      {
+        "name": "Pediatric Surgery",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Pediatrics"],
+        "children": ["Pediatric Surgeon", "Neonatal Surgeon"]
+      },
+      {
+        "name": "Medical Research",
+        "level": "sub-domain",
+        "aliases": ["Biomedical Research"],
+        "related_to": ["Biotechnology", "Clinical Trials"],
+        "children": ["Clinical Research", "Basic Research", "Epidemiology", "Genetics"]
+      },
+      {
+        "name": "Clinical Research",
+        "level": "category",
+        "aliases": ["Translational Research"],
+        "related_to": ["Drug Development"],
+        "children": ["Clinical Research Scientist", "Clinical Trials Coordinator"]
+      },
+      {
+        "name": "Basic Research",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Fundamental Science"],
+        "children": ["Biochemist", "Molecular Biologist"]
+      },
+      {
+        "name": "Epidemiology",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Public Health"],
+        "children": ["Epidemiologist", "Infectious Disease Epidemiologist"]
+      },
+      {
+        "name": "Genetics",
+        "level": "category",
+        "aliases": ["Genomics"],
+        "related_to": ["Heredity"],
+        "children": ["Geneticist", "Clinical Geneticist"]
+      },
+      {
+        "name": "Medical Imaging",
+        "level": "sub-domain",
+        "aliases": ["Radiology"],
+        "related_to": ["Diagnostic Medicine"],
+        "children": ["Radiology", "Ultrasound", "Nuclear Medicine", "Radiation Therapy"]
+      },
+      {
+        "name": "Radiology",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Imaging Technology"],
+        "children": ["Radiologist", "Interventional Radiologist"]
+      },
+      {
+        "name": "Ultrasound",
+        "level": "category",
+        "aliases": ["Sonography"],
+        "related_to": ["Imaging"],
+        "children": ["Sonographer", "Ultrasound Technician"]
+      },
+      {
+        "name": "Nuclear Medicine",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Radiation"],
+        "children": ["Nuclear Medicine Technologist", "PET Technologist"]
+      },
+      {
+        "name": "Radiation Therapy",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Cancer Treatment"],
+        "children": ["Radiation Therapist", "Medical Dosimetrist"]
+      },
+      {
+        "name": "Public Health",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Preventive Medicine", "Community Health"],
+        "children": ["Epidemiology", "Environmental Health", "Health Policy", "Biostatistics"]
+      },
+      {
+        "name": "Environmental Health",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Sustainability"],
+        "children": ["Environmental Health Specialist", "Occupational Health Specialist"]
+      },
+      {
+        "name": "Health Policy",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Health Systems"],
+        "children": ["Health Policy Analyst", "Public Health Advisor"]
+      },
+      {
+        "name": "Biostatistics",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Data Analysis"],
+        "children": ["Biostatistician", "Epidemiologist"]
+      },
+      {
+        "name": "Allied Health",
+        "level": "sub-domain",
+        "aliases": ["Paramedical"],
+        "related_to": ["Patient Care"],
+        "children": ["Physiotherapy", "Occupational Therapy", "Speech Therapy", "Dietetics"]
+      },
+      {
+        "name": "Physiotherapy",
+        "level": "category",
+        "aliases": ["Physical Therapy"],
+        "related_to": ["Rehabilitation"],
+        "children": ["Physiotherapist", "Rehabilitation Specialist"]
+      },
+      {
+        "name": "Occupational Therapy",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Rehabilitation"],
+        "children": ["Occupational Therapist", "Occupational Therapy Assistant"]
+      },
+      {
+        "name": "Speech Therapy",
+        "level": "category",
+        "aliases": ["Speech-Language Pathology"],
+        "related_to": ["Communication Disorders"],
+        "children": ["Speech Therapist", "Audiologist", "Speech-Language Pathologist"]
+      },
+      {
+        "name": "Audiology",
+        "level": "sub-category",
+        "aliases": ["Hearing Science"],
+        "related_to": ["Communication Disorders", "Speech Therapy"],
+        "children": ["Audiologist", "Hearing Aid Specialist", "Cochlear Implant Specialist"]
+      },
+      {
+        "name": "Occupational Health",
+        "level": "sub-domain",
+        "aliases": ["Workplace Health"],
+        "related_to": ["Environmental Health", "Public Health"],
+        "children": ["Occupational Health Physician", "Industrial Hygienist", "Occupational Health Nurse"]
+      },
+      {
+        "name": "Occupational Health Physician",
+        "level": "job position",
+        "aliases": ["Occupational Medicine Specialist"],
+        "related_to": ["Industrial Medicine"],
+        "children": []
+      },
+      {
+        "name": "Industrial Hygienist",
+        "level": "job position",
+        "aliases": ["Workplace Health Specialist"],
+        "related_to": ["Safety", "Environmental Health"],
+        "children": []
+      },
+      {
+        "name": "Occupational Health Nurse",
+        "level": "job position",
+        "aliases": ["OHN"],
+        "related_to": ["Nursing", "Occupational Medicine"],
+        "children": []
+      },
+      {
+        "name": "Palliative Care",
+        "level": "sub-domain",
+        "aliases": ["End-of-Life Care"],
+        "related_to": ["Hospice", "Geriatrics"],
+        "children": ["Palliative Care Physician", "Hospice Nurse", "Palliative Social Worker"]
+      },
+      {
+        "name": "Palliative Care Physician",
+        "level": "job position",
+        "aliases": ["Palliative Specialist"],
+        "related_to": ["Geriatric Medicine"],
+        "children": []
+      },
+      {
+        "name": "Hospice Nurse",
+        "level": "job position",
+        "aliases": ["End-of-Life Nurse"],
+        "related_to": ["Nursing", "Palliative Care"],
+        "children": []
+      },
+      {
+        "name": "Palliative Social Worker",
+        "level": "job position",
+        "aliases": ["End-of-Life Social Worker"],
+        "related_to": ["Social Work", "Palliative Care"],
+        "children": []
+      },
+      {
+        "name": "Medical Genetics",
+        "level": "sub-domain",
+        "aliases": ["Genomics"],
+        "related_to": ["Genetics", "Clinical Medicine"],
+        "children": ["Clinical Geneticist", "Genetic Counselor", "Molecular Geneticist"]
+      },
+      {
+        "name": "Clinical Geneticist",
+        "level": "job position",
+        "aliases": ["Medical Geneticist"],
+        "related_to": ["Genetics"],
+        "children": []
+      },
+      {
+        "name": "Genetic Counselor",
+        "level": "job position",
+        "aliases": [],
+        "related_to": ["Genetic Testing", "Patient Counseling"],
+        "children": []
+      },
+      {
+        "name": "Molecular Geneticist",
+        "level": "job position",
+        "aliases": ["Molecular Biology Specialist"],
+        "related_to": ["Genetics", "Research"],
+        "children": []
+      },
+      {
+        "name": "Biomedical Engineering",
+        "level": "sub-domain",
+        "aliases": ["Bioengineering"],
+        "related_to": ["Engineering", "Medical Devices"],
+        "children": ["Biomaterials Engineer", "Clinical Engineer", "Medical Device Developer"]
+      },
+      {
+        "name": "Biomaterials Engineer",
+        "level": "job position",
+        "aliases": [],
+        "related_to": ["Material Science"],
+        "children": []
+      },
+      {
+        "name": "Clinical Engineer",
+        "level": "job position",
+        "aliases": ["Medical Equipment Manager"],
+        "related_to": ["Healthcare Technology", "Engineering"],
+        "children": []
+      },
+      {
+        "name": "Medical Device Developer",
+        "level": "job position",
+        "aliases": ["Device Engineer"],
+        "related_to": ["Research", "Development"],
+        "children": []
+      },
+      {
+        "name": "Clinical Laboratory Science",
+        "level": "sub-domain",
+        "aliases": ["Laboratory Medicine"],
+        "related_to": ["Pathology", "Diagnostics"],
+        "children": ["Clinical Laboratory Scientist", "Pathologist", "Histotechnologist", "Phlebotomist"]
+      },
+      {
+        "name": "Clinical Laboratory Scientist",
+        "level": "job position",
+        "aliases": ["Medical Laboratory Scientist"],
+        "related_to": ["Clinical Testing"],
+        "children": []
+      },
+      {
+        "name": "Pathologist",
+        "level": "job position",
+        "aliases": ["Diagnostic Pathologist"],
+        "related_to": ["Anatomical Pathology"],
+        "children": []
+      },
+      {
+        "name": "Histotechnologist",
+        "level": "job position",
+        "aliases": ["Histology Technician"],
+        "related_to": ["Pathology"],
+        "children": []
+      },
+      {
+        "name": "Phlebotomist",
+        "level": "job position",
+        "aliases": ["Blood Technician"],
+        "related_to": ["Clinical Testing"],
+        "children": []
+      },
+      {
+        "name": "Rehabilitation Medicine",
+        "level": "sub-domain",
+        "aliases": ["Physical Medicine"],
+        "related_to": ["Physical Therapy", "Occupational Therapy"],
+        "children": ["Physical Medicine Specialist", "Rehabilitation Physician", "Rehabilitation Therapist"]
+      },
+      {
+        "name": "Physical Medicine Specialist",
+        "level": "job position",
+        "aliases": ["Physiatrist"],
+        "related_to": ["Rehabilitation"],
+        "children": []
+      },
+      {
+        "name": "Rehabilitation Physician",
+        "level": "job position",
+        "aliases": ["Physical Medicine Doctor"],
+        "related_to": ["Rehabilitation"],
+        "children": []
+      },
+      {
+        "name": "Rehabilitation Therapist",
+        "level": "job position",
+        "aliases": [],
+        "related_to": ["Rehabilitation"],
+        "children": []
+      },
+      {
+        "name": "Business and Management",
+        "level": "primary",
+        "aliases": ["Business Studies", "Management Studies"],
+        "related_to": ["Economics", "Entrepreneurship"],
+        "children": ["Finance", "Marketing", "Human Resources", "Operations Management", "Business Strategy", "Project Management"]
+      },
+      {
+        "name": "Finance",
+        "level": "sub-domain",
+        "aliases": ["Financial Studies"],
+        "related_to": ["Economics", "Investment"],
+        "children": ["Corporate Finance", "Investment Banking", "Risk Management", "Wealth Management"]
+      },
+      {
+        "name": "Corporate Finance",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Accounting", "Business Strategy"],
+        "children": ["Financial Analyst", "Chief Financial Officer", "Treasury Analyst"]
+      },
+      {
+        "name": "Investment Banking",
+        "level": "category",
+        "aliases": ["IB"],
+        "related_to": ["Corporate Finance", "Wealth Management"],
+        "children": ["Investment Banker", "Mergers and Acquisitions Analyst", "Equity Analyst"]
+      },
+      {
+        "name": "Risk Management",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Finance", "Corporate Governance"],
+        "children": ["Risk Analyst", "Chief Risk Officer", "Compliance Officer"]
+      },
+      {
+        "name": "Wealth Management",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Finance", "Investment"],
+        "children": ["Wealth Manager", "Financial Planner", "Portfolio Manager"]
+      },
+      {
+        "name": "Marketing",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Business Strategy", "Consumer Psychology"],
+        "children": ["Digital Marketing", "Market Research", "Brand Management"]
+      },
+      {
+        "name": "Digital Marketing",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Social Media", "Advertising"],
+        "children": ["Social Media Manager", "SEO Specialist", "Content Marketer"]
+      },
+      {
+        "name": "Market Research",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Analytics", "Consumer Behavior"],
+        "children": ["Market Research Analyst", "Consumer Insights Specialist"]
+      },
+      {
+        "name": "Brand Management",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Marketing", "Product Management"],
+        "children": ["Brand Manager", "Product Marketing Manager"]
+      },
+      {
+        "name": "Human Resources",
+        "level": "sub-domain",
+        "aliases": ["HR"],
+        "related_to": ["Organizational Behavior", "Business Administration"],
+        "children": ["Talent Acquisition", "Employee Relations", "Compensation and Benefits"]
+      },
+      {
+        "name": "Talent Acquisition",
+        "level": "category",
+        "aliases": ["Recruitment"],
+        "related_to": ["HR"],
+        "children": ["Recruiter", "Talent Acquisition Specialist"]
+      },
+      {
+        "name": "Employee Relations",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["HR", "Organizational Psychology"],
+        "children": ["Employee Relations Specialist", "HR Generalist"]
+      },
+      {
+        "name": "Compensation and Benefits",
+        "level": "category",
+        "aliases": ["Total Rewards"],
+        "related_to": ["HR"],
+        "children": ["Compensation Analyst", "Benefits Coordinator"]
+      },
+      {
+        "name": "Operations Management",
+        "level": "sub-domain",
+        "aliases": ["Operations"],
+        "related_to": ["Supply Chain Management"],
+        "children": ["Supply Chain Management", "Logistics", "Quality Management"]
+      },
+      {
+        "name": "Supply Chain Management",
+        "level": "category",
+        "aliases": ["SCM"],
+        "related_to": ["Operations"],
+        "children": ["Supply Chain Manager", "Procurement Manager"]
+      },
+      {
+        "name": "Logistics",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Operations", "Supply Chain"],
+        "children": ["Logistics Coordinator", "Distribution Manager"]
+      },
+      {
+        "name": "Quality Management",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Operations"],
+        "children": ["Quality Assurance Specialist", "Quality Control Inspector"]
+      },
+      {
+        "name": "Business Strategy",
+        "level": "sub-domain",
+        "aliases": ["Strategic Management"],
+        "related_to": ["Management Consulting"],
+        "children": ["Corporate Strategy", "Competitive Strategy", "Business Analysis"]
+      },
+      {
+        "name": "Corporate Strategy",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Business Analysis"],
+        "children": ["Strategy Analyst", "Chief Strategy Officer"]
+      },
+      {
+        "name": "Competitive Strategy",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Business Strategy"],
+        "children": ["Competitive Intelligence Analyst", "Product Strategist"]
+      },
+      {
+        "name": "Project Management",
+        "level": "sub-domain",
+        "aliases": ["PM"],
+        "related_to": ["Operations", "Business Strategy"],
+        "children": ["Agile Project Management", "Traditional Project Management"]
+      },
+      {
+        "name": "Agile Project Management",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Scrum", "Kanban"],
+        "children": ["Scrum Master", "Agile Coach"]
+      },
+      {
+        "name": "Traditional Project Management",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["PMI"],
+        "children": ["Project Manager", "Project Coordinator"]
+      },
+      {
+        "name": "Formal Sciences",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Mathematics", "Computer Science"],
+        "children": ["Mathematics", "Logic", "Statistics", "Theoretical Computer Science"]
+      },
+      {
+        "name": "Mathematics",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Formal Sciences", "Natural Sciences"],
+        "children": ["Algebra", "Calculus", "Geometry", "Applied Mathematics"]
+      },
+      {
+        "name": "Logic",
+        "level": "sub-domain",
+        "aliases": ["Formal Logic"],
+        "related_to": ["Philosophy", "Mathematics"],
+        "children": ["Propositional Logic", "Predicate Logic", "Modal Logic"]
+      },
+      {
+        "name": "Statistics",
+        "level": "sub-domain",
+        "aliases": ["Data Science"],
+        "related_to": ["Mathematics"],
+        "children": ["Descriptive Statistics", "Inferential Statistics", "Biostatistics", "Econometrics"]
+      },
+      {
+        "name": "Theoretical Computer Science",
+        "level": "sub-domain",
+        "aliases": ["TCS"],
+        "related_to": ["Computer Science"],
+        "children": ["Automata Theory", "Computational Complexity", "Algorithm Design"]
+      },
+      {
+        "name": "Social Sciences",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Humanities"],
+        "children": ["Psychology", "Sociology", "Political Science", "Anthropology", "Economics"]
+      },
+      {
+        "name": "Psychology",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Neuroscience"],
+        "children": ["Clinical Psychology", "Counseling Psychology", "Industrial-Organizational Psychology"]
+      },
+      {
+        "name": "Sociology",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Anthropology", "Social Work"],
+        "children": ["Social Theory", "Criminology", "Urban Sociology"]
+      },
+      {
+        "name": "Political Science",
+        "level": "sub-domain",
+        "aliases": ["Poli Sci"],
+        "related_to": ["Law", "International Relations"],
+        "children": ["Comparative Politics", "International Relations", "Political Theory"]
+      },
+      {
+        "name": "Anthropology",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Archaeology"],
+        "children": ["Cultural Anthropology", "Biological Anthropology", "Linguistic Anthropology"]
+      },
+      {
+        "name": "Humanities",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Social Sciences"],
+        "children": ["Philosophy", "Literature", "History", "Linguistics", "Religious Studies", "Art History"]
+      },
+      {
+        "name": "Philosophy",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Logic", "Ethics"],
+        "children": ["Ethics", "Metaphysics", "Epistemology"]
+      },
+      {
+        "name": "Literature",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Art"],
+        "children": ["English Literature", "World Literature", "Comparative Literature"]
+      },
+      {
+        "name": "History",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Archaeology"],
+        "children": ["Ancient History", "Modern History", "Military History"]
+      },
+      {
+        "name": "Linguistics",
+        "level": "sub-domain",
+        "aliases": ["Language Studies"],
+        "related_to": ["Psychology", "Cognitive Science"],
+        "children": ["Syntax", "Semantics", "Phonetics"]
+      },
+      {
+        "name": "Religious Studies",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Theology", "Philosophy"],
+        "children": ["Comparative Religion", "Theology", "Philosophy of Religion"]
+      },
+      {
+        "name": "Environmental Studies",
+        "level": "primary",
+        "aliases": ["Environmental Science"],
+        "related_to": ["Ecology", "Earth Sciences"],
+        "children": ["Environmental Science", "Sustainability Studies", "Environmental Policy", "Conservation", "Climate Science"]
+      },
+      {
+        "name": "Environmental Science",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Ecology", "Biology"],
+        "children": ["Environmental Chemistry", "Environmental Biology", "Ecotoxicology"]
+      },
+      {
+        "name": "Environmental Chemistry",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Chemistry"],
+        "children": ["Environmental Chemist", "Toxicologist"]
+      },
+      {
+        "name": "Environmental Biology",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Biology", "Ecology"],
+        "children": ["Wildlife Biologist", "Ecologist"]
+      },
+      {
+        "name": "Sustainability Studies",
+        "level": "sub-domain",
+        "aliases": ["Sustainability Science"],
+        "related_to": ["Environmental Policy", "Climate Science"],
+        "children": ["Sustainable Development", "Renewable Energy Studies", "Sustainable Agriculture"]
+      },
+      {
+        "name": "Environmental Policy",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Public Policy", "Law"],
+        "children": ["Environmental Law", "Environmental Economics", "Public Health Policy"]
+      },
+      {
+        "name": "Conservation",
+        "level": "sub-domain",
+        "aliases": ["Conservation Science"],
+        "related_to": ["Ecology", "Forestry"],
+        "children": ["Wildlife Conservation", "Natural Resource Management", "Marine Conservation"]
+      },
+      {
+        "name": "Agriculture and Food Sciences",
+        "level": "primary",
+        "aliases": ["Agri-food Studies"],
+        "related_to": ["Biology", "Environmental Studies"],
+        "children": ["Agronomy", "Animal Science", "Food Science", "Agricultural Economics", "Horticulture"]
+      },
+      {
+        "name": "Agronomy",
+        "level": "sub-domain",
+        "aliases": ["Crop Science"],
+        "related_to": ["Soil Science"],
+        "children": ["Crop Management", "Soil Fertility", "Agroecology"]
+      },
+      {
+        "name": "Animal Science",
+        "level": "sub-domain",
+        "aliases": ["Livestock Science"],
+        "related_to": ["Veterinary Science", "Biology"],
+        "children": ["Dairy Science", "Animal Nutrition", "Poultry Science"]
+      },
+      {
+        "name": "Food Science",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Chemistry", "Biology"],
+        "children": ["Food Chemistry", "Food Safety", "Food Processing"]
+      },
+      {
+        "name": "Agricultural Economics",
+        "level": "sub-domain",
+        "aliases": ["Ag Economics"],
+        "related_to": ["Economics"],
+        "children": ["Farm Management", "Agricultural Policy", "Agricultural Finance"]
+      },
+      {
+        "name": "Horticulture",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Botany", "Ecology"],
+        "children": ["Ornamental Horticulture", "Pomology", "Viticulture"]
+      },
+      {
+        "name": "Arts and Design",
+        "level": "primary",
+        "aliases": ["Creative Arts", "Visual Arts"],
+        "related_to": ["Humanities", "Media Studies"],
+        "children": ["Fine Arts", "Graphic Design", "Performing Arts", "Fashion Design", "Interior Design"]
+      },
+      {
+        "name": "Fine Arts",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Visual Arts"],
+        "children": ["Painting", "Sculpture", "Photography"]
+      },
+      {
+        "name": "Graphic Design",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Digital Media", "Marketing"],
+        "children": ["Web Design", "UI/UX Design", "Illustration"]
+      },
+      {
+        "name": "Performing Arts",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Humanities"],
+        "children": ["Theater", "Dance", "Music"]
+      },
+      {
+        "name": "Fashion Design",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Textile Design"],
+        "children": ["Apparel Design", "Costume Design", "Textile Design"]
+      },
+      {
+        "name": "Interior Design",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Architecture"],
+        "children": ["Residential Design", "Commercial Design", "Sustainable Design"]
+      },
+      {
+        "name": "Law and Criminal Justice",
+        "level": "primary",
+        "aliases": ["Legal Studies", "Justice Studies"],
+        "related_to": ["Political Science", "Sociology"],
+        "children": ["Law", "Criminal Justice", "Forensic Science", "Public Policy"]
+      },
+      {
+        "name": "Law",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Political Science"],
+        "children": ["Corporate Law", "Family Law", "Intellectual Property Law"]
+      },
+      {
+        "name": "Criminal Justice",
+        "level": "sub-domain",
+        "aliases": ["CJ"],
+        "related_to": ["Sociology"],
+        "children": ["Criminology", "Corrections", "Victimology"]
+      },
+      {
+        "name": "Forensic Science",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Chemistry", "Biology"],
+        "children": ["Forensic Biology", "Forensic Chemistry", "Digital Forensics"]
+      },
+      {
+        "name": "Public Policy",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Political Science"],
+        "children": ["Policy Analysis", "Public Administration", "Environmental Policy"]
+      },
+      {
+        "name": "Trade and Vocational Fields",
+        "level": "primary",
+        "aliases": ["Vocational Education", "Skilled Trades"],
+        "related_to": ["Education"],
+        "children": ["Construction Trades", "Automotive Trades", "Electrical Trades", "Cosmetology", "Culinary Arts"]
+      },
+      {
+        "name": "Construction Trades",
+        "level": "sub-domain",
+        "aliases": ["Building Trades"],
+        "related_to": ["Engineering"],
+        "children": ["Carpentry", "Plumbing", "Masonry"]
+      },
+      {
+        "name": "Automotive Trades",
+        "level": "sub-domain",
+        "aliases": ["Auto Repair"],
+        "related_to": ["Engineering"],
+        "children": ["Auto Mechanic", "Auto Body Technician", "Diesel Mechanic"]
+      },
+      {
+        "name": "Electrical Trades",
+        "level": "sub-domain",
+        "aliases": ["Electrical Work"],
+        "related_to": ["Engineering"],
+        "children": ["Electrician", "Electronics Technician", "HVAC Technician"]
+      },
+      {
+        "name": "Cosmetology",
+        "level": "sub-domain",
+        "aliases": ["Beauty Therapy"],
+        "related_to": ["Health Sciences"],
+        "children": ["Hair Stylist", "Esthetician", "Nail Technician"]
+      },
+      {
+        "name": "Culinary Arts",
+        "level": "sub-domain",
+        "aliases": ["Cooking"],
+        "related_to": ["Food Science"],
+        "children": ["Chef", "Pastry Chef", "Culinary Instructor"]
+      },
+      {
+        "name": "Communication and Media Studies",
+        "level": "primary",
+        "aliases": ["Media Studies"],
+        "related_to": ["Social Sciences", "Arts and Design"],
+        "children": ["Journalism", "Public Relations", "Advertising", "Film and Media Production", "Digital Media"]
+      },
+      {
+        "name": "Journalism",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Media Studies", "Political Science"],
+        "children": ["Broadcast Journalism", "Investigative Journalism", "Photojournalism"]
+      },
+      {
+        "name": "Public Relations",
+        "level": "sub-domain",
+        "aliases": ["PR"],
+        "related_to": ["Marketing"],
+        "children": ["Media Relations", "Corporate Communications", "Crisis Communication"]
+      },
+      {
+        "name": "Advertising",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Marketing"],
+        "children": ["Copywriting", "Media Planning", "Account Management"]
+      },
+      {
+        "name": "Film and Media Production",
+        "level": "sub-domain",
+        "aliases": ["Film Studies"],
+        "related_to": ["Arts and Design"],
+        "children": ["Film Directing", "Cinematography", "Screenwriting"]
+      },
+      {
+        "name": "Film Directing",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+      },                                                          
+      {
+        "name": "Film Cinematography",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+      },                                                          
+      {
+        "name": "Screenwriting",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": [],
+        "children": []
+      }                                                          
+    ]
+  }
+  

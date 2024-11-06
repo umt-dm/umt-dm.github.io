@@ -1,0 +1,1259 @@
+{
+    "team_name": "Innovators",
+    "submission_details": {
+        "submission_id": "Sub-04",
+        "submission_version": "v1.0.0",
+        "submission_date": "2024-11-04"
+    },
+    "members": [
+        {
+            "id": "F2022332007",
+            "name": "Zoha Khalid"
+        },
+        {
+            "id": "F2022332020",
+            "name": "Tehreem Ghulam Nabi"
+        },
+        {
+            "id": "F2022332030",
+            "name": "Aliza Ali"
+        },
+        {
+            "id": "F2022332012",
+            "name": "Tayyaba Sikandar"
+        }
+    ],
+    {
+        "domains": [
+            {
+                "name": "Aviation and Aerospace",
+                "level": "primary",
+                "aliases": ["Aerospace Engineering", "Aeronautical Engineering"],
+                "related_to": [
+                    "Mechanical Engineering",
+                    "Electrical Engineering",
+                    "Computer Science",
+                    "Physics",
+                    "Materials Science"
+                ],
+                "children": [
+                    {
+                        "name": "Aerospace Research",
+                        "level": "sub-domain",
+                        "aliases": ["Aeronautics Research", "Space Science"],
+                        "related_to": ["Rocket Science", "Astronautics"],
+                        "children": [
+                            {
+                                "name": "Spacecraft Design",
+                                "level": "category",
+                                "aliases": ["Space Vehicle Design", "Satellite Engineering"],
+                                "related_to": ["Systems Engineering", "Astrodynamics"],
+                                "children": [
+                                    {
+                                        "name": "Structural Design",
+                                        "level": "sub-category",
+                                        "aliases": ["Spacecraft Structures"],
+                                        "related_to": ["Material Science", "Mechanical Engineering"],
+                                        "children": [
+                                            { "job_title": "Structural Engineer" },
+                                            { "job_title": "Aerospace Structural Analyst" },
+                                            { "job_title": "Spacecraft Design Engineer" }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Thermal Control",
+                                        "level": "sub-category",
+                                        "aliases": ["Temperature Regulation"],
+                                        "related_to": ["Heat Transfer", "Thermodynamics"],
+                                        "children": [
+                                            { "job_title": "Thermal Engineer" },
+                                            { "job_title": "Thermal Systems Analyst" },
+                                            { "job_title": "Thermal Design Specialist" }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Hypersonic Flight",
+                                "level": "category",
+                                "aliases": ["High-Speed Aerodynamics", "Supersonic Travel"],
+                                "related_to": ["Fluid Dynamics", "Thermodynamics"],
+                                "children": [
+                                    {
+                                        "name": "Mach Systems",
+                                        "level": "sub-category",
+                                        "aliases": ["Mach Number Technology"],
+                                        "related_to": ["Aerodynamics", "Physics"],
+                                        "children": [
+                                            { "job_title": "Mach Systems Engineer" },
+                                            { "job_title": "Hypersonics Specialist" },
+                                            { "job_title": "Aerospace Physicist" }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Heat Shielding",
+                                        "level": "sub-category",
+                                        "aliases": ["Thermal Protection Systems"],
+                                        "related_to": ["Materials Engineering", "Thermodynamics"],
+                                        "children": [
+                                            { "job_title": "Thermal Protection Engineer" },
+                                            { "job_title": "Heat Shielding Specialist" },
+                                            { "job_title": "Materials Engineer" }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Advanced Propulsion Systems",
+                                "level": "category",
+                                "aliases": ["Space Propulsion", "Rocket Propulsion"],
+                                "related_to": ["Physics", "Fuel Science"],
+                                "children": [
+                                    {
+                                        "name": "Electric Propulsion",
+                                        "level": "sub-category",
+                                        "aliases": ["Ion Propulsion", "Electrostatic Thrusters"],
+                                        "related_to": ["Plasma Physics", "Electrical Engineering"],
+                                        "children": [
+                                            { "job_title": "Electric Propulsion Engineer" },
+                                            { "job_title": "Plasma Physicist" },
+                                            { "job_title": "Ion Propulsion Technician" }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Nuclear Propulsion",
+                                        "level": "sub-category",
+                                        "aliases": ["Atomic Propulsion", "Radioisotope Propulsion"],
+                                        "related_to": ["Nuclear Engineering", "Radiation Safety"],
+                                        "children": [
+                                            { "job_title": "Nuclear Propulsion Engineer" },
+                                            { "job_title": "Radiation Safety Specialist" },
+                                            { "job_title": "Nuclear Systems Engineer" }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Aerospace Materials Science",
+                                "level": "category",
+                                "aliases": ["Aerospace Metallurgy", "Composite Materials"],
+                                "related_to": ["Material Science", "Nanotechnology"],
+                                "children": [
+                                    {
+                                        "name": "Composite Materials",
+                                        "level": "sub-category",
+                                        "aliases": ["Fiber-Reinforced Composites"],
+                                        "related_to": ["Chemistry", "Manufacturing"],
+                                        "children": [
+                                            { "job_title": "Composite Materials Engineer" },
+                                            { "job_title": "Materials Scientist" },
+                                            { "job_title": "Aerospace Manufacturing Engineer" }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Metal Alloys",
+                                        "level": "sub-category",
+                                        "aliases": ["High-Temperature Alloys"],
+                                        "related_to": ["Metallurgy", "Thermodynamics"],
+                                        "children": [
+                                            { "job_title": "Metallurgist" },
+                                            { "job_title": "Alloy Development Engineer" },
+                                            { "job_title": "Heat Treatment Specialist" }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Maintenance and Repair",
+                        "level": "sub-domain",
+                        "aliases": ["Aircraft Maintenance", "Aerospace Servicing"],
+                        "related_to": ["Mechanical Engineering", "Inspection Services"],
+                        "children": [
+                            {
+                                "name": "Aircraft Maintenance",
+                                "level": "category",
+                                "aliases": ["Airframe Maintenance", "Aircraft Servicing"],
+                                "related_to": ["Mechanical Engineering", "Safety Engineering"],
+                                "children": [
+                                    {
+                                        "name": "Routine Inspections",
+                                        "level": "sub-category",
+                                        "aliases": ["Scheduled Inspections"],
+                                        "related_to": ["Safety Compliance", "Quality Control"],
+                                        "children": [
+                                            { "job_title": "Aircraft Inspector" },
+                                            { "job_title": "Maintenance Technician" },
+                                            { "job_title": "Quality Assurance Specialist" }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Engine Overhaul",
+                                        "level": "sub-category",
+                                        "aliases": ["Powerplant Maintenance"],
+                                        "related_to": ["Mechanical Systems", "Propulsion"],
+                                        "children": [
+                                            { "job_title": "Engine Overhaul Technician" },
+                                            { "job_title": "Powerplant Mechanic" },
+                                            { "job_title": "Propulsion Technician" }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Avionics Maintenance",
+                                "level": "category",
+                                "aliases": ["Aircraft Electronics Service", "Electronic Systems Maintenance"],
+                                "related_to": ["Electrical Engineering", "Systems Engineering"],
+                                "children": [
+                                    {
+                                        "name": "Communication Systems",
+                                        "level": "sub-category",
+                                        "aliases": ["Radio Systems"],
+                                        "related_to": ["Networking", "Signal Processing"],
+                                        "children": [
+                                            { "job_title": "Avionics Technician" },
+                                            { "job_title": "Radio Systems Engineer" },
+                                            { "job_title": "Communications Specialist" }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Navigation Systems",
+                                        "level": "sub-category",
+                                        "aliases": ["Avionics Navigation"],
+                                        "related_to": ["Geography", "Electronics"],
+                                        "children": [
+                                            { "job_title": "Navigation Systems Engineer" },
+                                            { "job_title": "GPS Specialist" },
+                                            { "job_title": "Avionics Integration Engineer" }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Component Repair",
+                                "level": "category",
+                                "aliases": ["Parts Repair", "Component Overhaul"],
+                                "related_to": ["Mechanical Systems", "Electronics"],
+                                "children": [
+                                    {
+                                        "name": "Hydraulics Repair",
+                                        "level": "sub-category",
+                                        "aliases": ["Fluid Systems Repair"],
+                                        "related_to": ["Mechanical Engineering", "Fluid Mechanics"],
+                                        "children": [
+                                            { "job_title": "Hydraulics Technician" },
+                                            { "job_title": "Fluid Systems Engineer" },
+                                            { "job_title": "Repair Specialist" }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Landing Gear Repair",
+                                        "level": "sub-category",
+                                        "aliases": ["Gear Maintenance"],
+                                        "related_to": ["Mechanical Systems", "Safety Engineering"],
+                                        "children": [
+                                            { "job_title": "Landing Gear Technician" },
+                                            { "job_title": "Safety Engineer" },
+                                            { "job_title": "Mechanical Repair Specialist" }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Non-Destructive Testing",
+                                "level": "category",
+                                "aliases": ["NDT", "Non-Destructive Evaluation"],
+                                "related_to": ["Quality Control", "Material Science"],
+                                "children": [
+                                    {
+                                        "name": "Ultrasonic Testing",
+                                        "level": "sub-category",
+                                        "aliases": ["Ultrasound Testing"],
+                                        "related_to": ["Physics", "Signal Processing"],
+                                        "children": [
+                                            { "job_title": "NDT Technician" },
+                                            { "job_title": "Ultrasonic Inspector" },
+                                            { "job_title": "Quality Control Specialist" }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Magnetic Particle Testing",
+                                        "level": "sub-category",
+                                        "aliases": ["Magnetic Testing"],
+                                        "related_to": ["Material Science", "Physics"],
+                                        "children": [
+                                            { "job_title": "Magnetic Particle Inspector" },
+                                            { "job_title": "NDT Engineer" },
+                                            { "job_title": "Quality Inspector" }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+
+            {
+                "name": "Hospitality and Tourism",
+                "level": "primary",
+                "aliases": ["Tourism and Hospitality", "Hospitality Industry"],
+                "related_to": [
+                    "Business Administration",
+                    "Marketing",
+                    "Human Resources",
+                    "Culinary Arts",
+                    "Health and Wellness"
+                ],
+                "children": [
+                    {
+                        "name": "Travel and Tourism",
+                        "level": "sub-domain",
+                        "aliases": ["Eco-Tourism", "Adventure Tourism"],
+                        "related_to": ["Sustainable Practices", "Cultural Experiences"],
+                        "children": [
+                            {
+                                "name": "Eco-Tourism",
+                                "level": "category",
+                                "aliases": ["Sustainable Tourism"],
+                                "related_to": ["Environmental Conservation", "Nature"],
+                                "children": [
+                                    {
+                                        "name": "Eco-Tour Guide",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Nature Guide",
+                                            "Wildlife Conservationist"
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sustainability Consultant",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Sustainability Analyst",
+                                            "Environmental Policy Advisor"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Adventure Tourism",
+                                "level": "category",
+                                "aliases": ["Active Tourism"],
+                                "related_to": ["Outdoor Activities", "Adventure Sports"],
+                                "children": [
+                                    {
+                                        "name": "Adventure Tour Guide",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Mountain Guide",
+                                            "Whitewater Rafting Instructor"
+                                        ]
+                                    },
+                                    {
+                                        "name": "Outdoor Instructor",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Climbing Instructor",
+                                            "Ski Instructor"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cultural Tourism",
+                                "level": "category",
+                                "aliases": ["Cultural Experiences"],
+                                "related_to": ["Heritage", "Arts"],
+                                "children": [
+                                    {
+                                        "name": "Cultural Tour Guide",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Historical Interpreter",
+                                            "Museum Guide"
+                                        ]
+                                    },
+                                    {
+                                        "name": "Cultural Event Coordinator",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Festival Organizer",
+                                            "Cultural Festival Manager"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "MICE Tourism",
+                                "level": "category",
+                                "aliases": ["Meetings and Events Tourism"],
+                                "related_to": ["Conferences", "Exhibitions"],
+                                "children": [
+                                    {
+                                        "name": "Event Planner",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Corporate Event Planner",
+                                            "Wedding Planner"
+                                        ]
+                                    },
+                                    {
+                                        "name": "Conference Coordinator",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Meeting Planner",
+                                            "Exhibition Manager"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Medical Tourism",
+                                "level": "category",
+                                "aliases": ["Health Tourism"],
+                                "related_to": ["Healthcare", "Travel"],
+                                "children": [
+                                    {
+                                        "name": "Medical Tourism Consultant",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Healthcare Travel Advisor",
+                                            "Patient Liaison Officer"
+                                        ]
+                                    },
+                                    {
+                                        "name": "Patient Liaison Officer",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Patient Care Coordinator",
+                                            "Health Service Liaison"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Tourism Management",
+                                "level": "category",
+                                "aliases": ["Tour Operations Management"],
+                                "related_to": ["Business Management", "Marketing"],
+                                "children": [
+                                    {
+                                        "name": "Tourism Manager",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Destination Manager",
+                                            "Travel Operations Manager"
+                                        ]
+                                    },
+                                    {
+                                        "name": "Tour Operations Coordinator",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Logistics Coordinator",
+                                            "Itinerary Planner"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Food and Beverage",
+                        "level": "sub-domain",
+                        "aliases": ["Culinary Management", "Food Service Management"],
+                        "related_to": ["Hospitality", "Culinary Arts"],
+                        "children": [
+                            {
+                                "name": "Restaurant Management",
+                                "level": "category",
+                                "aliases": ["Dining Operations Management"],
+                                "related_to": ["Food Service", "Operations"],
+                                "children": [
+                                    {
+                                        "name": "Restaurant Manager",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Assistant Restaurant Manager",
+                                            "Dining Room Manager"
+                                        ]
+                                    },
+                                    {
+                                        "name": "Food and Beverage Supervisor",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Shift Supervisor",
+                                            "Floor Manager"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Wine and Beverage Management",
+                                "level": "category",
+                                "aliases": ["Beverage Program Management"],
+                                "related_to": ["Alcohol Service", "Wine Selection"],
+                                "children": [
+                                    {
+                                        "name": "Sommelier",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Wine Consultant",
+                                            "Wine Buyer"
+                                        ]
+                                    },
+                                    {
+                                        "name": "Beverage Manager",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Bar Manager",
+                                            "Beverage Director"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Culinary Innovation",
+                                "level": "category",
+                                "aliases": ["Food Product Development"],
+                                "related_to": ["Culinary Arts", "Food Science"],
+                                "children": [
+                                    {
+                                        "name": "Culinary Researcher",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Food Scientist",
+                                            "Flavor Developer"
+                                        ]
+                                    },
+                                    {
+                                        "name": "Food Product Developer",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Food Technologist",
+                                            "Recipe Developer"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Food and Beverage Service",
+                                "level": "category",
+                                "aliases": ["Dining Service"],
+                                "related_to": ["Customer Service", "Food Service"],
+                                "children": [
+                                    {
+                                        "name": "Server",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Waitstaff",
+                                            "Banquet Server"
+                                        ]
+                                    },
+                                    {
+                                        "name": "Bartender",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Mixologist",
+                                            "Barback"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Food and Beverage Cost Control",
+                                "level": "category",
+                                "aliases": ["Food Service Management"],
+                                "related_to": ["Financial Management", "Cost Analysis"],
+                                "children": [
+                                    {
+                                        "name": "Cost Control Manager",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Financial Analyst",
+                                            "Budget Analyst"
+                                        ]
+                                    },
+                                    {
+                                        "name": "Inventory Manager",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Stock Controller",
+                                            "Purchasing Agent"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wellness and Spa",
+                        "level": "sub-domain",
+                        "aliases": ["Health and Wellness", "Spa Management"],
+                        "related_to": ["Health", "Wellness"],
+                        "children": [
+                            {
+                                "name": "Wellness Tourism",
+                                "level": "category",
+                                "aliases": ["Health Retreats"],
+                                "related_to": ["Travel", "Health"],
+                                "children": [
+                                    {
+                                        "name": "Wellness Travel Advisor",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Travel Health Advisor",
+                                            "Wellness Retreat Specialist"
+                                        ]
+                                    },
+                                    {
+                                        "name": "Health Retreat Coordinator",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Retreat Manager",
+                                            "Wellness Program Coordinator"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Spa Management",
+                                "level": "category",
+                                "aliases": ["Spa Operations Management"],
+                                "related_to": ["Wellness", "Customer Service"],
+                                "children": [
+                                    {
+                                        "name": "Spa Manager",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Spa Operations Manager",
+                                            "Wellness Director"
+                                        ]
+                                    },
+                                    {
+                                        "name": "Massage Therapist",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Licensed Massage Therapist",
+                                            "Holistic Therapist"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Health and Fitness",
+                                "level": "category",
+                                "aliases": ["Fitness Training"],
+                                "related_to": ["Wellness", "Physical Training"],
+                                "children": [
+                                    {
+                                        "name": "Personal Trainer",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Fitness Coach",
+                                            "Exercise Specialist"
+                                        ]
+                                    },
+                                    {
+                                        "name": "Fitness Instructor",
+                                        "level": "sub-category",
+                                        "aliases": [],
+                                        "related_to": [],
+                                        "children": [
+                                            "Yoga Instructor",
+                                            "Pilates Instructor"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+
+            {
+                "name": "Telecommunications",
+                "level": "domain",
+                "aliases": ["Telecom", "Telecommunications Industry"],
+                "related_domains": [
+                    "Electrical Engineering",
+                    "Computer Science",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "children": [
+                    {
+                        "name": "Wireless Communication",
+                        "level": "sub-domain",
+                        "aliases": ["Wireless Tech", "Radio Communication"],
+                        "related": ["Network Engineering", "Digital Communications"],
+                        "children": [
+                            {
+                                "name": "5G Technology",
+                                "level": "category",
+                                "aliases": ["Fifth Generation Wireless"],
+                                "related": ["Cellular Networks", "Radio Frequency Engineering"],
+                                "children": [
+                                    {
+                                        "name": "5G Network Engineering",
+                                        "level": "sub-category",
+                                        "aliases": ["5G Engineering"],
+                                        "related": ["RF Engineering", "Network Architecture"],
+                                        "children": [
+                                            "5G Network Engineer",
+                                            "5G Solutions Architect"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Satellite Communication",
+                                "level": "category",
+                                "aliases": ["Satellite Systems", "Space Communication"],
+                                "related": ["Aerospace Engineering", "Telecommunications Policy"],
+                                "children": [
+                                    {
+                                        "name": "Satellite Systems",
+                                        "level": "sub-category",
+                                        "aliases": ["Satellite Operations"],
+                                        "related": ["Radio Frequency Engineering", "Signal Processing"],
+                                        "children": [
+                                            "Satellite Engineer",
+                                            "Satellite Communications Specialist"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cellular Networks",
+                                "level": "category",
+                                "aliases": ["Mobile Networks", "Telecom Networks"],
+                                "related": ["5G Technology", "Network Engineering"],
+                                "children": [
+                                    {
+                                        "name": "Cellular Network Engineering",
+                                        "level": "sub-category",
+                                        "aliases": ["Mobile Network Engineering"],
+                                        "related": ["Network Design", "RF Engineering"],
+                                        "children": [
+                                            "Cellular Network Engineer",
+                                            "RF Network Planner"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    
+                    {
+                        "name": "Telecommunications Hardware",
+                        "level": "sub-domain",
+                        "aliases": ["Telecom Equipment"],
+                        "related": ["Network Engineering", "Digital Communications"],
+                        "children": [
+                            {
+                                "name": "Hardware Development",
+                                "level": "category",
+                                "aliases": ["Telecom Hardware Design"],
+                                "related": ["Antenna Design", "Fiber Optics"],
+                                "children": [
+                                    {
+                                        "name": "Telecom Hardware Engineering",
+                                        "level": "sub-category",
+                                        "aliases": ["Telecom Product Development"],
+                                        "related": ["Network Equipment", "RF Engineering"],
+                                        "children": [
+                                            "Telecom Hardware Engineer",
+                                            "Product Development Engineer"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Radio Frequency Engineering",
+                                "level": "category",
+                                "aliases": ["RF Engineering"],
+                                "related": ["Antenna Design", "Cellular Networks"],
+                                "children": [
+                                    {
+                                        "name": "RF Design",
+                                        "level": "sub-category",
+                                        "aliases": ["Radio Design"],
+                                        "related": ["Signal Processing", "Hardware Development"],
+                                        "children": [
+                                            "RF Design Engineer",
+                                            "RF Test Engineer"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fiber Optics",
+                                "level": "category",
+                                "aliases": ["Optical Communications"],
+                                "related": ["Network Engineering", "Antenna Design"],
+                                "children": [
+                                    {
+                                        "name": "Fiber Optic Systems",
+                                        "level": "sub-category",
+                                        "aliases": ["Optical Networks"],
+                                        "related": ["Signal Processing", "Network Design"],
+                                        "children": [
+                                            "Fiber Optic Engineer",
+                                            "Fiber Optic Technician"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Digital Communications",
+                        "level": "sub-domain",
+                        "aliases": ["Data Communications"],
+                        "related": ["Wireless Communication", "Network Engineering"],
+                        "children": [
+                            {
+                                "name": "Digital Broadcasting",
+                                "level": "category",
+                                "aliases": ["Broadcasting"],
+                                "related": ["Multimedia Communications", "Signal Processing"],
+                                "children": [
+                                    {
+                                        "name": "Broadcast Engineering",
+                                        "level": "sub-category",
+                                        "aliases": ["Digital Broadcast"],
+                                        "related": ["Television Networks", "Radio Engineering"],
+                                        "children": [
+                                            "Broadcast Engineer",
+                                            "Digital Transmission Specialist"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Signal Processing",
+                                "level": "category",
+                                "aliases": ["DSP", "Digital Signal Processing"],
+                                "related": ["Coding and Modulation", "Error Correction Coding"],
+                                "children": [
+                                    {
+                                        "name": "Signal Engineering",
+                                        "level": "sub-category",
+                                        "aliases": ["Signal Analysis"],
+                                        "related": ["Coding Theory", "Data Transmission"],
+                                        "children": [
+                                            "Signal Processing Engineer",
+                                            "DSP Engineer"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Multimedia Communications",
+                                "level": "category",
+                                "aliases": ["Media Transmission"],
+                                "related": ["Digital Broadcasting", "Internet of Things (IoT)"],
+                                "children": [
+                                    {
+                                        "name": "Multimedia Systems",
+                                        "level": "sub-category",
+                                        "aliases": ["Media Networks"],
+                                        "related": ["Broadcasting", "Television Engineering"],
+                                        "children": [
+                                            "Multimedia Engineer",
+                                            "Media Solutions Architect"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Network Engineering",
+                        "level": "sub-domain",
+                        "aliases": ["Telecom Networks"],
+                        "related": ["Digital Communications", "Network Operations"],
+                        "children": [
+                            {
+                                "name": "Network Design",
+                                "level": "category",
+                                "aliases": ["Network Architecture"],
+                                "related": ["Network Security", "Network Optimization"],
+                                "children": [
+                                    {
+                                        "name": "Network Architecture",
+                                        "level": "sub-category",
+                                        "aliases": ["Telecom Network Design"],
+                                        "related": ["Infrastructure Engineering", "Wireless Communication"],
+                                        "children": [
+                                            "Network Architect",
+                                            "Network Design Engineer"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Network Operations",
+                                "level": "category",
+                                "aliases": ["Network Management"],
+                                "related": ["Network Optimization", "Network Security"],
+                                "children": [
+                                    {
+                                        "name": "Operations Management",
+                                        "level": "sub-category",
+                                        "aliases": ["Network Operations Center"],
+                                        "related": ["NOC", "Systems Monitoring"],
+                                        "children": [
+                                            "Network Operations Center (NOC) Engineer",
+                                            "Network Administrator"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Network Security",
+                                "level": "category",
+                                "aliases": ["Cybersecurity"],
+                                "related": ["Network Protection", "Data Security"],
+                                "children": [
+                                    {
+                                        "name": "Network Protection",
+                                        "level": "sub-category",
+                                        "aliases": ["Cyber Defense"],
+                                        "related": ["Network Security Engineer", "Cybersecurity Specialist"],
+                                        "children": [
+                                            "Network Security Engineer",
+                                            "Cybersecurity Specialist"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+
+            {
+                "name": "Fashion and Textiles",
+                "level": "domain",
+                "aliases": ["Fashion Industry", "Textile Industry"],
+                "related_domains": [
+                    "Business Administration",
+                    "Marketing",
+                    "Art and Design",
+                    "Material Science",
+                    "Chemistry"
+                ],
+                "children": [
+                    {
+                        "name": "Fashion Merchandising",
+                        "level": "sub-domain",
+                        "aliases": ["Apparel Merchandising", "Retail Fashion"],
+                        "related": ["Fashion Design", "Fashion Marketing"],
+                        "children": [
+                            {
+                                "name": "Retail Buying",
+                                "level": "category",
+                                "aliases": ["Fashion Purchasing"],
+                                "related": ["E-commerce", "Trend Forecasting"],
+                                "children": [
+                                    {
+                                        "name": "Merchandise Selection",
+                                        "level": "sub-category",
+                                        "aliases": ["Product Buying"],
+                                        "related": ["Fashion Analysis", "Retail Management"],
+                                        "children": [
+                                            "Fashion Buyer",
+                                            "Merchandise Planner"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fashion Marketing",
+                                "level": "category",
+                                "aliases": ["Fashion Promotion"],
+                                "related": ["Visual Merchandising", "Trend Analysis"],
+                                "children": [
+                                    {
+                                        "name": "Marketing Strategy",
+                                        "level": "sub-category",
+                                        "aliases": ["Fashion Branding"],
+                                        "related": ["E-commerce", "Social Media Marketing"],
+                                        "children": [
+                                            "Fashion Marketing Specialist",
+                                            "Brand Manager"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Trend Forecasting",
+                                "level": "category",
+                                "aliases": ["Fashion Trend Analysis"],
+                                "related": ["Visual Merchandising", "Fashion Marketing"],
+                                "children": [
+                                    {
+                                        "name": "Fashion Trends",
+                                        "level": "sub-category",
+                                        "aliases": ["Trend Research"],
+                                        "related": ["Market Analysis", "Creative Direction"],
+                                        "children": [
+                                            "Trend Analyst",
+                                            "Fashion Forecaster"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textile Technology",
+                        "level": "sub-domain",
+                        "aliases": ["Textile Science"],
+                        "related": ["Material Science", "Fashion Design"],
+                        "children": [
+                            {
+                                "name": "Fabric Development",
+                                "level": "category",
+                                "aliases": ["Textile Innovation"],
+                                "related": ["Fiber Science", "Sustainable Textiles"],
+                                "children": [
+                                    {
+                                        "name": "Textile Engineering",
+                                        "level": "sub-category",
+                                        "aliases": ["Material Engineering"],
+                                        "related": ["Fabric Testing", "Product Development"],
+                                        "children": [
+                                            "Textile Engineer",
+                                            "Fabric Technologist"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textile Testing and Quality",
+                                "level": "category",
+                                "aliases": ["Textile Quality Control"],
+                                "related": ["Manufacturing", "Fiber Science"],
+                                "children": [
+                                    {
+                                        "name": "Quality Assurance",
+                                        "level": "sub-category",
+                                        "aliases": ["QA Testing"],
+                                        "related": ["Product Quality", "Inspection"],
+                                        "children": [
+                                            "Quality Control Inspector",
+                                            "Textile Tester"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fiber Science",
+                                "level": "category",
+                                "aliases": ["Fiber Technology"],
+                                "related": ["Material Science", "Textile Manufacturing"],
+                                "children": [
+                                    {
+                                        "name": "Fiber Analysis",
+                                        "level": "sub-category",
+                                        "aliases": ["Material Testing"],
+                                        "related": ["Fabric Development", "Product Innovation"],
+                                        "children": [
+                                            "Fiber Scientist",
+                                            "Textile Chemist"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fashion Design",
+                        "level": "sub-domain",
+                        "aliases": ["Apparel Design"],
+                        "related": ["Textile Technology", "Fashion Merchandising"],
+                        "children": [
+                            {
+                                "name": "Design Concept Sketching",
+                                "level": "category",
+                                "aliases": ["Fashion Sketching"],
+                                "related": ["Digital Illustration", "Pattern Making"],
+                                "children": [
+                                    {
+                                        "name": "Sketching and Illustration",
+                                        "level": "sub-category",
+                                        "aliases": ["Design Visualization"],
+                                        "related": ["Fashion Styling", "Creative Direction"],
+                                        "children": [
+                                            "Fashion Illustrator",
+                                            "Concept Artist"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pattern Making",
+                                "level": "category",
+                                "aliases": ["Garment Pattern Creation"],
+                                "related": ["Draping", "Fashion Design"],
+                                "children": [
+                                    {
+                                        "name": "Pattern Development",
+                                        "level": "sub-category",
+                                        "aliases": ["Pattern Engineering"],
+                                        "related": ["Sewing", "Garment Construction"],
+                                        "children": [
+                                            "Pattern Maker",
+                                            "Pattern Designer"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Draping",
+                                "level": "category",
+                                "aliases": ["Fabric Draping"],
+                                "related": ["Pattern Making", "Garment Construction"],
+                                "children": [
+                                    {
+                                        "name": "Garment Construction",
+                                        "level": "sub-category",
+                                        "aliases": ["Dress Form Design"],
+                                        "related": ["Fashion Design", "Sewing"],
+                                        "children": [
+                                            "Draper",
+                                            "Garment Technician"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fashion Business",
+                        "level": "sub-domain",
+                        "aliases": ["Fashion Management"],
+                        "related": ["Business Administration", "Fashion Merchandising"],
+                        "children": [
+                            {
+                                "name": "Fashion Business Management",
+                                "level": "category",
+                                "aliases": ["Fashion Operations"],
+                                "related": ["Fashion Law", "Marketing"],
+                                "children": [
+                                    {
+                                        "name": "Business Operations",
+                                        "level": "sub-category",
+                                        "aliases": ["Operations Management"],
+                                        "related": ["Marketing", "Supply Chain"],
+                                        "children": [
+                                            "Operations Manager",
+                                            "Business Development Specialist"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fashion Law",
+                                "level": "category",
+                                "aliases": ["Legal Affairs in Fashion"],
+                                "related": ["Intellectual Property", "Business Law"],
+                                "children": [
+                                    {
+                                        "name": "Legal Compliance",
+                                        "level": "sub-category",
+                                        "aliases": ["Fashion Regulations"],
+                                        "related": ["Brand Protection", "Intellectual Property"],
+                                        "children": [
+                                            "Fashion Lawyer",
+                                            "Legal Compliance Officer"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fashion Ethics and Sustainability",
+                                "level": "category",
+                                "aliases": ["Ethical Fashion"],
+                                "related": ["Sustainable Textiles", "Fashion Business"],
+                                "children": [
+                                    {
+                                        "name": "Sustainable Fashion",
+                                        "level": "sub-category",
+                                        "aliases": ["Eco-Friendly Fashion"],
+                                        "related": ["Environmental Science", "Corporate Responsibility"],
+                                        "children": [
+                                            "Sustainability Specialist",
+                                            "Ethical Fashion Consultant"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+            
+        ]
+    }
+}
+    

@@ -1,0 +1,1941 @@
+{
+  "team_name": "Insight Hunters",
+  "members": [
+    {
+      "id": "F2021376101",
+      "name": "Muhammad Talal"
+    },
+    {
+      "id": "F2021376086",
+      "name": "Ammar Sarwar"
+    },
+    {
+      "id": "F2021376097",
+      "name": "Muhammad Kamran Hussain"
+    }
+  ],
+  "domains": [
+    {
+      "name": "Information Technology (IT)",
+      "level": "domain-level",
+      "aliases": ["IT"],
+      "related_to": ["Cybersecurity", "Artificial Intelligence"],
+      "children": [
+        {
+          "name": "Cybersecurity",
+          "level": "subdomain-level",
+          "children": [
+            "Network Security",
+            "Application Security",
+            "Information Security",
+            "Incident Response"
+          ]
+        },
+        {
+          "name": "Software Development",
+          "level": "subdomain-level",
+          "children": [
+            "Web Development",
+            "Mobile App Development",
+            "Game Development",
+            "DevOps"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Medicine",
+      "level": "domain-level",
+      "aliases": ["Medical Science"],
+      "related_to": ["Biology", "Public Health"],
+      "children": [
+        {
+          "name": "Clinical Medicine",
+          "level": "subdomain-level",
+          "children": [
+            "Internal Medicine",
+            "Surgery",
+            "Pediatrics",
+            "Obstetrics and Gynecology"
+          ]
+        },
+        {
+          "name": "Pharmaceutical Sciences",
+          "level": "subdomain-level",
+          "children": [
+            "Pharmacology",
+            "Pharmaceutics",
+            "Toxicology",
+            "Clinical Trials"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Space",
+      "level": "domain-level",
+      "aliases": ["Astronomy"],
+      "related_to": ["Physics"],
+      "children": [
+        {
+          "name": "Astrophysics",
+          "level": "subdomain-level",
+          "children": [
+            "Cosmology",
+            "Stellar Dynamics",
+            "Exoplanet Studies",
+            "High-Energy Astrophysics"
+          ]
+        },
+        {
+          "name": "Space Exploration",
+          "level": "subdomain-level",
+          "children": [
+            "Robotic Missions",
+            "Human Spaceflight",
+            "Planetary Science",
+            "Space Technology"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Engineering",
+      "level": "domain-level",
+      "aliases": ["Engineering Science"],
+      "related_to": ["Physics", "Mathematics"],
+      "children": [
+        {
+          "name": "Mechanical Engineering",
+          "level": "subdomain-level",
+          "children": [
+            "Thermodynamics",
+            "Fluid Mechanics",
+            "Materials Science",
+            "Robotics"
+          ]
+        },
+        {
+          "name": "Electrical Engineering",
+          "level": "subdomain-level",
+          "children": [
+            "Circuit Design",
+            "Control Systems",
+            "Signal Processing",
+            "Telecommunications"
+          ]
+        },
+        {
+          "name": "Civil Engineering",
+          "level": "subdomain-level",
+          "children": [
+            "Structural Engineering",
+            "Geotechnical Engineering",
+            "Transportation Engineering",
+            "Environmental Engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Biology",
+      "level": "domain-level",
+      "aliases": ["Life Science"],
+      "related_to": ["Medicine", "Environmental Science"],
+      "children": [
+        {
+          "name": "Molecular Biology",
+          "level": "subdomain-level",
+          "children": [
+            "Genetics",
+            "Biochemistry",
+            "Cell Biology",
+            "Bioinformatics"
+          ]
+        },
+        {
+          "name": "Ecology",
+          "level": "subdomain-level",
+          "children": [
+            "Population Ecology",
+            "Community Ecology",
+            "Ecosystem Ecology",
+            "Conservation Biology"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Environmental Science",
+      "level": "domain-level",
+      "aliases": ["Earth Science"],
+      "related_to": ["Biology", "Engineering"],
+      "children": [
+        {
+          "name": "Atmospheric Science",
+          "level": "subdomain-level",
+          "children": [
+            "Meteorology",
+            "Climatology",
+            "Atmospheric Chemistry",
+            "Atmospheric Physics"
+          ]
+        },
+        {
+          "name": "Geology",
+          "level": "subdomain-level",
+          "children": [
+            "Mineralogy",
+            "Petrology",
+            "Structural Geology",
+            "Sedimentology"
+          ]
+        },
+        {
+          "name": "Hydrology",
+          "level": "subdomain-level",
+          "children": [
+            "Groundwater Hydrology",
+            "Surface Water Hydrology",
+            "Watershed Management",
+            "Water Resources Engineering"
+          ]
+        },
+        {
+          "name": "Environmental Engineering",
+          "level": "subdomain-level",
+          "children": [
+            "Waste Management",
+            "Air Pollution Control",
+            "Water Treatment",
+            "Renewable Energy Systems"
+          ]
+        },
+        {
+          "name": "Ecosystem Science",
+          "level": "subdomain-level",
+          "children": [
+            "Biogeochemistry",
+            "Ecosystem Ecology",
+            "Landscape Ecology",
+            "Global Change Biology"
+          ]
+        },
+        {
+          "name": "Environmental Management",
+          "level": "subdomain-level",
+          "children": [
+            "Environmental Policy",
+            "Environmental Impact Assessment",
+            "Natural Resource Management",
+            "Sustainability Science"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Social Sciences",
+      "level": "domain-level",
+      "aliases": ["Behavioral Science"],
+      "related_to": ["Psychology", "Economics"],
+      "children": [
+        {
+          "name": "Anthropology",
+          "level": "subdomain-level",
+          "children": [
+            "Cultural Anthropology",
+            "Archaeology",
+            "Linguistic Anthropology",
+            "Medical Anthropology"
+          ]
+        },
+        {
+          "name": "Sociology",
+          "level": "subdomain-level",
+          "children": [
+            "Social Theory",
+            "Social Stratification",
+            "Social Movements",
+            "Criminology"
+          ]
+        },
+        {
+          "name": "Political Science",
+          "level": "subdomain-level",
+          "children": [
+            "Comparative Politics",
+            "International Relations",
+            "Public Policy",
+            "Political Theory"
+          ]
+        },
+        {
+          "name": "Economics",
+          "level": "subdomain-level",
+          "children": [
+            "Microeconomics",
+            "Macroeconomics",
+            "International Economics",
+            "Financial Economics"
+          ]
+        },
+        {
+          "name": "Psychology",
+          "level": "subdomain-level",
+          "children": [
+            "Cognitive Psychology",
+            "Social Psychology",
+            "Developmental Psychology",
+            "Clinical Psychology"
+          ]
+        },
+        {
+          "name": "Education",
+          "level": "subdomain-level",
+          "children": [
+            "Instructional Design",
+            "Educational Psychology",
+            "Educational Technology",
+            "Educational Policy"
+          ]
+        },
+        {
+          "name": "Communication Studies",
+          "level": "subdomain-level",
+          "children": [
+            "Mass Communication",
+            "Interpersonal Communication",
+            "Organizational Communication",
+            "Intercultural Communication"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Humanities",
+      "level": "domain-level",
+      "aliases": ["Liberal Arts"],
+      "related_to": ["Social Sciences", "Arts"],
+      "children": [
+        {
+          "name": "Philosophy",
+          "level": "subdomain-level",
+          "children": [
+            "Ethics",
+            "Metaphysics",
+            "Epistemology",
+            "Political Philosophy"
+          ]
+        },
+        {
+          "name": "History",
+          "level": "subdomain-level",
+          "children": [
+            "Ancient History",
+            "Medieval History",
+            "Modern History",
+            "World History"
+          ]
+        },
+        {
+          "name": "Literature",
+          "level": "subdomain-level",
+          "children": [
+            "Literary Criticism",
+            "Creative Writing",
+            "World Literature",
+            "Comparative Literature"
+          ]
+        },
+        {
+          "name": "Arts",
+          "level": "subdomain-level",
+          "children": [
+            "Visual Arts",
+            "Performing Arts",
+            "Music",
+            "Film and Media Studies"
+          ]
+        },
+        {
+          "name": "Religion and Theology",
+          "level": "subdomain-level",
+          "children": [
+            "Religious Studies",
+            "Biblical Studies",
+            "Theology",
+            "Comparative Religion"
+          ]
+        },
+        {
+          "name": "Linguistics",
+          "level": "subdomain-level",
+          "children": [
+            "Syntax",
+            "Semantics",
+            "Phonology",
+            "Sociolinguistics"
+  ]
+},
+    {
+      "name": "Mathematics",
+      "level": "domain-level",
+      "aliases": ["Math"],
+      "related_to": ["Engineering", "Computer Science"],
+      "children": [
+        {
+          "name": "Pure Mathematics",
+          "level": "subdomain-level",
+          "children": [
+            "Algebra",
+            "Geometry",
+            "Topology",
+            "Number Theory"
+          ]
+        },
+        {
+          "name": "Applied Mathematics",
+          "level": "subdomain-level",
+          "children": [
+            "Statistics",
+            "Computational Mathematics",
+            "Operations Research",
+            "Mathematical Modeling"
+          ]
+        },
+        {
+          "name": "Mathematical Logic",
+          "level": "subdomain-level",
+          "children": [
+            "Set Theory",
+            "Model Theory",
+            "Proof Theory",
+            "Recursion Theory"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "level": "domain-level",
+      "aliases": ["CS"],
+      "related_to": ["Information Technology", "Mathematics"],
+      "children": [
+        {
+          "name": "Algorithms and Data Structures",
+          "level": "subdomain-level",
+          "children": [
+            "Sorting Algorithms",
+            "Graph Algorithms",
+            "Data Structures",
+            "Complexity Theory"
+          ]
+        },
+        {
+          "name": "Artificial Intelligence",
+          "level": "subdomain-level",
+          "children": [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Robotics"
+          ]
+        },
+        {
+          "name": "Software Engineering",
+          "level": "subdomain-level",
+          "children": [
+            "Agile Methodologies",
+            "Software Testing",
+            "Version Control",
+            "Project Management"
+          ]
+        },
+        {
+          "name": "Network and Security",
+          "level": "subdomain-level",
+          "children": [
+            "Network Architecture",
+            "Cryptography",
+            "Ethical Hacking",
+            "Security Protocols"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Physics",
+      "level": "domain-level",
+      "aliases": ["Physical Science"],
+      "related_to": ["Engineering", "Chemistry"],
+      "children": [
+        {
+          "name": "Classical Mechanics",
+          "level": "subdomain-level",
+          "children": [
+            "Kinematics",
+            "Dynamics",
+            "Thermodynamics",
+            "Fluid Mechanics"
+          ]
+        },
+        {
+          "name": "Quantum Mechanics",
+          "level": "subdomain-level",
+          "children": [
+            "Quantum Theory",
+            "Quantum Field Theory",
+            "Quantum Computing",
+            "Quantum Entanglement"
+          ]
+        },
+        {
+          "name": "Electromagnetism",
+          "level": "subdomain-level",
+          "children": [
+            "Electric Fields",
+            "Magnetic Fields",
+            "Electromagnetic Waves",
+            "Maxwell's Equations"
+          ]
+        },
+        {
+          "name": "Relativity",
+          "level": "subdomain-level",
+          "children": [
+            "Special Relativity",
+            "General Relativity",
+            "Cosmology",
+            "Astrophysics"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "level": "domain-level",
+      "aliases": ["Chemical Science"],
+      "related_to": ["Biology", "Physics"],
+      "children": [
+        {
+          "name": "Organic Chemistry",
+          "level": "subdomain-level",
+          "children": [
+            "Hydrocarbons",
+            "Functional Groups",
+            "Reaction Mechanisms",
+            "Synthesis"
+          ]
+        },
+        {
+          "name": "Inorganic Chemistry",
+          "level": "subdomain-level",
+          "children": [
+            "Coordination Compounds",
+            "Main Group Elements",
+            "Transition Metals",
+            "Bioinorganic Chemistry"
+          ]
+        },
+        {
+          "name": "Physical Chemistry",
+          "level": "subdomain-level",
+          "children": [
+            "Thermodynamics",
+            "Kinetics",
+            "Quantum Chemistry",
+            "Spectroscopy"
+          ]
+        },
+        {
+          "name": "Analytical Chemistry",
+          "level": "subdomain-level",
+          "children": [
+            "Chromatography",
+            "Mass Spectrometry",
+            "Electrochemistry",
+            "Surface Analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Economics",
+      "level": "domain-level",
+      "aliases": ["Economic Science"],
+      "related_to": ["Social Sciences", "Political Science"],
+      "children": [
+        {
+          "name": "Microeconomics",
+          "level": "subdomain-level",
+          "children": [
+            "Demand and Supply",
+            "Consumer Behavior",
+            "Market Structures",
+            "Game Theory"
+          ]
+        },
+        {
+          "name": "Macroeconomics",
+          "level": "subdomain-level",
+          "children": [
+            "Economic Growth",
+            "Monetary Policy",
+            "Fiscal Policy",
+            "International Trade"
+          ]
+        },
+        {
+          "name": "Development Economics",
+          "level": "subdomain-level",
+          "children": [
+            "Poverty and Inequality",
+            "Economic Development Strategies",
+            "Human Capital",
+            "Sustainable Development"
+          ]
+        },
+        {
+          "name": "Behavioral Economics",
+          "level": "subdomain-level",
+          "children": [
+            "Cognitive Biases",
+            "Decision Making",
+            "Market Behavior",
+            "Nudge Theory"
+          ]
+        }
+      ]
+    }
+  ]
+}
+    {
+      "name": "Psychology",
+      "level": "domain-level",
+      "aliases": ["Psychological Science"],
+      "related_to": ["Cognitive Science", "Sociology"],
+      "children": [
+        {
+          "name": "Cognitive Psychology",
+          "level": "subdomain-level",
+          "children": [
+            "Memory",
+            "Perception",
+            "Language Processing",
+            "Problem Solving"
+          ]
+        },
+        {
+          "name": "Developmental Psychology",
+          "level": "subdomain-level",
+          "children": [
+            "Child Development",
+            "Adolescent Development",
+            "Adult Development",
+            "Life Span Development"
+          ]
+        },
+        {
+          "name": "Social Psychology",
+          "level": "subdomain-level",
+          "children": [
+            "Group Dynamics",
+            "Interpersonal Relationships",
+            "Social Influence",
+            "Prejudice and Discrimination"
+          ]
+        },
+        {
+          "name": "Clinical Psychology",
+          "level": "subdomain-level",
+          "children": [
+            "Psychopathology",
+            "Therapeutic Approaches",
+            "Psychological Assessment",
+            "Crisis Intervention"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sociology",
+      "level": "domain-level",
+      "aliases": ["Social Science"],
+      "related_to": ["Anthropology", "Psychology"],
+      "children": [
+        {
+          "name": "Cultural Sociology",
+          "level": "subdomain-level",
+          "children": [
+            "Cultural Identity",
+            "Cultural Change",
+            "Globalization",
+            "Cultural Practices"
+          ]
+        },
+        {
+          "name": "Social Stratification",
+          "level": "subdomain-level",
+          "children": [
+            "Class Systems",
+            "Social Mobility",
+            "Inequality",
+            "Wealth Distribution"
+          ]
+        },
+        {
+          "name": "Urban Sociology",
+          "level": "subdomain-level",
+          "children": [
+            "Urbanization",
+            "Community Development",
+            "Social Networks",
+            "Rural-Urban Migration"
+          ]
+        },
+        {
+          "name": "Political Sociology",
+          "level": "subdomain-level",
+          "children": [
+            "Power Structures",
+            "Political Institutions",
+            "Social Movements",
+            "Public Opinion"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "level": "domain-level",
+      "aliases": ["Historical Studies"],
+      "related_to": ["Political Science", "Anthropology"],
+      "children": [
+        {
+          "name": "Ancient History",
+          "level": "subdomain-level",
+          "children": [
+            "Civilizations",
+            "Cultural Developments",
+            "Historical Texts",
+            "Archaeology"
+          ]
+        },
+        {
+          "name": "Medieval History",
+          "level": "subdomain-level",
+          "children": [
+            "Feudal Systems",
+            "Religious Institutions",
+            "Crusades",
+            "Renaissance"
+          ]
+        },
+        {
+          "name": "Modern History",
+          "level": "subdomain-level",
+          "children": [
+            "Industrial Revolution",
+            "World Wars",
+            "Cold War",
+            "Globalization"
+          ]
+        },
+        {
+          "name": "Contemporary History",
+          "level": "subdomain-level",
+          "children": [
+            "Post-Cold War",
+            "Technology and Society",
+            "Environmental Issues",
+            "Global Conflicts"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Philosophy",
+      "level": "domain-level",
+      "aliases": ["Philosophical Studies"],
+      "related_to": ["Ethics", "Metaphysics"],
+      "children": [
+        {
+          "name": "Metaphysics",
+          "level": "subdomain-level",
+          "children": [
+            "Ontology",
+            "Identity and Change",
+            "Space and Time",
+            "Causation"
+          ]
+        },
+        {
+          "name": "Epistemology",
+          "level": "subdomain-level",
+          "children": [
+            "Nature of Knowledge",
+            "Sources of Knowledge",
+            "Justification",
+            "Skepticism"
+          ]
+        },
+        {
+          "name": "Ethics",
+          "level": "subdomain-level",
+          "children": [
+            "Normative Ethics",
+            "Meta-Ethics",
+            "Applied Ethics",
+            "Moral Philosophy"
+          ]
+        },
+        {
+          "name": "Political Philosophy",
+          "level": "subdomain-level",
+          "children": [
+            "Justice",
+            "Rights",
+            "Liberty",
+            "Political Authority"
+          ]
+        },
+    {
+      "name": "Economics",
+      "level": "domain-level",
+      "aliases": ["Economic Studies"],
+      "related_to": ["Political Science", "Sociology"],
+      "children": [
+        {
+          "name": "Microeconomics",
+          "level": "subdomain-level",
+          "children": [
+            "Supply and Demand",
+            "Consumer Behavior",
+            "Production Theory",
+            "Market Structures"
+          ]
+        },
+        {
+          "name": "Macroeconomics",
+          "level": "subdomain-level",
+          "children": [
+            "National Income",
+            "Inflation",
+            "Unemployment",
+            "Economic Growth"
+          ]
+        },
+        {
+          "name": "International Economics",
+          "level": "subdomain-level",
+          "children": [
+            "Trade Theory",
+            "Exchange Rates",
+            "Globalization",
+            "International Finance"
+          ]
+        },
+        {
+          "name": "Development Economics",
+          "level": "subdomain-level",
+          "children": [
+            "Economic Development",
+            "Poverty Alleviation",
+            "Sustainable Development",
+            "Human Capital"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Political Science",
+      "level": "domain-level",
+      "aliases": ["Political Studies"],
+      "related_to": ["History", "Sociology"],
+      "children": [
+        {
+          "name": "Comparative Politics",
+          "level": "subdomain-level",
+          "children": [
+            "Political Systems",
+            "Governance",
+            "Political Culture",
+            "Electoral Systems"
+          ]
+        },
+        {
+          "name": "International Relations",
+          "level": "subdomain-level",
+          "children": [
+            "Foreign Policy",
+            "Global Security",
+            "International Organizations",
+            "International Law"
+          ]
+        },
+        {
+          "name": "Public Administration",
+          "level": "subdomain-level",
+          "children": [
+            "Bureaucracy",
+            "Public Policy",
+            "Public Sector Management",
+            "Administrative Law"
+          ]
+        },
+        {
+          "name": "Political Theory",
+          "level": "subdomain-level",
+          "children": [
+            "Normative Theories",
+            "Contemporary Political Theory",
+            "Political Ideologies",
+            "Social Contract Theory"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Environmental Science",
+      "level": "domain-level",
+      "aliases": ["Ecological Science"],
+      "related_to": ["Biology", "Geography"],
+      "children": [
+        {
+          "name": "Ecology",
+          "level": "subdomain-level",
+          "children": [
+            "Ecosystems",
+            "Biodiversity",
+            "Population Ecology",
+            "Community Ecology"
+          ]
+        },
+        {
+          "name": "Conservation Biology",
+          "level": "subdomain-level",
+          "children": [
+            "Wildlife Conservation",
+            "Habitat Preservation",
+            "Endangered Species",
+            "Restoration Ecology"
+          ]
+        },
+        {
+          "name": "Environmental Policy",
+          "level": "subdomain-level",
+          "children": [
+            "Environmental Regulations",
+            "Sustainability",
+            "Climate Change Policy",
+            "Resource Management"
+          ]
+        },
+        {
+          "name": "Geosciences",
+          "level": "subdomain-level",
+          "children": [
+            "Geology",
+            "Atmospheric Science",
+            "Oceanography",
+            "Soil Science"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anthropology",
+      "level": "domain-level",
+      "aliases": ["Cultural Anthropology"],
+      "related_to": ["Sociology", "History"],
+      "children": [
+        {
+          "name": "Cultural Anthropology",
+          "level": "subdomain-level",
+          "children": [
+            "Ethnography",
+            "Cultural Relativism",
+            "Social Norms",
+            "Rituals and Beliefs"
+          ]
+        },
+        {
+          "name": "Archaeological Anthropology",
+          "level": "subdomain-level",
+          "children": [
+            "Material Culture",
+            "Excavation Techniques",
+            "Ancient Civilizations",
+            "Artifact Analysis"
+          ]
+        },
+        {
+          "name": "Biological Anthropology",
+          "level": "subdomain-level",
+          "children": [
+            "Human Evolution",
+            "Primatology",
+            "Forensic Anthropology",
+            "Genetic Variation"
+          ]
+        },
+        {
+          "name": "Linguistic Anthropology",
+          "level": "subdomain-level",
+          "children": [
+            "Language and Culture",
+            "Communication Patterns",
+            "Social Identity",
+            "Language Change"
+          ]
+         },
+    {
+      "name": "History",
+      "level": "domain-level",
+      "aliases": ["Historical Studies"],
+      "related_to": ["Archaeology", "Anthropology"],
+      "children": [
+        {
+          "name": "Ancient History",
+          "level": "subdomain-level",
+          "children": [
+            "Civilizations",
+            "Archaeological Evidence",
+            "Historical Texts",
+            "Cultural Practices"
+          ]
+        },
+        {
+          "name": "Medieval History",
+          "level": "subdomain-level",
+          "children": [
+            "Feudal Systems",
+            "Crusades",
+            "Renaissance",
+            "Cultural Exchange"
+          ]
+        },
+        {
+          "name": "Modern History",
+          "level": "subdomain-level",
+          "children": [
+            "Industrial Revolution",
+            "World Wars",
+            "Cold War",
+            "Globalization"
+          ]
+        },
+        {
+          "name": "Contemporary History",
+          "level": "subdomain-level",
+          "children": [
+            "Post-Colonial Studies",
+            "Digital Revolution",
+            "Current Events",
+            "Social Movements"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Psychology",
+      "level": "domain-level",
+      "aliases": ["Psychological Studies"],
+      "related_to": ["Sociology", "Biology"],
+      "children": [
+        {
+          "name": "Cognitive Psychology",
+          "level": "subdomain-level",
+          "children": [
+            "Perception",
+            "Memory",
+            "Decision Making",
+            "Problem Solving"
+          ]
+        },
+        {
+          "name": "Developmental Psychology",
+          "level": "subdomain-level",
+          "children": [
+            "Child Development",
+            "Adolescent Development",
+            "Lifespan Development",
+            "Cognitive Growth"
+          ]
+        },
+        {
+          "name": "Social Psychology",
+          "level": "subdomain-level",
+          "children": [
+            "Group Dynamics",
+            "Social Perception",
+            "Attitudes and Beliefs",
+            "Interpersonal Relationships"
+          ]
+        },
+        {
+          "name": "Clinical Psychology",
+          "level": "subdomain-level",
+          "children": [
+            "Mental Disorders",
+            "Therapeutic Approaches",
+            "Psychotherapy",
+            "Assessment Techniques"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sociology",
+      "level": "domain-level",
+      "aliases": ["Social Studies"],
+      "related_to": ["Anthropology", "Political Science"],
+      "children": [
+        {
+          "name": "Cultural Sociology",
+          "level": "subdomain-level",
+          "children": [
+            "Cultural Norms",
+            "Values and Beliefs",
+            "Symbolic Interactionism",
+            "Cultural Change"
+          ]
+        },
+        {
+          "name": "Social Stratification",
+          "level": "subdomain-level",
+          "children": [
+            "Class Structures",
+            "Social Mobility",
+            "Inequality",
+            "Wealth Distribution"
+          ]
+        },
+        {
+          "name": "Criminology",
+          "level": "subdomain-level",
+          "children": [
+            "Crime Theories",
+            "Deviance",
+            "Social Control",
+            "Victimology"
+          ]
+        },
+        {
+          "name": "Demography",
+          "level": "subdomain-level",
+          "children": [
+            "Population Studies",
+            "Migration Trends",
+            "Birth and Death Rates",
+            "Aging Population"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Philosophy",
+      "level": "domain-level",
+      "aliases": ["Philosophical Studies"],
+      "related_to": ["Logic", "Ethics"],
+      "children": [
+        {
+          "name": "Metaphysics",
+          "level": "subdomain-level",
+          "children": [
+            "Existence",
+            "Reality",
+            "Causation",
+            "Time and Space"
+          ]
+        },
+        {
+          "name": "Epistemology",
+          "level": "subdomain-level",
+          "children": [
+            "Knowledge",
+            "Belief",
+            "Truth",
+            "Justification"
+          ]
+        },
+        {
+          "name": "Ethics",
+          "level": "subdomain-level",
+          "children": [
+            "Moral Philosophy",
+            "Normative Ethics",
+            "Applied Ethics",
+            "Meta-Ethics"
+          ]
+        },
+        {
+          "name": "Logic",
+          "level": "subdomain-level",
+          "children": [
+            "Formal Logic",
+            "Informal Logic",
+            "Logical Fallacies",
+            "Argumentation Theory"
+          ]
+        },
+    {
+      "name": "Mathematics",
+      "level": "domain-level",
+      "aliases": ["Mathematical Sciences"],
+      "related_to": ["Statistics", "Physics"],
+      "children": [
+        {
+          "name": "Algebra",
+          "level": "subdomain-level",
+          "children": [
+            "Linear Algebra",
+            "Abstract Algebra",
+            "Boolean Algebra",
+            "Polynomial Equations"
+          ]
+        },
+        {
+          "name": "Geometry",
+          "level": "subdomain-level",
+          "children": [
+            "Euclidean Geometry",
+            "Non-Euclidean Geometry",
+            "Trigonometry",
+            "Analytic Geometry"
+          ]
+        },
+        {
+          "name": "Calculus",
+          "level": "subdomain-level",
+          "children": [
+            "Differential Calculus",
+            "Integral Calculus",
+            "Multivariable Calculus",
+            "Vector Calculus"
+          ]
+        },
+        {
+          "name": "Statistics",
+          "level": "subdomain-level",
+          "children": [
+            "Descriptive Statistics",
+            "Inferential Statistics",
+            "Probability Theory",
+            "Statistical Inference"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "level": "domain-level",
+      "aliases": ["Computing"],
+      "related_to": ["Mathematics", "Engineering"],
+      "children": [
+        {
+          "name": "Algorithms",
+          "level": "subdomain-level",
+          "children": [
+            "Sorting Algorithms",
+            "Search Algorithms",
+            "Graph Algorithms",
+            "Dynamic Programming"
+          ]
+        },
+        {
+          "name": "Data Structures",
+          "level": "subdomain-level",
+          "children": [
+            "Arrays",
+            "Linked Lists",
+            "Trees",
+            "Hash Tables"
+          ]
+        },
+        {
+          "name": "Software Engineering",
+          "level": "subdomain-level",
+          "children": [
+            "Software Development Life Cycle (SDLC)",
+            "Agile Methodologies",
+            "Testing and Debugging",
+            "Version Control Systems"
+          ]
+        },
+        {
+          "name": "Artificial Intelligence",
+          "level": "subdomain-level",
+          "children": [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Robotics"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Economics",
+      "level": "domain-level",
+      "aliases": ["Economic Studies"],
+      "related_to": ["Political Science", "Sociology"],
+      "children": [
+        {
+          "name": "Microeconomics",
+          "level": "subdomain-level",
+          "children": [
+            "Supply and Demand",
+            "Market Structures",
+            "Consumer Behavior",
+            "Production and Costs"
+          ]
+        },
+        {
+          "name": "Macroeconomics",
+          "level": "subdomain-level",
+          "children": [
+            "National Income",
+            "Inflation",
+            "Unemployment",
+            "Monetary and Fiscal Policy"
+          ]
+        },
+        {
+          "name": "International Economics",
+          "level": "subdomain-level",
+          "children": [
+            "Trade Theories",
+            "Exchange Rates",
+            "Globalization",
+            "Trade Policies"
+          ]
+        },
+        {
+          "name": "Development Economics",
+          "level": "subdomain-level",
+          "children": [
+            "Economic Growth",
+            "Poverty Alleviation",
+            "Sustainability",
+            "Human Development"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Environmental Science",
+      "level": "domain-level",
+      "aliases": ["Ecological Studies"],
+      "related_to": ["Biology", "Geology"],
+      "children": [
+        {
+          "name": "Ecology",
+          "level": "subdomain-level",
+          "children": [
+            "Ecosystems",
+            "Biodiversity",
+            "Population Ecology",
+            "Community Ecology"
+          ]
+        },
+        {
+          "name": "Conservation Biology",
+          "level": "subdomain-level",
+          "children": [
+            "Species Conservation",
+            "Habitat Preservation",
+            "Sustainable Practices",
+            "Environmental Policy"
+          ]
+        },
+        {
+          "name": "Climate Science",
+          "level": "subdomain-level",
+          "children": [
+            "Climate Change",
+            "Atmospheric Science",
+            "Oceanography",
+            "Impact Assessments"
+          ]
+        },
+        {
+          "name": "Environmental Chemistry",
+          "level": "subdomain-level",
+          "children": [
+            "Pollutants",
+            "Soil Chemistry",
+            "Water Quality",
+            "Toxicology"
+          ]
+        },
+    {
+      "name": "Psychology",
+      "level": "domain-level",
+      "aliases": ["Psychological Science"],
+      "related_to": ["Cognitive Science", "Neuroscience"],
+      "children": [
+        {
+          "name": "Cognitive Psychology",
+          "level": "subdomain-level",
+          "children": [
+            "Memory",
+            "Perception",
+            "Attention",
+            "Language Processing"
+          ]
+        },
+        {
+          "name": "Developmental Psychology",
+          "level": "subdomain-level",
+          "children": [
+            "Child Development",
+            "Adolescent Development",
+            "Adult Development",
+            "Aging"
+          ]
+        },
+        {
+          "name": "Social Psychology",
+          "level": "subdomain-level",
+          "children": [
+            "Group Behavior",
+            "Social Influence",
+            "Prejudice and Discrimination",
+            "Interpersonal Relationships"
+          ]
+        },
+        {
+          "name": "Clinical Psychology",
+          "level": "subdomain-level",
+          "children": [
+            "Psychopathology",
+            "Therapeutic Approaches",
+            "Assessment and Diagnosis",
+            "Mental Health"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sociology",
+      "level": "domain-level",
+      "aliases": ["Social Studies"],
+      "related_to": ["Anthropology", "Political Science"],
+      "children": [
+        {
+          "name": "Social Theory",
+          "level": "subdomain-level",
+          "children": [
+            "Functionalism",
+            "Conflict Theory",
+            "Symbolic Interactionism",
+            "Critical Theory"
+          ]
+        },
+        {
+          "name": "Social Institutions",
+          "level": "subdomain-level",
+          "children": [
+            "Family",
+            "Education",
+            "Religion",
+            "Economy"
+          ]
+        },
+        {
+          "name": "Social Stratification",
+          "level": "subdomain-level",
+          "children": [
+            "Class Systems",
+            "Race and Ethnicity",
+            "Gender",
+            "Social Mobility"
+          ]
+        },
+        {
+          "name": "Urban Sociology",
+          "level": "subdomain-level",
+          "children": [
+            "Urbanization",
+            "City Life",
+            "Rural-Urban Interactions",
+            "Community Development"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Philosophy",
+      "level": "domain-level",
+      "aliases": ["Philosophical Studies"],
+      "related_to": ["Ethics", "Metaphysics"],
+      "children": [
+        {
+          "name": "Metaphysics",
+          "level": "subdomain-level",
+          "children": [
+            "Ontology",
+            "Cosmology",
+            "Identity and Change",
+            "Space and Time"
+          ]
+        },
+        {
+          "name": "Epistemology",
+          "level": "subdomain-level",
+          "children": [
+            "Nature of Knowledge",
+            "Sources of Knowledge",
+            "Justification",
+            "Skepticism"
+          ]
+        },
+        {
+          "name": "Ethics",
+          "level": "subdomain-level",
+          "children": [
+            "Normative Ethics",
+            "Meta-Ethics",
+            "Applied Ethics",
+            "Moral Psychology"
+          ]
+        },
+        {
+          "name": "Aesthetics",
+          "level": "subdomain-level",
+          "children": [
+            "Philosophy of Art",
+            "Beauty and Taste",
+            "Criticism",
+            "Cultural Aesthetics"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "level": "domain-level",
+      "aliases": ["Historical Studies"],
+      "related_to": ["Archaeology", "Cultural Studies"],
+      "children": [
+        {
+          "name": "Ancient History",
+          "level": "subdomain-level",
+          "children": [
+            "Civilizations",
+            "Empires",
+            "Cultural Developments",
+            "Religious Practices"
+          ]
+        },
+        {
+          "name": "Medieval History",
+          "level": "subdomain-level",
+          "children": [
+            "Feudalism",
+            "Crusades",
+            "Renaissance",
+            "Cultural Exchanges"
+          ]
+        },
+        {
+          "name": "Modern History",
+          "level": "subdomain-level",
+          "children": [
+            "Industrial Revolution",
+            "World Wars",
+            "Cold War",
+            "Social Movements"
+          ]
+        },
+        {
+          "name": "Contemporary History",
+          "level": "subdomain-level",
+          "children": [
+            "Globalization",
+            "Technological Changes",
+            "Political Developments",
+            "Environmental Issues"
+          ]
+        },
+    {
+      "name": "Cultural Studies",
+      "level": "domain-level",
+      "aliases": ["Cultural Theory"],
+      "related_to": ["Sociology", "Anthropology"],
+      "children": [
+        {
+          "name": "Media Studies",
+          "level": "subdomain-level",
+          "children": [
+            "Television",
+            "Film",
+            "Digital Media",
+            "Advertising"
+          ]
+        },
+        {
+          "name": "Popular Culture",
+          "level": "subdomain-level",
+          "children": [
+            "Trends",
+            "Subcultures",
+            "Cultural Criticism",
+            "Fandom"
+          ]
+        },
+        {
+          "name": "Identity Studies",
+          "level": "subdomain-level",
+          "children": [
+            "Race and Ethnicity",
+            "Gender and Sexuality",
+            "Class and Social Identity",
+            "Intersectionality"
+          ]
+        },
+        {
+          "name": "Global Culture",
+          "level": "subdomain-level",
+          "children": [
+            "Cultural Exchange",
+            "Transnationalism",
+            "Cultural Imperialism",
+            "Diasporas"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Economics",
+      "level": "domain-level",
+      "aliases": ["Economic Studies"],
+      "related_to": ["Political Science", "Sociology"],
+      "children": [
+        {
+          "name": "Microeconomics",
+          "level": "subdomain-level",
+          "children": [
+            "Consumer Behavior",
+            "Market Structures",
+            "Supply and Demand",
+            "Price Elasticity"
+          ]
+        },
+        {
+          "name": "Macroeconomics",
+          "level": "subdomain-level",
+          "children": [
+            "Economic Growth",
+            "Unemployment",
+            "Inflation",
+            "Fiscal Policy"
+          ]
+        },
+        {
+          "name": "International Economics",
+          "level": "subdomain-level",
+          "children": [
+            "Trade Theories",
+            "Exchange Rates",
+            "Global Markets",
+            "Economic Development"
+          ]
+        },
+        {
+          "name": "Behavioral Economics",
+          "level": "subdomain-level",
+          "children": [
+            "Cognitive Biases",
+            "Decision Making",
+            "Market Behavior",
+            "Nudge Theory"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "level": "domain-level",
+      "aliases": ["Educational Studies"],
+      "related_to": ["Psychology", "Sociology"],
+      "children": [
+        {
+          "name": "Educational Psychology",
+          "level": "subdomain-level",
+          "children": [
+            "Learning Theories",
+            "Motivation",
+            "Assessment and Evaluation",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Curriculum Studies",
+          "level": "subdomain-level",
+          "children": [
+            "Curriculum Design",
+            "Instructional Methods",
+            "Assessment Strategies",
+            "Integration of Technology"
+          ]
+        },
+        {
+          "name": "Higher Education",
+          "level": "subdomain-level",
+          "children": [
+            "University Governance",
+            "Student Development",
+            "Academic Research",
+            "Global Education Trends"
+          ]
+        },
+        {
+          "name": "Adult Education",
+          "level": "subdomain-level",
+          "children": [
+            "Lifelong Learning",
+            "Andragogy",
+            "Workforce Development",
+            "Community Education"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Environmental Studies",
+      "level": "domain-level",
+      "aliases": ["Ecological Studies"],
+      "related_to": ["Environmental Science", "Sustainability"],
+      "children": [
+        {
+          "name": "Conservation Biology",
+          "level": "subdomain-level",
+          "children": [
+            "Biodiversity",
+            "Habitat Preservation",
+            "Species Protection",
+            "Ecosystem Management"
+          ]
+        },
+        {
+          "name": "Sustainable Development",
+          "level": "subdomain-level",
+          "children": [
+            "Sustainable Agriculture",
+            "Renewable Energy",
+            "Community Sustainability",
+            "Sustainable Urban Planning"
+          ]
+        },
+        {
+          "name": "Climate Studies",
+          "level": "subdomain-level",
+          "children": [
+            "Climate Change",
+            "Global Warming",
+            "Climate Policy",
+            "Adaptation Strategies"
+          ]
+        },
+        {
+          "name": "Environmental Policy",
+          "level": "subdomain-level",
+          "children": [
+            "Environmental Law",
+            "Policy Analysis",
+            "Regulatory Frameworks",
+            "International Agreements"
+          ]
+        },
+    {
+      "name": "Sociology",
+      "level": "domain-level",
+      "aliases": ["Social Science"],
+      "related_to": ["Psychology", "Anthropology"],
+      "children": [
+        {
+          "name": "Social Theory",
+          "level": "subdomain-level",
+          "children": [
+            "Classical Theories",
+            "Modern Theories",
+            "Critical Theory",
+            "Feminist Theory"
+          ]
+        },
+        {
+          "name": "Social Research Methods",
+          "level": "subdomain-level",
+          "children": [
+            "Quantitative Methods",
+            "Qualitative Methods",
+            "Mixed Methods",
+            "Survey Research"
+          ]
+        },
+        {
+          "name": "Demography",
+          "level": "subdomain-level",
+          "children": [
+            "Population Studies",
+            "Migration",
+            "Fertility",
+            "Aging"
+          ]
+        },
+        {
+          "name": "Social Change",
+          "level": "subdomain-level",
+          "children": [
+            "Social Movements",
+            "Cultural Change",
+            "Technological Change",
+            "Urbanization"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Psychology",
+      "level": "domain-level",
+      "aliases": ["Behavioral Science"],
+      "related_to": ["Cognitive Science", "Sociology"],
+      "children": [
+        {
+          "name": "Cognitive Psychology",
+          "level": "subdomain-level",
+          "children": [
+            "Perception",
+            "Memory",
+            "Decision Making",
+            "Language Processing"
+          ]
+        },
+        {
+          "name": "Developmental Psychology",
+          "level": "subdomain-level",
+          "children": [
+            "Child Development",
+            "Adolescent Development",
+            "Adult Development",
+            "Aging"
+          ]
+        },
+        {
+          "name": "Clinical Psychology",
+          "level": "subdomain-level",
+          "children": [
+            "Psychopathology",
+            "Therapeutic Approaches",
+            "Assessment Techniques",
+            "Mental Health"
+          ]
+        },
+        {
+          "name": "Social Psychology",
+          "level": "subdomain-level",
+          "children": [
+            "Group Dynamics",
+            "Attitude Formation",
+            "Interpersonal Relationships",
+            "Social Influence"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Philosophy",
+      "level": "domain-level",
+      "aliases": ["Philosophical Studies"],
+      "related_to": ["Logic", "Ethics"],
+      "children": [
+        {
+          "name": "Metaphysics",
+          "level": "subdomain-level",
+          "children": [
+            "Ontology",
+            "Existence",
+            "Time and Space",
+            "Causality"
+          ]
+        },
+        {
+          "name": "Epistemology",
+          "level": "subdomain-level",
+          "children": [
+            "Nature of Knowledge",
+            "Justification",
+            "Skepticism",
+            "Truth"
+          ]
+        },
+        {
+          "name": "Ethics",
+          "level": "subdomain-level",
+          "children": [
+            "Normative Ethics",
+            "Metaethics",
+            "Applied Ethics",
+            "Moral Psychology"
+          ]
+        },
+        {
+          "name": "Aesthetics",
+          "level": "subdomain-level",
+          "children": [
+            "Philosophy of Art",
+            "Beauty",
+            "Taste",
+            "Cultural Criticism"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anthropology",
+      "level": "domain-level",
+      "aliases": ["Cultural Anthropology"],
+      "related_to": ["Sociology", "Linguistics"],
+      "children": [
+        {
+          "name": "Cultural Anthropology",
+          "level": "subdomain-level",
+          "children": [
+            "Cultural Practices",
+            "Rituals",
+            "Mythology",
+            "Cultural Relativism"
+          ]
+        },
+        {
+          "name": "Archaeology",
+          "level": "subdomain-level",
+          "children": [
+            "Excavation Techniques",
+            "Artifact Analysis",
+            "Ancient Civilizations",
+            "Preservation Methods"
+          ]
+        },
+        {
+          "name": "Biological Anthropology",
+          "level": "subdomain-level",
+          "children": [
+            "Human Evolution",
+            "Genetics",
+            "Primatology",
+            "Health and Disease"
+          ]
+        },
+        {
+          "name": "Linguistic Anthropology",
+          "level": "subdomain-level",
+          "children": [
+            "Language and Culture",
+            "Communication Patterns",
+            "Social Identity",
+            "Language Change"
+          ]
+        
