@@ -82,12 +82,26 @@ const process_team = (data: any, fileName: string) => {
     let primary = 0, subDomains = 0, categories = 0, subCategories = 0;
     const definedDomains = new Set(data.domains.map((domain: any) => domain.name));
 
+    // Helper function to format domain references
+    const formatReference = (ref: any) => {
+        if (typeof ref === 'string') return ref;
+        if (typeof ref === 'object') return JSON.stringify(ref).slice(0, 20) + '...';
+        return String(ref);
+    };
+
     // Process and validate each domain
-    const domainIssues = data.domains.map((domain: any) => {
+    data.domains.forEach((domain: any) => {
         if (typeof domain !== 'object' || !domain.level || !domain.name) {
-            return { valid: false, level: "unknown" };
+            errors.push(
+                gen_error(error_messages["domain_invalid"], {
+                    team_name: data.team_name,
+                    invalid_domains: "Invalid domain structure or missing 'level' and 'name'."
+                })
+            );
+            return;
         }
 
+        // Increment level counters based on domain level
         switch (domain.level) {
             case "primary":
                 primary++;
@@ -102,13 +116,19 @@ const process_team = (data: any, fileName: string) => {
                 subCategories++;
                 break;
             default:
-                return { valid: false, level: domain.level };
+                errors.push(
+                    gen_error(error_messages["domain_invalid"], {
+                        team_name: data.team_name,
+                        invalid_domains: `Invalid level '${domain.level}' for domain '${domain.name}'.`
+                    })
+                );
+                return;
         }
 
         // Check if referenced domains in 'children' and 'related_to' exist in 'domains'
         const missingReferences = [...(domain.children || []), ...(domain.related_to || [])].filter(
-            (ref: string) => !definedDomains.has(ref)
-        );
+            (ref: any) => !definedDomains.has(ref)
+        ).map(formatReference);
 
         if (missingReferences.length > 0) {
             errors.push(
@@ -118,20 +138,7 @@ const process_team = (data: any, fileName: string) => {
                 })
             );
         }
-
-        return { valid: true };
     });
-
-    // Collect domain issues
-    const invalidDomainCount = domainIssues.filter(result => !result.valid).length;
-    if (invalidDomainCount > 0) {
-        errors.push(
-            gen_error(error_messages["domain_invalid"], {
-                team_name: data.team_name,
-                invalid_domains: `${invalidDomainCount} domains have invalid levels or structures`
-            })
-        );
-    }
 
     // Validate each member's structure
     const invalidMemberCount = data.members.filter((member: any) => !member.id || !member.name).length;
@@ -157,6 +164,7 @@ const process_team = (data: any, fileName: string) => {
         errors
     };
 };
+
 
 
 //
@@ -227,6 +235,7 @@ const analyze_submissions = () => {
     fs.writeFileSync(result_path, JSON.stringify(output, null, 2), 'utf-8');
     console.log(`Output written to ${result_path}`);
 };
+
 
 
 // Execute the main function
