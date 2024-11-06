@@ -1,0 +1,8 @@
+{
+    "file_unreadable": "The file '{file_name}' could not be read due to invalid formatting or corruption.",
+    "structure_invalid": "The JSON structure in '{file_name}' is invalid. Required fields are missing (e.g., {missing_fields}).",
+    "member_invalid": "One or more members in '{team_name}' have missing or incorrect fields (e.g., {member_errors}).",
+    "domain_invalid": "One or more domains in '{team_name}' have missing or incorrect fields (e.g., {domain_errors}).",
+    "unknown_error": "An unknown error occurred while processing '{file_name}'."
+  }
+  

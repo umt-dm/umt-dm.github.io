@@ -1,0 +1,3591 @@
+{
+  "team_name": "Extractors",
+  "members": [
+    {
+      "id": "F2021376084",
+      "name": "Moiz Amjad"
+    },
+    {
+      "id": "F2021376085",
+      "name": "Sara Azhar Warraich"
+    },
+    {
+      "id": "F2021376061",
+      "name": "Faisal Javed"
+    }
+  ],
+  "domains": [
+    {
+      "name": "Information Technology",
+      "level": "primary",
+      "aliases": ["IT", "Software Engineering"],
+      "related_to": ["Telecommunication", "Engineering"],
+      "children": ["Software Development", "Cybersecurity", "Artificial Intelligence"]
+    },
+    {
+      "name": "Telecommunication",
+      "level": "primary",
+      "aliases": [],
+      "related_to": [],
+      "children": []
+    },
+    {
+      "name": "Engineering",
+      "level": "primary",
+      "aliases": [],
+      "related_to": [],
+      "children": []
+    },
+    {
+      "name": "Software Development",
+      "level": "sub-domain",
+      "aliases": ["App Development"],
+      "related_to": ["Artificial Intelligence"],
+      "children": ["Website Development", "Game Development", "Mobile App Development", "Desktop App Development", "Hybrid App Development"]
+    },
+    {
+      "name": "Website Development",
+      "level": "category",
+      "aliases": [],
+      "related_to": [],
+      "children": ["Laravel Development", "Django App Development", "JavaScript Development"]
+    },
+    {
+      "name": "Game Development",
+      "level": "category",
+      "aliases": [],
+      "related_to": [],
+      "children": []
+    },
+    {
+      "name": "Mobile App Development",
+      "level": "category",
+      "aliases": [],
+      "related_to": [],
+      "children": []
+    },
+    {
+      "name": "Laravel Development",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": [],
+      "children": []
+    },
+    {
+      "name": "Artificial Intelligence",
+      "level": "sub-domain",
+      "aliases": ["AI"],
+      "related_to": ["Machine Learning", "Data Science"],
+      "children": ["Machine Learning", "Natural Language Processing", "Computer Vision", "Robotics", "Expert Systems"]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "category",
+      "aliases": ["ML"],
+      "related_to": ["Data Science", "Artificial Intelligence"],
+      "children": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning", "Deep Learning"]
+    },
+    {
+      "name": "Data Science",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Statistics", "Machine Learning"],
+      "children": ["Data Mining", "Big Data", "Data Visualization", "Data Engineering"]
+    },
+    {
+      "name": "Cybersecurity",
+      "level": "sub-domain",
+      "aliases": ["Security"],
+      "related_to": ["Network Security", "Information Security"],
+      "children": ["Network Security", "Information Security", "Application Security", "Endpoint Security", "Cloud Security"]
+    },
+    {
+      "name": "Network Security",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Cybersecurity"],
+      "children": ["Firewalls", "Intrusion Detection Systems", "Virtual Private Networks", "DDoS Protection"]
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "sub-domain",
+      "aliases": ["Cloud"],
+      "related_to": ["IT Infrastructure", "Virtualization"],
+      "children": ["Infrastructure as a Service", "Platform as a Service", "Software as a Service", "Serverless Computing"]
+    },
+    {
+      "name": "Infrastructure as a Service",
+      "level": "category",
+      "aliases": ["IaaS"],
+      "related_to": ["Cloud Computing"],
+      "children": ["Amazon Web Services", "Microsoft Azure", "Google Cloud Platform"]
+    },
+    {
+      "name": "Platform as a Service",
+      "level": "category",
+      "aliases": ["PaaS"],
+      "related_to": ["Cloud Computing"],
+      "children": ["Heroku", "Google App Engine", "Red Hat OpenShift"]
+    },
+    {
+      "name": "Software as a Service",
+      "level": "category",
+      "aliases": ["SaaS"],
+      "related_to": ["Cloud Computing"],
+      "children": ["Microsoft 365", "Salesforce", "Adobe Creative Cloud"]
+    },
+    {
+      "name": "Serverless Computing",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Cloud Computing"],
+      "children": ["AWS Lambda", "Google Cloud Functions", "Azure Functions"]
+    },
+    {
+      "name": "Data Engineering",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Data Science"],
+      "children": ["Data Pipelines", "ETL Processes", "Data Warehousing"]
+    },
+    {
+      "name": "DevOps",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Software Development"],
+      "children": ["CI/CD", "Infrastructure as Code", "Containerization", "Monitoring"]
+    },
+    {
+      "name": "CI/CD",
+      "level": "category",
+      "aliases": ["Continuous Integration", "Continuous Deployment"],
+      "related_to": ["DevOps"],
+      "children": ["Jenkins", "GitLab CI/CD", "Travis CI"]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "level": "category",
+      "aliases": ["IaC"],
+      "related_to": ["DevOps"],
+      "children": ["Terraform", "Ansible", "Puppet", "Chef"]
+    },
+    {
+      "name": "Containerization",
+      "level": "category",
+      "aliases": ["Containers"],
+      "related_to": ["DevOps"],
+      "children": ["Docker", "Kubernetes", "OpenShift"]
+    },
+    {
+      "name": "Web Development",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Software Development"],
+      "children": ["Frontend Development", "Backend Development", "Full Stack Development"]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Web Development"],
+      "children": ["HTML", "CSS", "JavaScript", "React", "Vue.js", "Angular"]
+    },
+    {
+      "name": "Backend Development",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Web Development"],
+      "children": ["Node.js", "Django", "Ruby on Rails", "Flask", "ASP.NET"]
+    },
+    {
+      "name": "Full Stack Development",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Web Development"],
+      "children": ["MERN Stack", "MEAN Stack", "LAMP Stack"]
+    },
+    {
+      "name": "Blockchain",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Cryptography", "Finance"],
+      "children": ["Cryptocurrency", "Smart Contracts", "NFTs", "Decentralized Finance"]
+    },
+    {
+      "name": "Smart Contracts",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Blockchain"],
+      "children": ["Ethereum", "Solidity", "Hyperledger Fabric"]
+    },
+    {
+      "name": "Cryptocurrency",
+      "level": "category",
+      "aliases": ["Crypto"],
+      "related_to": ["Blockchain"],
+      "children": ["Bitcoin", "Ethereum", "Ripple", "Litecoin"]
+    },
+    {
+      "name": "Big Data",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Data Science"],
+      "children": ["Hadoop", "Apache Spark", "Data Lakes", "Distributed Computing"]
+    },
+    {
+      "name": "Hadoop",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Big Data"],
+      "children": ["MapReduce", "HDFS", "YARN"]
+    },
+    {
+      "name": "Virtualization",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Cloud Computing"],
+      "children": ["VMware", "Hyper-V", "KVM"]
+    },
+    {
+      "name": "Internet of Things",
+      "level": "sub-domain",
+      "aliases": ["IoT"],
+      "related_to": ["Embedded Systems", "Telecommunication"],
+      "children": ["Smart Homes", "Industrial IoT", "Wearables", "Connected Cars"]
+    },
+    {
+      "name": "Smart Homes",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Internet of Things"],
+      "children": ["Home Automation", "Smart Lighting", "Smart Thermostats"]
+    },
+    {
+      "name": "Industrial IoT",
+      "level": "category",
+      "aliases": ["IIoT"],
+      "related_to": ["Internet of Things"],
+      "children": ["Smart Manufacturing", "Predictive Maintenance", "Asset Tracking"]
+    },
+    {
+      "name": "Wearables",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Internet of Things"],
+      "children": ["Smart Watches", "Fitness Trackers", "AR Glasses"]
+    },
+    {
+      "name": "Embedded Systems",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Internet of Things"],
+      "children": ["Microcontrollers", "Real-Time Operating Systems", "Firmware Development"]
+    },
+    {
+      "name": "Microcontrollers",
+      "level": "category",
+      "aliases": ["MCUs"],
+      "related_to": ["Embedded Systems"],
+      "children": ["Arduino", "ESP32", "Raspberry Pi"]
+    },
+    {
+      "name": "Digital Marketing",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Business"],
+      "children": ["SEO", "Social Media Marketing", "Content Marketing", "Email Marketing"]
+    },
+    {
+      "name": "SEO",
+      "level": "category",
+      "aliases": ["Search Engine Optimization"],
+      "related_to": ["Digital Marketing"],
+      "children": ["On-Page SEO", "Off-Page SEO", "Technical SEO"]
+    },
+    {
+      "name": "Social Media Marketing",
+      "level": "category",
+      "aliases": ["SMM"],
+      "related_to": ["Digital Marketing"],
+      "children": ["Facebook Marketing", "Instagram Marketing", "Twitter Marketing"]
+    },
+    {
+      "name": "Content Marketing",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Digital Marketing"],
+      "children": ["Blogging", "Video Marketing", "Podcasting"]
+    },
+    {
+      "name": "Natural Language Processing",
+      "level": "category",
+      "aliases": ["NLP"],
+      "related_to": ["Artificial Intelligence", "Machine Learning"],
+      "children": ["Sentiment Analysis", "Text Classification", "Language Modeling", "Speech Recognition"]
+    },
+    {
+      "name": "Sentiment Analysis",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Natural Language Processing"],
+      "children": []
+    },
+    {
+      "name": "Text Classification",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Natural Language Processing"],
+      "children": []
+    },
+    {
+      "name": "Speech Recognition",
+      "level": "sub-category",
+      "aliases": ["ASR", "Automatic Speech Recognition"],
+      "related_to": ["Natural Language Processing", "Artificial Intelligence"],
+      "children": []
+    },
+    {
+      "name": "Computer Vision",
+      "level": "category",
+      "aliases": ["CV"],
+      "related_to": ["Artificial Intelligence"],
+      "children": ["Image Classification", "Object Detection", "Image Segmentation", "Facial Recognition"]
+    },
+    {
+      "name": "Object Detection",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Computer Vision"],
+      "children": []
+    },
+    {
+      "name": "Image Segmentation",
+      "level": "sub-category",
+      "aliases": [],
+      "related_to": ["Computer Vision"],
+      "children": []
+    },
+    {
+      "name": "Augmented Reality",
+      "level": "sub-domain",
+      "aliases": ["AR"],
+      "related_to": ["Virtual Reality", "Computer Vision"],
+      "children": ["AR App Development", "Mixed Reality", "Marker-Based AR", "Markerless AR"]
+    },
+    {
+      "name": "Virtual Reality",
+      "level": "sub-domain",
+      "aliases": ["VR"],
+      "related_to": ["Augmented Reality"],
+      "children": ["VR Game Development", "VR App Development", "Immersive Experiences"]
+    },
+    {
+      "name": "E-commerce Development",
+      "level": "sub-domain",
+      "aliases": ["Online Store Development"],
+      "related_to": ["Website Development"],
+      "children": ["Shopify Development", "Magento Development", "WooCommerce Development"]
+    },
+    {
+      "name": "Shopify Development",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["E-commerce Development"],
+      "children": []
+    },
+    {
+      "name": "WooCommerce Development",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["E-commerce Development"],
+      "children": []
+    },
+    {
+      "name": "Digital Forensics",
+      "level": "sub-domain",
+      "aliases": ["Cyber Forensics"],
+      "related_to": ["Cybersecurity"],
+      "children": ["Computer Forensics", "Network Forensics", "Mobile Forensics", "Malware Analysis"]
+    },
+    {
+      "name": "Malware Analysis",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Digital Forensics", "Cybersecurity"],
+      "children": []
+    },
+    {
+      "name": "Game Development",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Software Development"],
+      "children": ["2D Game Development", "3D Game Development", "Unity Development", "Unreal Engine Development"]
+    },
+    {
+      "name": "2D Game Development",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Game Development"],
+      "children": []
+    },
+    {
+      "name": "3D Game Development",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Game Development"],
+      "children": []
+    },
+    {
+      "name": "Human-Computer Interaction",
+      "level": "sub-domain",
+      "aliases": ["HCI"],
+      "related_to": ["Design", "Computer Science"],
+      "children": ["User Interface Design", "User Experience Design", "Usability Testing"]
+    },
+    {
+      "name": "User Interface Design",
+      "level": "category",
+      "aliases": ["UI Design"],
+      "related_to": ["Human-Computer Interaction"],
+      "children": []
+    },
+    {
+      "name": "User Experience Design",
+      "level": "category",
+      "aliases": ["UX Design"],
+      "related_to": ["Human-Computer Interaction"],
+      "children": []
+    },
+    {
+      "name": "Quantum Computing",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Computer Science"],
+      "children": ["Quantum Algorithms", "Quantum Cryptography", "Quantum Machine Learning"]
+    },
+    {
+      "name": "Quantum Cryptography",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Quantum Computing", "Cybersecurity"],
+      "children": []
+    },
+    {
+      "name": "Mobile Development",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Software Development"],
+      "children": ["Android Development", "iOS Development", "Cross-Platform Development"]
+    },
+    {
+      "name": "Android Development",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Mobile Development"],
+      "children": ["Kotlin", "Java", "Android Studio"]
+    },
+    {
+      "name": "iOS Development",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Mobile Development"],
+      "children": ["Swift", "Objective-C", "Xcode"]
+    },
+    {
+      "name": "Cross-Platform Development",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Mobile Development"],
+      "children": ["React Native", "Flutter", "Xamarin"]
+    },
+    {
+      "name": "Database Management",
+      "level": "sub-domain",
+      "aliases": ["DBMS"],
+      "related_to": ["Data Science"],
+      "children": ["SQL Databases", "NoSQL Databases", "Data Warehousing", "Database Design"]
+    },
+    {
+      "name": "SQL Databases",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Database Management"],
+      "children": ["MySQL", "PostgreSQL", "SQLite", "Oracle Database"]
+    },
+    {
+      "name": "NoSQL Databases",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Database Management"],
+      "children": ["MongoDB", "Cassandra", "Redis", "CouchDB"]
+    },
+    {
+      "name": "Data Warehousing",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Database Management", "Big Data"],
+      "children": ["Amazon Redshift", "Google BigQuery", "Snowflake"]
+    },
+    {
+      "name": "Software Testing",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Software Development"],
+      "children": ["Manual Testing", "Automated Testing", "Performance Testing", "Security Testing"]
+    },
+    {
+      "name": "Manual Testing",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Software Testing"],
+      "children": []
+    },
+    {
+      "name": "Automated Testing",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Software Testing"],
+      "children": ["Selenium", "JUnit", "TestNG", "Cypress"]
+    },
+    {
+      "name": "Performance Testing",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Software Testing"],
+      "children": ["Load Testing", "Stress Testing", "Scalability Testing"]
+    },
+    {
+      "name": "Embedded Systems",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Hardware Engineering"],
+      "children": ["Firmware Development", "Microcontrollers", "IoT Embedded Systems"]
+    },
+    {
+      "name": "Firmware Development",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Embedded Systems"],
+      "children": []
+    },
+    {
+      "name": "Network Administration",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["IT Infrastructure"],
+      "children": ["LAN Administration", "WAN Administration", "Cloud Networking", "Network Monitoring"]
+    },
+    {
+      "name": "Cloud Networking",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Network Administration", "Cloud Computing"],
+      "children": ["AWS Networking", "Azure Networking", "Google Cloud Networking"]
+    },
+    {
+      "name": "Artificial Neural Networks",
+      "level": "category",
+      "aliases": ["ANN"],
+      "related_to": ["Machine Learning"],
+      "children": ["Convolutional Neural Networks", "Recurrent Neural Networks", "GANs"]
+    },
+    {
+      "name": "Convolutional Neural Networks",
+      "level": "sub-category",
+      "aliases": ["CNN"],
+      "related_to": ["Artificial Neural Networks"],
+      "children": []
+    },
+    {
+      "name": "Recurrent Neural Networks",
+      "level": "sub-category",
+      "aliases": ["RNN"],
+      "related_to": ["Artificial Neural Networks"],
+      "children": []
+    },
+    {
+      "name": "Blockchain Technology",
+      "level": "sub-domain",
+      "aliases": ["Distributed Ledger Technology"],
+      "related_to": ["Cryptography", "Fintech"],
+      "children": ["Smart Contracts", "Decentralized Apps", "Cryptocurrency Development"]
+    },
+    {
+      "name": "Smart Contracts",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Blockchain Technology"],
+      "children": []
+    },
+
+    {
+      "name": "Investment Banking",
+      "level": "primary",
+      "aliases": ["IB"],
+      "related_to": ["Corporate Finance", "Capital Markets"],
+      "children": ["Mergers & Acquisitions", "Equity Research", "Debt Financing"]
+    },
+    {
+      "name": "Mergers & Acquisitions",
+      "level": "sub-domain",
+      "aliases": ["M&A"],
+      "related_to": ["Investment Banking"],
+      "children": ["Buy-Side M&A", "Sell-Side M&A"]
+    },
+    {
+      "name": "Equity Research",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Investment Banking", "Stock Market"],
+      "children": ["Sector Analysis", "Company Valuation"]
+    },
+    {
+      "name": "Debt Financing",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Investment Banking", "Fixed Income"],
+      "children": ["Bond Issuance", "Credit Analysis"]
+    },
+    {
+      "name": "Corporate Finance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Investment Banking", "Financial Planning"],
+      "children": ["Financial Modeling", "Capital Budgeting", "Cost of Capital"]
+    },
+    {
+      "name": "Financial Modeling",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Corporate Finance"],
+      "children": ["DCF Modeling", "LBO Modeling", "Sensitivity Analysis"]
+    },
+    {
+      "name": "Capital Budgeting",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Corporate Finance"],
+      "children": ["Net Present Value", "Internal Rate of Return"]
+    },
+    {
+      "name": "Risk Management",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Finance", "Insurance"],
+      "children": ["Credit Risk", "Market Risk", "Operational Risk", "Liquidity Risk"]
+    },
+    {
+      "name": "Credit Risk",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Risk Management"],
+      "children": ["Credit Scoring", "Default Analysis"]
+    },
+    {
+      "name": "Market Risk",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Risk Management"],
+      "children": ["Value at Risk", "Sensitivity Analysis"]
+    },
+    {
+      "name": "Asset Management",
+      "level": "primary",
+      "aliases": ["Wealth Management"],
+      "related_to": ["Finance"],
+      "children": ["Portfolio Management", "Private Equity", "Mutual Funds"]
+    },
+    {
+      "name": "Portfolio Management",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Asset Management"],
+      "children": ["Active Management", "Passive Management", "Asset Allocation"]
+    },
+    {
+      "name": "Private Equity",
+      "level": "sub-domain",
+      "aliases": ["PE"],
+      "related_to": ["Asset Management"],
+      "children": ["Venture Capital", "Buyouts"]
+    },
+    {
+      "name": "Mutual Funds",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Asset Management"],
+      "children": ["Equity Funds", "Bond Funds", "Index Funds"]
+    },
+    {
+      "name": "Hedge Funds",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Asset Management"],
+      "children": ["Long/Short Equity", "Global Macro", "Event-Driven"]
+    },
+    {
+      "name": "Long/Short Equity",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Hedge Funds"],
+      "children": []
+    },
+    {
+      "name": "Global Macro",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Hedge Funds"],
+      "children": []
+    },
+    {
+      "name": "Event-Driven",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Hedge Funds"],
+      "children": ["Merger Arbitrage", "Distressed Securities"]
+    },
+    {
+      "name": "Insurance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Risk Management"],
+      "children": ["Life Insurance", "Property Insurance", "Health Insurance"]
+    },
+    {
+      "name": "Life Insurance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Insurance"],
+      "children": ["Term Life", "Whole Life", "Universal Life"]
+    },
+    {
+      "name": "Property Insurance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Insurance"],
+      "children": ["Home Insurance", "Auto Insurance", "Commercial Property Insurance"]
+    },
+    {
+      "name": "Health Insurance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Insurance"],
+      "children": ["Individual Health Insurance", "Group Health Insurance"]
+    },
+    {
+      "name": "Real Estate Finance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Asset Management", "Investment Banking"],
+      "children": ["Residential Real Estate", "Commercial Real Estate"]
+    },
+    {
+      "name": "Residential Real Estate",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Real Estate Finance"],
+      "children": ["Mortgage Lending", "Appraisal"]
+    },
+    {
+      "name": "Commercial Real Estate",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Real Estate Finance"],
+      "children": ["Commercial Leasing", "Real Estate Investment Trusts (REITs)"]
+    },
+    {
+      "name": "Fintech",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Finance", "Technology"],
+      "children": ["Blockchain", "Digital Banking", "Robo-Advisors"]
+    },
+    {
+      "name": "Blockchain",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Fintech"],
+      "children": ["Cryptocurrency", "Smart Contracts", "DeFi"]
+    },
+    {
+      "name": "Cryptocurrency",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Blockchain"],
+      "children": ["Bitcoin", "Ethereum", "Altcoins"]
+    },
+    {
+      "name": "Digital Banking",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Fintech"],
+      "children": ["Online Banking", "Mobile Payments"]
+    },
+    {
+      "name": "Personal Finance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Financial Planning"],
+      "children": ["Budgeting", "Saving", "Retirement Planning"]
+    },
+    {
+      "name": "Budgeting",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Personal Finance"],
+      "children": []
+    },
+    {
+      "name": "Saving",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Personal Finance"],
+      "children": ["Emergency Fund", "High-Yield Savings Accounts"]
+    },
+    {
+      "name": "Retirement Planning",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Personal Finance"],
+      "children": ["401(k)", "IRA", "Roth IRA"]
+    },
+    {
+      "name": "Financial Technology",
+      "level": "sub-domain",
+      "aliases": ["Finance Tech"],
+      "related_to": ["Fintech"],
+      "children": ["Mobile Wallets", "Contactless Payments"]
+    },
+    {
+      "name": "Capital Markets",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Finance"],
+      "children": ["Equity Markets", "Debt Markets", "Derivatives"]
+    },
+    {
+      "name": "Equity Markets",
+      "level": "sub-domain",
+      "aliases": ["Stock Market"],
+      "related_to": ["Capital Markets"],
+      "children": ["Public Equity", "Private Equity", "Equity Derivatives"]
+    },
+    {
+      "name": "Debt Markets",
+      "level": "sub-domain",
+      "aliases": ["Bond Market"],
+      "related_to": ["Capital Markets"],
+      "children": ["Corporate Bonds", "Government Bonds", "Municipal Bonds"]
+    },
+    {
+      "name": "Derivatives",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Capital Markets"],
+      "children": ["Options", "Futures", "Swaps"]
+    },
+    {
+      "name": "Options",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Derivatives"],
+      "children": ["Call Options", "Put Options"]
+    },
+    {
+      "name": "Financial Planning",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Finance"],
+      "children": ["Tax Planning", "Estate Planning", "Education Planning"]
+    },
+    {
+      "name": "Tax Planning",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Financial Planning"],
+      "children": ["Tax Minimization", "Income Tax"]
+    },
+    {
+      "name": "Estate Planning",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Financial Planning"],
+      "children": ["Wills", "Trusts", "Inheritance"]
+    },
+    {
+      "name": "Alternative Investments",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Asset Management"],
+      "children": ["Private Equity", "Hedge Funds", "Commodities", "Real Estate"]
+    },
+    {
+      "name": "Commodities",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Alternative Investments"],
+      "children": ["Precious Metals", "Energy Commodities", "Agricultural Commodities"]
+    },
+    {
+      "name": "Precious Metals",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Commodities"],
+      "children": ["Gold", "Silver", "Platinum"]
+    },
+    {
+      "name": "Energy Commodities",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Commodities"],
+      "children": ["Oil", "Natural Gas"]
+    },
+    {
+      "name": "Fixed Income",
+      "level": "primary",
+      "aliases": ["Bonds"],
+      "related_to": ["Capital Markets"],
+      "children": ["Corporate Bonds", "Government Bonds", "Municipal Bonds"]
+    },
+    {
+      "name": "Corporate Bonds",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Fixed Income"],
+      "children": []
+    },
+    {
+      "name": "Municipal Bonds",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Fixed Income"],
+      "children": []
+    },
+    {
+      "name": "Financial Analysis",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Corporate Finance"],
+      "children": ["Equity Analysis", "Credit Analysis", "Fixed Income Analysis"]
+    },
+    {
+      "name": "Equity Analysis",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Financial Analysis"],
+      "children": ["Technical Analysis", "Fundamental Analysis"]
+    },
+    {
+      "name": "Credit Analysis",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Financial Analysis", "Credit Risk"],
+      "children": ["Credit Rating", "Credit Scoring"]
+    },
+    {
+      "name": "Valuation",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Corporate Finance", "Investment Banking"],
+      "children": ["Discounted Cash Flow (DCF)", "Comparables Analysis", "Precedent Transactions"]
+    },
+    {
+      "name": "Discounted Cash Flow (DCF)",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Valuation"],
+      "children": []
+    },
+    {
+      "name": "Comparables Analysis",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Valuation"],
+      "children": []
+    },
+    {
+      "name": "Precedent Transactions",
+      "level": "category",
+      "aliases": [],
+      "related_to": ["Valuation"],
+      "children": []
+    },
+    {
+      "name": "International Finance",
+      "level": "primary",
+      "aliases": ["Global Finance"],
+      "related_to": ["Corporate Finance"],
+      "children": ["Foreign Exchange", "Global Trade Finance", "International Investments"]
+    },
+    {
+      "name": "Foreign Exchange",
+      "level": "sub-domain",
+      "aliases": ["Forex"],
+      "related_to": ["International Finance"],
+      "children": ["Currency Trading", "Currency Hedging"]
+    },
+    {
+      "name": "Global Trade Finance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["International Finance"],
+      "children": ["Letters of Credit", "Trade Credit Insurance"]
+    },
+    {
+      "name": "Taxation",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Personal Finance", "Financial Planning"],
+      "children": ["Income Tax", "Corporate Tax", "Capital Gains Tax"]
+    },
+    {
+      "name": "Corporate Tax",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Taxation"],
+      "children": ["Tax Compliance", "Tax Planning"]
+    },
+    {
+      "name": "Wealth Management",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Asset Management"],
+      "children": ["Financial Planning", "Estate Planning", "Retirement Planning"]
+    },
+    {
+      "name": "Pension Funds",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Retirement Planning"],
+      "children": ["Defined Benefit", "Defined Contribution"]
+    },
+    {
+      "name": "Financial Technology",
+      "level": "primary",
+      "aliases": ["Fintech"],
+      "related_to": ["Technology", "Finance"],
+      "children": ["Mobile Payments", "Digital Currencies", "Insurtech"]
+    },
+    {
+      "name": "Insurtech",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Financial Technology", "Insurance"],
+      "children": ["Policy Automation", "Claims Processing"]
+    },
+    {
+      "name": "Financial Advisory",
+      "level": "primary",
+      "aliases": ["Consulting"],
+      "related_to": ["Corporate Finance"],
+      "children": ["Transaction Advisory", "Restructuring Advisory"]
+    },
+    {
+      "name": "Transaction Advisory",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Financial Advisory"],
+      "children": ["Due Diligence", "Valuation Advisory"]
+    },
+    {
+      "name": "Restructuring Advisory",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Financial Advisory"],
+      "children": ["Distressed M&A", "Turnaround Strategy"]
+    },
+    {
+      "name": "Public Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Political Science", "Public Administration"],
+      "children": ["E-Government", "Public Policy", "Citizen Engagement"]
+    },
+    {
+      "name": "E-Government",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Public Governance"],
+      "children": ["Digital Services", "Online Voting", "Government Portals"]
+    },
+    {
+      "name": "Public Policy",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Public Governance"],
+      "children": ["Policy Analysis", "Policy Implementation", "Policy Evaluation"]
+    },
+    {
+      "name": "Citizen Engagement",
+      "level": "sub-domain",
+      "aliases": ["Public Participation"],
+      "related_to": ["Public Governance"],
+      "children": ["Surveys", "Public Consultations", "Participatory Budgeting"]
+    },
+    {
+      "name": "Corporate Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Business Administration"],
+      "children": ["Board Governance", "Executive Compensation", "Shareholder Rights"]
+    },
+    {
+      "name": "Board Governance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Corporate Governance"],
+      "children": ["Board Composition", "Board Diversity", "Board Evaluations"]
+    },
+    {
+      "name": "Executive Compensation",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Corporate Governance"],
+      "children": ["Pay Structures", "Incentive Plans"]
+    },
+    {
+      "name": "Shareholder Rights",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Corporate Governance"],
+      "children": ["Voting Rights", "Shareholder Activism"]
+    },
+    {
+      "name": "International Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Global Studies"],
+      "children": ["Global Institutions", "International Law", "Transnational Governance"]
+    },
+    {
+      "name": "Global Institutions",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["International Governance"],
+      "children": ["United Nations", "World Bank", "International Monetary Fund"]
+    },
+    {
+      "name": "International Law",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["International Governance"],
+      "children": ["Treaties", "Customary Law", "Human Rights Law"]
+    },
+    {
+      "name": "Transnational Governance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["International Governance"],
+      "children": ["Environmental Governance", "Trade Governance"]
+    },
+    {
+      "name": "Environmental Governance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Transnational Governance"],
+      "children": ["Sustainability Policies", "Climate Change Agreements"]
+    },
+    {
+      "name": "Trade Governance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Transnational Governance"],
+      "children": ["Free Trade Agreements", "Trade Regulations"]
+    },
+    {
+      "name": "Local Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Public Governance"],
+      "children": ["Municipal Management", "Local Planning", "Community Development"]
+    },
+    {
+      "name": "Municipal Management",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Local Governance"],
+      "children": ["Urban Planning", "Public Works", "Local Services"]
+    },
+    {
+      "name": "Local Planning",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Local Governance"],
+      "children": ["Zoning Laws", "Land Use Planning"]
+    },
+    {
+      "name": "Community Development",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Local Governance"],
+      "children": ["Community Engagement", "Economic Development"]
+    },
+    {
+      "name": "Nonprofit Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Corporate Governance"],
+      "children": ["Board Development", "Fundraising Governance"]
+    },
+    {
+      "name": "Board Development",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Nonprofit Governance"],
+      "children": ["Board Recruitment", "Board Training"]
+    },
+    {
+      "name": "Fundraising Governance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Nonprofit Governance"],
+      "children": ["Ethical Fundraising", "Donor Relations"]
+    },
+    {
+      "name": "Health Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Public Governance"],
+      "children": ["Health Policy", "Healthcare Administration", "Public Health Governance"]
+    },
+    {
+      "name": "Health Policy",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Health Governance"],
+      "children": ["Health Insurance", "Public Health Programs"]
+    },
+    {
+      "name": "Healthcare Administration",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Health Governance"],
+      "children": ["Healthcare Quality", "Healthcare Finance"]
+    },
+    {
+      "name": "Public Health Governance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Health Governance"],
+      "children": ["Epidemic Response", "Health Equity"]
+    },
+    {
+      "name": "Crisis Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Public Governance"],
+      "children": ["Disaster Management", "Emergency Response", "Risk Management"]
+    },
+    {
+      "name": "Disaster Management",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Crisis Governance"],
+      "children": ["Preparedness", "Response", "Recovery"]
+    },
+    {
+      "name": "Emergency Response",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Crisis Governance"],
+      "children": ["First Responders", "Emergency Services"]
+    },
+    {
+      "name": "Risk Management",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Crisis Governance"],
+      "children": ["Hazard Identification", "Risk Assessment"]
+    },
+    {
+      "name": "Digital Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["E-Government"],
+      "children": ["Data Governance", "Cybersecurity Governance"]
+    },
+    {
+      "name": "Data Governance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Digital Governance"],
+      "children": ["Data Management", "Data Privacy"]
+    },
+    {
+      "name": "Cybersecurity Governance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Digital Governance"],
+      "children": ["Cyber Risk Management", "Incident Response"]
+    },
+    {
+      "name": "Political Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Political Science"],
+      "children": ["Political Parties", "Elections", "Legislative Processes"]
+    },
+    {
+      "name": "Political Parties",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Political Governance"],
+      "children": ["Party Systems", "Party Organization"]
+    },
+    {
+      "name": "Elections",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Political Governance"],
+      "children": ["Election Management", "Voter Turnout"]
+    },
+    {
+      "name": "Legislative Processes",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Political Governance"],
+      "children": ["Bill Drafting", "Committee Processes"]
+    },
+    {
+      "name": "Ethics in Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Public Governance", "Corporate Governance"],
+      "children": ["Integrity Systems", "Accountability"]
+    },
+    {
+      "name": "Integrity Systems",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Ethics in Governance"],
+      "children": ["Code of Conduct", "Whistleblower Protections"]
+    },
+    {
+      "name": "Accountability",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Ethics in Governance"],
+      "children": ["Transparency", "Performance Measurement"]
+    },
+    {
+      "name": "Sustainable Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Public Governance"],
+      "children": ["Sustainable Development", "Corporate Sustainability"]
+    },
+    {
+      "name": "Sustainable Development",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Sustainable Governance"],
+      "children": ["Sustainable Policy", "Green Initiatives"]
+    },
+    {
+      "name": "Corporate Sustainability",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Sustainable Governance"],
+      "children": ["Sustainability Reporting", "CSR"]
+    },
+    {
+      "name": "Comparative Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Political Science"],
+      "children": ["Cross-National Studies", "Governance Models"]
+    },
+    {
+      "name": "Cross-National Studies",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Comparative Governance"],
+      "children": ["Case Studies", "Governance Indicators"]
+    },
+    {
+      "name": "Governance Models",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Comparative Governance"],
+      "children": ["Democratic Governance", "Authoritarian Governance"]
+    },
+    {
+      "name": "Regulatory Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Public Governance"],
+      "children": ["Regulatory Frameworks", "Compliance", "Enforcement"]
+    },
+    {
+      "name": "Regulatory Frameworks",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Regulatory Governance"],
+      "children": ["Legislation", "Regulatory Agencies"]
+    },
+    {
+      "name": "Compliance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Regulatory Governance"],
+      "children": ["Internal Controls", "Regulatory Reporting"]
+    },
+    {
+      "name": "Enforcement",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Regulatory Governance"],
+      "children": ["Investigations", "Penalties"]
+    },
+    {
+      "name": "Administrative Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Public Administration"],
+      "children": ["Public Sector Management", "Bureaucracy"]
+    },
+    {
+      "name": "Public Sector Management",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Administrative Governance"],
+      "children": ["Human Resource Management", "Performance Management"]
+    },
+    {
+      "name": "Bureaucracy",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Administrative Governance"],
+      "children": ["Organizational Structure", "Procedures"]
+    },
+    {
+      "name": "Cultural Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Public Governance"],
+      "children": ["Cultural Policies", "Arts Governance"]
+    },
+    {
+      "name": "Cultural Policies",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Cultural Governance"],
+      "children": ["Cultural Heritage", "Cultural Diversity"]
+    },
+    {
+      "name": "Arts Governance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Cultural Governance"],
+      "children": ["Arts Funding", "Arts Advocacy"]
+    },
+    {
+      "name": "Social Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Public Governance"],
+      "children": ["Social Justice", "Community Services"]
+    },
+    {
+      "name": "Social Justice",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Social Governance"],
+      "children": ["Equity Policies", "Social Movements"]
+    },
+    {
+      "name": "Community Services",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Social Governance"],
+      "children": ["Social Welfare", "Community Development Programs"]
+    },
+    {
+      "name": "Technological Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Digital Governance"],
+      "children": ["AI Governance", "Blockchain Governance"]
+    },
+    {
+      "name": "AI Governance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Technological Governance"],
+      "children": ["Ethical AI", "AI Regulations"]
+    },
+    {
+      "name": "Blockchain Governance",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Technological Governance"],
+      "children": ["Smart Contracts", "Decentralized Governance"]
+    },
+    {
+      "name": "Institutional Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Public Administration"],
+      "children": ["Institutional Frameworks", "Public Institutions"]
+    },
+    {
+      "name": "Institutional Frameworks",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Institutional Governance"],
+      "children": ["Legal Frameworks", "Institutional Design"]
+    },
+    {
+      "name": "Public Institutions",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Institutional Governance"],
+      "children": ["Educational Institutions", "Healthcare Institutions"]
+    },
+    {
+      "name": "Peace Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["International Governance"],
+      "children": ["Conflict Resolution", "Peacebuilding"]
+    },
+    {
+      "name": "Conflict Resolution",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Peace Governance"],
+      "children": ["Mediation", "Negotiation"]
+    },
+    {
+      "name": "Peacebuilding",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Peace Governance"],
+      "children": ["Reconstruction", "Social Cohesion"]
+    },
+    {
+      "name": "Regional Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Public Governance"],
+      "children": ["Regional Development", "Intergovernmental Relations"]
+    },
+    {
+      "name": "Regional Development",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Regional Governance"],
+      "children": ["Infrastructure Development", "Regional Planning"]
+    },
+    {
+      "name": "Intergovernmental Relations",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Regional Governance"],
+      "children": ["Cooperation", "Coordination"]
+    },
+    {
+      "name": "Financial Governance",
+      "level": "primary",
+      "aliases": [],
+      "related_to": ["Public Governance"],
+      "children": ["Fiscal Policy", "Public Expenditure"]
+    },
+    {
+      "name": "Fiscal Policy",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Financial Governance"],
+      "children": ["Taxation Policy", "Government Spending"]
+    },
+    {
+      "name": "Public Expenditure",
+      "level": "sub-domain",
+      "aliases": [],
+      "related_to": ["Financial Governance"],
+      "children": ["Budgeting", "Public Sector Investment"]
+    },
+    {
+        "name": "Augmented Analytics",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Business Intelligence"],
+        "children": ["Natural Language Processing", "Data Preparation", "Self-Service Analytics"]
+    },
+    {
+        "name": "Self-Service Analytics",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Augmented Analytics"],
+        "children": []
+    },
+    {
+        "name": "Business Intelligence",
+        "level": "primary",
+        "aliases": ["BI"],
+        "related_to": ["Data Warehousing", "Data Visualization"],
+        "children": ["Data Mining", "Reporting", "Dashboards"]
+    },
+    {
+        "name": "Data Visualization",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Business Intelligence"],
+        "children": ["Tableau", "Power BI", "D3.js"]
+    },
+    {
+        "name": "Machine Learning Operations",
+        "level": "sub-domain",
+        "aliases": ["MLOps"],
+        "related_to": ["Machine Learning", "DevOps"],
+        "children": ["Model Deployment", "Model Monitoring", "Continuous Training"]
+    },
+    {
+        "name": "Model Deployment",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Machine Learning Operations"],
+        "children": []
+    },
+    {
+        "name": "Edge Computing",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Cloud Computing", "IoT"],
+        "children": ["Fog Computing", "Micro Data Centers"]
+    },
+    {
+        "name": "Fog Computing",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Edge Computing"],
+        "children": []
+    },
+    {
+        "name": "Quantum Algorithms",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Quantum Computing"],
+        "children": []
+    },
+    {
+        "name": "Bioinformatics",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Biotechnology", "Computer Science"],
+        "children": ["Genomic Data Analysis", "Proteomics", "Systems Biology"]
+    },
+    {
+        "name": "Genomic Data Analysis",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Bioinformatics"],
+        "children": []
+    },
+    {
+        "name": "Robotics Process Automation",
+        "level": "sub-domain",
+        "aliases": ["RPA"],
+        "related_to": ["Automation", "Business Process Management"],
+        "children": ["Software Robots", "Business Process Automation"]
+    },
+    {
+        "name": "Software Robots",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Robotics Process Automation"],
+        "children": []
+    },
+    {
+        "name": "Digital Twin",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["IoT", "Simulation"],
+        "children": ["Real-time Monitoring", "Predictive Maintenance"]
+    },
+    {
+        "name": "Real-time Monitoring",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Digital Twin"],
+        "children": []
+    },
+    {
+        "name": "Smart Cities",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["IoT", "Urban Development"],
+        "children": ["Intelligent Transportation", "Energy Management"]
+    },
+    {
+        "name": "Intelligent Transportation",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Smart Cities"],
+        "children": []
+    },
+    {
+        "name": "Energy Management",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Smart Cities"],
+        "children": []
+    },
+    {
+        "name": "Serverless Architecture",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Cloud Computing"],
+        "children": ["Function as a Service", "Backend as a Service"]
+    },
+    {
+        "name": "Function as a Service",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Serverless Architecture"],
+        "children": []
+    },
+    {
+        "name": "Augmented Reality Development",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Virtual Reality", "Gaming"],
+        "children": ["Unity AR", "ARKit", "ARCore"]
+    },
+    {
+        "name": "Unity AR",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Augmented Reality Development"],
+        "children": []
+    },
+    {
+        "name": "Cyber-Physical Systems",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["IoT", "Automation"],
+        "children": ["Smart Grids", "Autonomous Vehicles"]
+    },
+    {
+        "name": "Smart Grids",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Cyber-Physical Systems"],
+        "children": []
+    },
+    {
+        "name": "Social Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Cybersecurity"],
+        "children": ["Phishing", "Pretexting", "Baiting"]
+    },
+    {
+        "name": "Phishing",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Social Engineering"],
+        "children": []
+    },
+    {
+        "name": "3D Printing",
+        "level": "sub-domain",
+        "aliases": ["Additive Manufacturing"],
+        "related_to": ["Manufacturing", "Engineering"],
+        "children": ["Rapid Prototyping", "Material Science"]
+    },
+    {
+        "name": "Rapid Prototyping",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["3D Printing"],
+        "children": []
+    },
+    {
+        "name": "Supply Chain Management",
+        "level": "sub-domain",
+        "aliases": ["SCM"],
+        "related_to": ["Business", "Logistics"],
+        "children": ["Inventory Management", "Logistics Management"]
+    },
+    {
+        "name": "Inventory Management",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Supply Chain Management"],
+        "children": []
+    },
+    {
+        "name": "Human Augmentation",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Biomedical Engineering"],
+        "children": ["Wearable Technology", "Prosthetics"]
+    },
+    {
+        "name": "Wearable Technology",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Human Augmentation"],
+        "children": []
+    },
+    {
+        "name": "Natural Language Generation",
+        "level": "sub-domain",
+        "aliases": ["NLG"],
+        "related_to": ["Artificial Intelligence"],
+        "children": ["Text Generation", "Chatbots"]
+    },
+    {
+        "name": "Text Generation",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Natural Language Generation"],
+        "children": []
+    },
+    {
+        "name": "Cloud Security",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Cybersecurity"],
+        "children": ["Data Encryption", "Identity and Access Management"]
+    },
+    {
+        "name": "Data Encryption",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Cloud Security"],
+        "children": []
+    },
+    {
+        "name": "Identity and Access Management",
+        "level": "category",
+        "aliases": ["IAM"],
+        "related_to": ["Cloud Security"],
+        "children": []
+    },
+    {
+        "name": "Behavioral Analytics",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Data Analytics"],
+        "children": ["User Behavior Analytics", "Fraud Detection"]
+    },
+    {
+        "name": "User Behavior Analytics",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Behavioral Analytics"],
+        "children": []
+    },
+    {
+        "name": "Fraud Detection",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Behavioral Analytics"],
+        "children": []
+    },
+    {
+        "name": "Digital Asset Management",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Content Management"],
+        "children": ["Media Asset Management", "Brand Asset Management"]
+    },
+    {
+        "name": "Media Asset Management",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Digital Asset Management"],
+        "children": []
+    },
+    {
+        "name": "Brand Asset Management",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Digital Asset Management"],
+        "children": []
+    },
+    {
+        "name": "Digital Rights Management",
+        "level": "sub-domain",
+        "aliases": ["DRM"],
+        "related_to": ["Content Distribution"],
+        "children": ["Access Control", "Copy Protection"]
+    },
+    {
+        "name": "Access Control",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Digital Rights Management"],
+        "children": []
+    },
+    {
+        "name": "Copy Protection",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Digital Rights Management"],
+        "children": []
+    },
+    {
+        "name": "Mobile App Development",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Software Development"],
+        "children": ["iOS Development", "Android Development"]
+    },
+    {
+        "name": "iOS Development",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Mobile App Development"],
+        "children": []
+    },
+    {
+        "name": "Android Development",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Mobile App Development"],
+        "children": []
+    },
+    {
+        "name": "Game Development",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Software Development"],
+        "children": ["Game Design", "Game Programming"]
+    },
+    {
+        "name": "Game Design",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Game Development"],
+        "children": []
+    },
+    {
+        "name": "Game Programming",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Game Development"],
+        "children": []
+    },
+    {
+        "name": "Chatbot Development",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Artificial Intelligence"],
+        "children": ["Rule-based Chatbots", "AI-driven Chatbots"]
+    },
+    {
+        "name": "Rule-based Chatbots",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Chatbot Development"],
+        "children": []
+    },
+    {
+        "name": "AI-driven Chatbots",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Chatbot Development"],
+        "children": []
+    },
+    {
+        "name": "Wearable Health Technology",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Healthcare Technology"],
+        "children": ["Fitness Trackers", "Smartwatches"]
+    },
+    {
+        "name": "Fitness Trackers",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Wearable Health Technology"],
+        "children": []
+    },
+    {
+        "name": "Smartwatches",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Wearable Health Technology"],
+        "children": []
+    },
+    {
+        "name": "Data Governance",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Data Management"],
+        "children": ["Data Quality Management", "Data Stewardship"]
+    },
+    {
+        "name": "Data Quality Management",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Data Governance"],
+        "children": []
+    },
+    {
+        "name": "Data Stewardship",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Data Governance"],
+        "children": []
+    },
+    {
+        "name": "Blockchain Technology",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Distributed Ledger Technology"],
+        "children": ["Smart Contracts", "Cryptocurrencies"]
+    },
+    {
+        "name": "Smart Contracts",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Blockchain Technology"],
+        "children": []
+    },
+    {
+        "name": "Cryptocurrencies",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Blockchain Technology"],
+        "children": []
+    },
+    {
+        "name": "Virtual Reality Development",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Gaming", "Simulation"],
+        "children": ["VR Games", "Training Simulations"]
+    },
+    {
+        "name": "VR Games",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Virtual Reality Development"],
+        "children": []
+    },
+    {
+        "name": "Training Simulations",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Virtual Reality Development"],
+        "children": []
+    },
+    {
+        "name": "Data Architecture",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Data Management"],
+        "children": ["Data Modeling", "Data Warehousing"]
+    },
+    {
+        "name": "Data Modeling",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Data Architecture"],
+        "children": []
+    },
+    {
+        "name": "Data Warehousing",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Data Architecture"],
+        "children": []
+    },
+    {
+        "name": "Information Security",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Cybersecurity"],
+        "children": ["Network Security", "Application Security"]
+    },
+    {
+        "name": "Network Security",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Information Security"],
+        "children": []
+    },
+    {
+        "name": "Application Security",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Information Security"],
+        "children": []
+    },
+    {
+        "name": "Digital Marketing Technology",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Marketing"],
+        "children": ["Marketing Automation", "Customer Relationship Management"]
+    },
+    {
+        "name": "Marketing Automation",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Digital Marketing Technology"],
+        "children": []
+    },
+    {
+        "name": "Customer Relationship Management",
+        "level": "category",
+        "aliases": ["CRM"],
+        "related_to": ["Digital Marketing Technology"],
+        "children": []
+    },
+    {
+        "name": "Data Center Management",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["IT Infrastructure"],
+        "children": ["Capacity Planning", "Cooling Management"]
+    },
+    {
+        "name": "Capacity Planning",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Data Center Management"],
+        "children": []
+    },
+    {
+        "name": "Cooling Management",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Data Center Management"],
+        "children": []
+    },
+    {
+        "name": "Blockchain Development",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Blockchain Technology"],
+        "children": ["Decentralized Applications", "Tokenization"]
+    },
+    {
+        "name": "Decentralized Applications",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Blockchain Development"],
+        "children": []
+    },
+    {
+        "name": "Tokenization",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Blockchain Development"],
+        "children": []
+    },
+    {
+        "name": "Telecommunications Engineering",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Electrical Engineering"],
+        "children": ["Network Design", "Signal Processing"]
+    },
+    {
+        "name": "Network Design",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Telecommunications Engineering"],
+        "children": []
+    },
+    {
+        "name": "Signal Processing",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Telecommunications Engineering"],
+        "children": []
+    },
+    {
+        "name": "Smart Grid Technology",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Energy Management"],
+        "children": ["Demand Response", "Distributed Energy Resources"]
+    },
+    {
+        "name": "Demand Response",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Smart Grid Technology"],
+        "children": []
+    },
+    {
+        "name": "Distributed Energy Resources",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Smart Grid Technology"],
+        "children": []
+    },
+    {
+        "name": "Artificial Intelligence Ethics",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Artificial Intelligence"],
+        "children": ["Bias Mitigation", "Transparency"]
+    },
+    {
+        "name": "Bias Mitigation",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Artificial Intelligence Ethics"],
+        "children": []
+    },
+    {
+        "name": "Transparency",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Artificial Intelligence Ethics"],
+        "children": []
+    },
+    {
+        "name": "Network Virtualization",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Network Engineering"],
+        "children": ["Software-Defined Networking", "Network Functions Virtualization"]
+    },
+    {
+        "name": "Software-Defined Networking",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Network Virtualization"],
+        "children": []
+    },
+    {
+        "name": "Network Functions Virtualization",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Network Virtualization"],
+        "children": []
+    },
+    {
+        "name": "Digital Forensics",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Cybersecurity"],
+        "children": ["Data Recovery", "Incident Response"]
+    },
+    {
+        "name": "Data Recovery",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Digital Forensics"],
+        "children": []
+    },
+    {
+        "name": "Incident Response",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Digital Forensics"],
+        "children": []
+    },
+    {
+        "name": "Cloud Native Development",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Software Development"],
+        "children": ["Microservices Architecture", "Containerization"]
+    },
+    {
+        "name": "Microservices Architecture",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Cloud Native Development"],
+        "children": []
+    },
+    {
+        "name": "Containerization",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Cloud Native Development"],
+        "children": []
+    },
+    {
+        "name": "Agricultural Technology",
+        "level": "sub-domain",
+        "aliases": ["AgTech"],
+        "related_to": ["Sustainability"],
+        "children": ["Precision Farming", "Agricultural Robotics"]
+    },
+    {
+        "name": "Precision Farming",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Agricultural Technology"],
+        "children": []
+    },
+    {
+        "name": "Agricultural Robotics",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Agricultural Technology"],
+        "children": []
+    },
+    {
+        "name": "3D Game Development",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Game Development"],
+        "children": ["3D Modeling", "Game Physics"]
+    },
+    {
+        "name": "3D Modeling",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["3D Game Development"],
+        "children": []
+    },
+    {
+        "name": "Game Physics",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["3D Game Development"],
+        "children": []
+    },
+    {
+        "name": "Internet of Behavior",
+        "level": "sub-domain",
+        "aliases": ["IoB"],
+        "related_to": ["IoT"],
+        "children": ["Behavioral Analytics", "Personalization"]
+    },
+    {
+        "name": "Behavioral Analytics",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Internet of Behavior"],
+        "children": []
+    },
+    {
+        "name": "Personalization",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Internet of Behavior"],
+        "children": []
+    },
+    {
+        "name": "Health Informatics",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Healthcare Technology"],
+        "children": ["Electronic Health Records", "Health Information Exchange"]
+    },
+    {
+        "name": "Electronic Health Records",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Health Informatics"],
+        "children": []
+    },
+    {
+        "name": "Health Information Exchange",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Health Informatics"],
+        "children": []
+    },
+    {
+        "name": "Quantum Communication",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Quantum Computing"],
+        "children": ["Quantum Key Distribution", "Quantum Networking"]
+    },
+    {
+        "name": "Quantum Key Distribution",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Quantum Communication"],
+        "children": []
+    },
+    {
+        "name": "Quantum Networking",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Quantum Communication"],
+        "children": []
+    },
+    {
+        "name": "Spatial Computing",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Computer Vision"],
+        "children": ["Augmented Reality", "Virtual Reality"]
+    },
+    {
+        "name": "Augmented Reality",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Spatial Computing"],
+        "children": []
+    },
+    {
+        "name": "Virtual Reality",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Spatial Computing"],
+        "children": []
+    },
+    {
+        "name": "Open Source Software",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Software Development"],
+        "children": ["Open Source Licensing", "Community Collaboration"]
+    },
+    {
+        "name": "Open Source Licensing",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Open Source Software"],
+        "children": []
+    },
+    {
+        "name": "Community Collaboration",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Open Source Software"],
+        "children": []
+    },
+    {
+        "name": "Cyber-Physical Systems",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Systems Engineering"],
+        "children": ["Smart Manufacturing", "IoT Integration"]
+    },
+    {
+        "name": "Smart Manufacturing",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Cyber-Physical Systems"],
+        "children": []
+    },
+    {
+        "name": "IoT Integration",
+        "level": "category",
+        "aliases": [],
+        "related_to": ["Cyber-Physical Systems"],
+        "children": []
+    },
+    {
+        "name": "Behavioral Finance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Finance", "Psychology"],
+        "children": ["Investor Psychology", "Market Anomalies"]
+    },
+    {
+        "name": "Investor Psychology",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Behavioral Finance"],
+        "children": ["Overconfidence", "Herd Behavior"]
+    },
+    {
+        "name": "Market Anomalies",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Behavioral Finance"],
+        "children": ["Momentum Effect", "Value Effect"]
+    },
+    {
+        "name": "Ethical Finance",
+        "level": "primary",
+        "aliases": ["Socially Responsible Finance"],
+        "related_to": ["Finance", "Ethics"],
+        "children": ["Impact Investing", "Sustainable Finance"]
+    },
+    {
+        "name": "Impact Investing",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Ethical Finance"],
+        "children": ["Environmental Impact", "Social Impact"]
+    },
+    {
+        "name": "Sustainable Finance",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Ethical Finance"],
+        "children": ["Green Bonds", "Sustainability Reporting"]
+    },
+    {
+        "name": "Financial Regulation",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Finance", "Law"],
+        "children": ["Compliance", "Regulatory Frameworks"]
+    },
+    {
+        "name": "Compliance",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Financial Regulation"],
+        "children": ["Anti-Money Laundering (AML)", "Know Your Customer (KYC)"]
+    },
+    {
+        "name": "Regulatory Frameworks",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Financial Regulation"],
+        "children": ["Basel Accords", "Dodd-Frank Act"]
+    },
+    {
+        "name": "Quantitative Finance",
+        "level": "primary",
+        "aliases": ["Quant Finance"],
+        "related_to": ["Finance", "Mathematics"],
+        "children": ["Algorithmic Trading", "Risk Quantification"]
+    },
+    {
+        "name": "Algorithmic Trading",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Quantitative Finance"],
+        "children": ["High-Frequency Trading", "Market Making"]
+    },
+    {
+        "name": "Risk Quantification",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Quantitative Finance"],
+        "children": ["Value at Risk (VaR)", "Stress Testing"]
+    },
+    {
+        "name": "Personal Wealth Management",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Asset Management", "Personal Finance"],
+        "children": ["Retirement Accounts", "Investment Strategies"]
+    },
+    {
+        "name": "Retirement Accounts",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Personal Wealth Management"],
+        "children": ["403(b)", "Roth 401(k)"]
+    },
+    {
+        "name": "Investment Strategies",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Personal Wealth Management"],
+        "children": ["Growth Investing", "Value Investing"]
+    },
+    {
+        "name": "Private Banking",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Wealth Management"],
+        "children": ["Customized Financial Solutions", "Client Relationship Management"]
+    },
+    {
+        "name": "Customized Financial Solutions",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Private Banking"],
+        "children": ["Tailored Investment Portfolios", "Tax Optimization"]
+    },
+    {
+        "name": "Client Relationship Management",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Private Banking"],
+        "children": ["Client Advisory Services", "Financial Planning"]
+    },
+    {
+        "name": "Microfinance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Finance", "Social Impact"],
+        "children": ["Microloans", "Microinsurance"]
+    },
+    {
+        "name": "Microloans",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Microfinance"],
+        "children": ["Peer-to-Peer Lending", "Community Lending"]
+    },
+    {
+        "name": "Microinsurance",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Microfinance"],
+        "children": ["Affordable Insurance", "Risk Mitigation"]
+    },
+    {
+        "name": "Crowdfunding",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Finance", "Investment"],
+        "children": ["Equity Crowdfunding", "Reward-Based Crowdfunding"]
+    },
+    {
+        "name": "Equity Crowdfunding",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Crowdfunding"],
+        "children": ["Startup Funding", "Venture Capital"]
+    },
+    {
+        "name": "Reward-Based Crowdfunding",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Crowdfunding"],
+        "children": ["Product Launch", "Community Projects"]
+    },
+    {
+        "name": "Treasury Management",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Corporate Finance"],
+        "children": ["Cash Management", "Liquidity Management"]
+    },
+    {
+        "name": "Cash Management",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Treasury Management"],
+        "children": ["Cash Flow Forecasting", "Bank Reconciliation"]
+    },
+    {
+        "name": "Liquidity Management",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Treasury Management"],
+        "children": ["Liquidity Ratios", "Short-Term Investments"]
+    },
+    {
+        "name": "Financial Risk Assessment",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Risk Management"],
+        "children": ["Risk Identification", "Risk Evaluation"]
+    },
+    {
+        "name": "Risk Identification",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Financial Risk Assessment"],
+        "children": ["Qualitative Risk Assessment", "Quantitative Risk Assessment"]
+    },
+    {
+        "name": "Risk Evaluation",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Financial Risk Assessment"],
+        "children": ["Risk Matrix", "Risk Scoring"]
+    },
+    {
+        "name": "Capital Structure",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Corporate Finance"],
+        "children": ["Debt Financing", "Equity Financing"]
+    },
+    {
+        "name": "Debt Financing",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Capital Structure"],
+        "children": ["Loans", "Bonds"]
+    },
+    {
+        "name": "Equity Financing",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Capital Structure"],
+        "children": ["Initial Public Offerings (IPOs)", "Private Placements"]
+    },
+    {
+        "name": "Economic Analysis",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Finance", "Economics"],
+        "children": ["Market Trends", "Economic Indicators"]
+    },
+    {
+        "name": "Market Trends",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Economic Analysis"],
+        "children": ["Bull Markets", "Bear Markets"]
+    },
+    {
+        "name": "Economic Indicators",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Economic Analysis"],
+        "children": ["GDP", "Unemployment Rate"]
+    },
+    {
+        "name": "Corporate Governance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Finance", "Management"],
+        "children": ["Board Composition", "Shareholder Rights"]
+    },
+    {
+        "name": "Board Composition",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Corporate Governance"],
+        "children": ["Independent Directors", "Diversity"]
+    },
+    {
+        "name": "Shareholder Rights",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Corporate Governance"],
+        "children": ["Voting Rights", "Dividend Policies"]
+    },
+    {
+        "name": "Financial Statement Analysis",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Corporate Finance"],
+        "children": ["Ratio Analysis", "Trend Analysis"]
+    },
+    {
+        "name": "Ratio Analysis",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Financial Statement Analysis"],
+        "children": ["Liquidity Ratios", "Profitability Ratios"]
+    },
+    {
+        "name": "Trend Analysis",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Financial Statement Analysis"],
+        "children": ["Horizontal Analysis", "Vertical Analysis"]
+    },
+    {
+        "name": "Investment Banking",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Finance", "Banking"],
+        "children": ["Mergers and Acquisitions", "Underwriting"]
+    },
+    {
+        "name": "Mergers and Acquisitions",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Investment Banking"],
+        "children": ["Due Diligence", "Valuation"]
+    },
+    {
+        "name": "Underwriting",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Investment Banking"],
+        "children": ["Equity Underwriting", "Debt Underwriting"]
+    },
+    {
+        "name": "Asset Allocation",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Investment Management"],
+        "children": ["Strategic Asset Allocation", "Tactical Asset Allocation"]
+    },
+    {
+        "name": "Strategic Asset Allocation",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Asset Allocation"],
+        "children": ["Long-Term Planning", "Risk Tolerance"]
+    },
+    {
+        "name": "Tactical Asset Allocation",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Asset Allocation"],
+        "children": ["Market Timing", "Short-Term Adjustments"]
+    },
+    {
+        "name": "Financial Technology",
+        "level": "primary",
+        "aliases": ["Fintech"],
+        "related_to": ["Finance", "Technology"],
+        "children": ["Blockchain", "Digital Payments"]
+    },
+    {
+        "name": "Blockchain",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Financial Technology"],
+        "children": ["Cryptocurrency", "Smart Contracts"]
+    },
+    {
+        "name": "Digital Payments",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Financial Technology"],
+        "children": ["Mobile Payments", "E-Wallets"]
+    },
+    {
+        "name": "Insurance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Finance", "Risk Management"],
+        "children": ["Life Insurance", "Property Insurance"]
+    },
+    {
+        "name": "Life Insurance",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Insurance"],
+        "children": ["Term Life", "Whole Life"]
+    },
+    {
+        "name": "Property Insurance",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Insurance"],
+        "children": ["Homeowners Insurance", "Renters Insurance"]
+    },
+    {
+        "name": "Global Finance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["International Finance"],
+        "children": ["Foreign Exchange", "International Investments"]
+    },
+    {
+        "name": "Foreign Exchange",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Global Finance"],
+        "children": ["Currency Pairs", "Forex Trading"]
+    },
+    {
+        "name": "International Investments",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Global Finance"],
+        "children": ["Emerging Markets", "Foreign Direct Investment (FDI)"]
+    },
+    {
+        "name": "Real Estate Finance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Finance", "Real Estate"],
+        "children": ["Mortgage Financing", "Property Valuation"]
+    },
+    {
+        "name": "Mortgage Financing",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Real Estate Finance"],
+        "children": ["Fixed-Rate Mortgages", "Adjustable-Rate Mortgages"]
+    },
+    {
+        "name": "Property Valuation",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Real Estate Finance"],
+        "children": ["Comparative Market Analysis", "Income Approach"]
+    },
+    {
+        "name": "Corporate Finance Strategy",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Corporate Finance"],
+        "children": ["Financial Planning", "Investment Decisions"]
+    },
+    {
+        "name": "Financial Planning",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Corporate Finance Strategy"],
+        "children": ["Budgeting", "Forecasting"]
+    },
+    {
+        "name": "Investment Decisions",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Corporate Finance Strategy"],
+        "children": ["Capital Budgeting", "Project Evaluation"]
+    },
+    {
+        "name": "Treasury Operations",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Corporate Treasury"],
+        "children": ["Cash Flow Management", "Risk Management"]
+    },
+    {
+        "name": "Cash Flow Management",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Treasury Operations"],
+        "children": ["Cash Flow Forecasting", "Cash Management"]
+    },
+    {
+        "name": "Risk Management",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Treasury Operations"],
+        "children": ["Credit Risk", "Market Risk"]
+    },
+    {
+        "name": "Asset Management",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Investment Management"],
+        "children": ["Portfolio Management", "Investment Advisory"]
+    },
+    {
+        "name": "Portfolio Management",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Asset Management"],
+        "children": ["Active Management", "Passive Management"]
+    },
+    {
+        "name": "Investment Advisory",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Asset Management"],
+        "children": ["Financial Advisory", "Wealth Management"]
+    },
+    {
+        "name": "Pension Fund Management",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Finance", "Investment Management"],
+        "children": ["Defined Benefit Plans", "Defined Contribution Plans"]
+    },
+    {
+        "name": "Defined Benefit Plans",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Pension Fund Management"],
+        "children": ["Pension Calculations", "Funded Status"]
+    },
+    {
+        "name": "Defined Contribution Plans",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Pension Fund Management"],
+        "children": ["401(k)", "IRA"]
+    },
+    {
+        "name": "Social Finance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Finance", "Social Impact"],
+        "children": ["Community Investment", "Social Enterprises"]
+    },
+    {
+        "name": "Community Investment",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Social Finance"],
+        "children": ["Community Development Financial Institutions", "Local Investing"]
+    },
+    {
+        "name": "Social Enterprises",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Social Finance"],
+        "children": ["Nonprofits", "Benefit Corporations"]
+    },
+    {
+        "name": "Digital Democracy",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Political Science"],
+        "children": ["Online Activism", "Digital Voting"]
+    },
+    {
+        "name": "Online Activism",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Digital Democracy"],
+        "children": ["Social Media Campaigns", "Petitions"]
+    },
+    {
+        "name": "Digital Voting",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Digital Democracy"],
+        "children": ["E-Voting Systems", "Security Measures"]
+    },
+    {
+        "name": "Crisis Communication",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Crisis Governance"],
+        "children": ["Media Relations", "Public Messaging"]
+    },
+    {
+        "name": "Media Relations",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Crisis Communication"],
+        "children": ["Press Releases", "Media Training"]
+    },
+    {
+        "name": "Public Messaging",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Crisis Communication"],
+        "children": ["Crisis Statements", "Public Announcements"]
+    },
+    {
+        "name": "Regulatory Impact Assessment",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Regulatory Governance"],
+        "children": ["Cost-Benefit Analysis", "Public Consultation"]
+    },
+    {
+        "name": "Cost-Benefit Analysis",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Regulatory Impact Assessment"],
+        "children": ["Economic Impact", "Social Impact"]
+    },
+    {
+        "name": "Public Consultation",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Regulatory Impact Assessment"],
+        "children": ["Stakeholder Engagement", "Feedback Mechanisms"]
+    },
+    {
+        "name": "Environmental Policy",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Sustainable Governance"],
+        "children": ["Conservation Policies", "Pollution Control"]
+    },
+    {
+        "name": "Conservation Policies",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Environmental Policy"],
+        "children": ["Biodiversity Preservation", "Protected Areas"]
+    },
+    {
+        "name": "Pollution Control",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Environmental Policy"],
+        "children": ["Air Quality Standards", "Waste Management"]
+    },
+    {
+        "name": "Global Governance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["International Governance"],
+        "children": ["Global Cooperation", "International Treaties"]
+    },
+    {
+        "name": "Global Cooperation",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Global Governance"],
+        "children": ["Bilateral Agreements", "Multilateral Organizations"]
+    },
+    {
+        "name": "International Treaties",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Global Governance"],
+        "children": ["Trade Agreements", "Environmental Treaties"]
+    },
+    {
+        "name": "Digital Privacy",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Digital Governance"],
+        "children": ["Data Protection", "User Consent"]
+    },
+    {
+        "name": "Data Protection",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Digital Privacy"],
+        "children": ["GDPR Compliance", "Data Breach Protocols"]
+    },
+    {
+        "name": "User Consent",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Digital Privacy"],
+        "children": ["Opt-In Policies", "Informed Consent"]
+    },
+    {
+        "name": "Transitional Justice",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Peace Governance"],
+        "children": ["Truth Commissions", "Restorative Justice"]
+    },
+    {
+        "name": "Truth Commissions",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Transitional Justice"],
+        "children": ["Investigative Bodies", "Public Hearings"]
+    },
+    {
+        "name": "Restorative Justice",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Transitional Justice"],
+        "children": ["Victim-Offender Mediation", "Community Restitution"]
+    },
+    {
+        "name": "Indigenous Governance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Cultural Governance"],
+        "children": ["Traditional Leadership", "Self-Governance Models"]
+    },
+    {
+        "name": "Traditional Leadership",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Indigenous Governance"],
+        "children": ["Elders Councils", "Community Elders"]
+    },
+    {
+        "name": "Self-Governance Models",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Indigenous Governance"],
+        "children": ["Autonomous Regions", "Customary Law"]
+    },
+    {
+        "name": "Health Equity",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Health Governance"],
+        "children": ["Social Determinants", "Access to Care"]
+    },
+    {
+        "name": "Social Determinants",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Health Equity"],
+        "children": ["Income Inequality", "Education Access"]
+    },
+    {
+        "name": "Access to Care",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Health Equity"],
+        "children": ["Healthcare Accessibility", "Insurance Coverage"]
+    },
+    {
+        "name": "Civic Technology",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["E-Government"],
+        "children": ["Open Data", "Civic Engagement Tools"]
+    },
+    {
+        "name": "Open Data",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Civic Technology"],
+        "children": ["Data Portals", "Transparency Initiatives"]
+    },
+    {
+        "name": "Civic Engagement Tools",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Civic Technology"],
+        "children": ["Feedback Platforms", "Engagement Apps"]
+    },
+    {
+        "name": "Policy Innovation",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Public Policy"],
+        "children": ["Experimental Governance", "Policy Labs"]
+    },
+    {
+        "name": "Experimental Governance",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Policy Innovation"],
+        "children": ["Pilot Projects", "Field Experiments"]
+    },
+    {
+        "name": "Policy Labs",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Policy Innovation"],
+        "children": ["Collaborative Platforms", "Policy Incubators"]
+    },
+    {
+        "name": "Smart Governance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Digital Governance"],
+        "children": ["Smart Cities", "Digital Infrastructure"]
+    },
+    {
+        "name": "Smart Cities",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Smart Governance"],
+        "children": ["IoT Integration", "Urban Analytics"]
+    },
+    {
+        "name": "Digital Infrastructure",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Smart Governance"],
+        "children": ["Broadband Access", "Digital Platforms"]
+    },
+    {
+        "name": "Civic Responsibility",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Citizen Engagement"],
+        "children": ["Community Involvement", "Social Accountability"]
+    },
+    {
+        "name": "Community Involvement",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Civic Responsibility"],
+        "children": ["Volunteerism", "Local Activism"]
+    },
+    {
+        "name": "Social Accountability",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Civic Responsibility"],
+        "children": ["Citizen Oversight", "Public Accountability"]
+    },
+    {
+        "name": "Urban Governance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Local Governance"],
+        "children": ["Urban Policy", "City Planning"]
+    },
+    {
+        "name": "Urban Policy",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Urban Governance"],
+        "children": ["Housing Policy", "Transportation Planning"]
+    },
+    {
+        "name": "City Planning",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Urban Governance"],
+        "children": ["Zoning Regulations", "Urban Design"]
+    },
+    {
+        "name": "E-Government",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Digital Governance"],
+        "children": ["Online Services", "Digital Citizenship"]
+    },
+    {
+        "name": "Online Services",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["E-Government"],
+        "children": ["E-Registration", "E-Procurement"]
+    },
+    {
+        "name": "Digital Citizenship",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["E-Government"],
+        "children": ["Digital Literacy", "E-Participation"]
+    },
+    {
+        "name": "Peace Governance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Conflict Resolution"],
+        "children": ["Peace Agreements", "Negotiation Processes"]
+    },
+    {
+        "name": "Peace Agreements",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Peace Governance"],
+        "children": ["Bilateral Agreements", "Multilateral Treaties"]
+    },
+    {
+        "name": "Negotiation Processes",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Peace Governance"],
+        "children": ["Mediation", "Facilitation"]
+    },
+    {
+        "name": "Cybersecurity Governance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Digital Governance"],
+        "children": ["Risk Management", "Incident Response"]
+    },
+    {
+        "name": "Risk Management",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Cybersecurity Governance"],
+        "children": ["Threat Assessment", "Vulnerability Analysis"]
+    },
+    {
+        "name": "Incident Response",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Cybersecurity Governance"],
+        "children": ["Response Plans", "Crisis Management"]
+    },
+    {
+        "name": "Social Innovation",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Public Policy"],
+        "children": ["Community Solutions", "Collaborative Governance"]
+    },
+    {
+        "name": "Community Solutions",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Social Innovation"],
+        "children": ["Local Initiatives", "Social Enterprises"]
+    },
+    {
+        "name": "Collaborative Governance",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Social Innovation"],
+        "children": ["Public-Private Partnerships", "Community Engagement"]
+    },
+    {
+        "name": "Climate Governance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Environmental Policy"],
+        "children": ["Climate Mitigation", "Climate Adaptation"]
+    },
+    {
+        "name": "Climate Mitigation",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Climate Governance"],
+        "children": ["Carbon Emission Reductions", "Renewable Energy Policy"]
+    },
+    {
+        "name": "Climate Adaptation",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Climate Governance"],
+        "children": ["Resilience Planning", "Disaster Preparedness"]
+    },
+    {
+        "name": "Ethical Governance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Corporate Governance"],
+        "children": ["Ethics Committees", "Corporate Responsibility"]
+    },
+    {
+        "name": "Ethics Committees",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Ethical Governance"],
+        "children": ["Review Processes", "Policy Development"]
+    },
+    {
+        "name": "Corporate Responsibility",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Ethical Governance"],
+        "children": ["Sustainability Reporting", "Community Engagement"]
+    },
+    {
+        "name": "International Human Rights",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Human Rights Governance"],
+        "children": ["Rights Protection", "Monitoring Mechanisms"]
+    },
+    {
+        "name": "Rights Protection",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["International Human Rights"],
+        "children": ["Legal Frameworks", "Advocacy"]
+    },
+    {
+        "name": "Monitoring Mechanisms",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["International Human Rights"],
+        "children": ["Reporting Systems", "Independent Observers"]
+    },
+    {
+        "name": "Financial Governance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Corporate Governance"],
+        "children": ["Financial Regulation", "Budgetary Control"]
+    },
+    {
+        "name": "Financial Regulation",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Financial Governance"],
+        "children": ["Compliance Frameworks", "Audit Processes"]
+    },
+    {
+        "name": "Budgetary Control",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Financial Governance"],
+        "children": ["Financial Planning", "Resource Allocation"]
+    },
+    {
+        "name": "Behavioral Governance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Organizational Governance"],
+        "children": ["Behavioral Economics", "Decision Making"]
+    },
+    {
+        "name": "Behavioral Economics",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Behavioral Governance"],
+        "children": ["Nudge Theory", "Incentive Structures"]
+    },
+    {
+        "name": "Decision Making",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Behavioral Governance"],
+        "children": ["Group Dynamics", "Consensus Building"]
+    },
+    {
+        "name": "Cultural Governance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Sociocultural Governance"],
+        "children": ["Cultural Heritage", "Arts Policy"]
+    },
+    {
+        "name": "Cultural Heritage",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Cultural Governance"],
+        "children": ["Preservation Initiatives", "Cultural Education"]
+    },
+    {
+        "name": "Arts Policy",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Cultural Governance"],
+        "children": ["Funding Programs", "Arts Accessibility"]
+    },
+    {
+        "name": "Infrastructure Governance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Urban Governance"],
+        "children": ["Transportation Governance", "Public Works"]
+    },
+    {
+        "name": "Transportation Governance",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Infrastructure Governance"],
+        "children": ["Traffic Management", "Public Transit Systems"]
+    },
+    {
+        "name": "Public Works",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Infrastructure Governance"],
+        "children": ["Construction Oversight", "Public Infrastructure Projects"]
+    },
+    {
+        "name": "Disaster Governance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Crisis Management"],
+        "children": ["Preparedness Planning", "Disaster Response"]
+    },
+    {
+        "name": "Preparedness Planning",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Disaster Governance"],
+        "children": ["Risk Assessment", "Training Exercises"]
+    },
+    {
+        "name": "Disaster Response",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Disaster Governance"],
+        "children": ["Emergency Services Coordination", "Resource Mobilization"]
+    },
+    {
+        "name": "Education Governance",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Educational Policy"],
+        "children": ["Curriculum Development", "Teacher Training"]
+    },
+    {
+        "name": "Curriculum Development",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Education Governance"],
+        "children": ["Standards Development", "Program Evaluation"]
+    },
+    {
+        "name": "Teacher Training",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Education Governance"],
+        "children": ["Professional Development", "Certification Programs"]
+    },
+    {
+        "name": "Public Sector Innovation",
+        "level": "primary",
+        "aliases": [],
+        "related_to": ["Governance Innovation"],
+        "children": ["Digital Transformation", "Service Design"]
+    },
+    {
+        "name": "Digital Transformation",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Public Sector Innovation"],
+        "children": ["Technology Adoption", "Process Reengineering"]
+    },
+    {
+        "name": "Service Design",
+        "level": "sub-domain",
+        "aliases": [],
+        "related_to": ["Public Sector Innovation"],
+        "children": ["User-Centered Design", "Service Delivery Models"]
+    }
+
+]
+}

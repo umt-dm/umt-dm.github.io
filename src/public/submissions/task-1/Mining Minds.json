@@ -1,0 +1,4081 @@
+{
+    "team_name": "Mining Minds",
+    "members": [
+      {
+        "id": "F2021376083",
+        "name": "Saim Khalid"
+      },
+      {
+        "id": "F2021376104",
+        "name": "Maheen Sadaf"
+      },
+      {
+        "id": "F2021376087",
+        "name": "Iqra Maqbool"
+      }
+    ],
+    "domains": [
+  {
+    "name": "Agriculture, Agriculture Operations, and Related Sciences",
+    "level": "primary",
+    "aliases": ["Agricultural_Sciences and Operations"],
+    "related_to": [ "Science" ],
+    "children": [
+      "Agricultural and Domestic Animal Services",
+      "Agricultural and Food Products Processing",
+      "Agricultural Business and Management",
+      "Agricultural Mechanization",
+      "Agricultural Production Operations",
+      "Agricultural Public Services",
+      "Animal Sciences",
+      "Applied Horticulture and Horticultural Business Services",
+      "Food Science and Technology",
+      "International Agriculture",
+      "Plant Sciences",
+      "Soil Sciences"
+    ]
+  },
+  {
+    "name": "Agricultural and Domestic Animal Services",
+    "level": "sub-domain",
+    "aliases": ["Animal Care and Agricultural Services"],
+    "related_to": [
+      "Agriculture"
+    ],
+    "children": [
+      "Animal Training",
+      "Dog/Pet/Animal Grooming",
+      "Equestrian/Equine Studies",
+      "Taxidermy/Taxidermist"
+    ]
+  },
+  {
+    "name": "Animal Training",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Dog/Pet/Animal Grooming",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Equestrian/Equine Studies",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Taxidermy/Taxidermist ",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Agricultural and Food Products Processing",
+    "level": "sub-domain",
+    "aliases": ["Agro-Processing"],
+    "related_to": [
+      "Agriculture"
+    ],
+    "children": []
+  },
+  {
+    "name": "Agricultural Business and Management",
+    "level": "sub-domain",
+    "aliases": ["Agribusiness Management"],
+    "related_to": [
+      "Agriculture"
+    ],
+    "children": [
+      "Agribusiness/Agricultural Business Operations",
+      "Agricultural Business and Management",
+      "Agricultural Business Technology",
+      "Agricultural Economics",
+      "Agricultural/Farm Supplies Retailing and Wholesaling",
+      "Farm/Farm and Ranch Management"
+    ]
+  },
+  {
+    "name": "Agribusiness/Agricultural Business Operations",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Agricultural Business and Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Agricultural Business Technology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Agricultural Economics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Agricultural/Farm Supplies Retailing and Wholesaling",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Farm/Farm and Ranch Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Agricultural Mechanization",
+    "level": "sub-domain",
+    "aliases": ["Agri-Mechanization", "Farm Mechanization"],
+    "related_to": [
+      "Agriculture"
+    ],
+    "children": [
+      "Agricultural Mechanics and Equipment/Machine Technology",
+      "Agricultural Mechanization",
+      "Agricultural Power Machinery Operation"
+    ]
+  },
+  {
+    "name": "Agricultural Mechanics and Equipment/Machine Technology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Agricultural Mechanization",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Agricultural Power Machinery Operation ",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Agricultural Production Operations",
+    "level": "sub-domain",
+    "aliases": ["Agri Production Operations", "Crop Production Operations"],
+    "related_to": [
+      "Agriculture"
+    ],
+    "children": [
+      "Agricultural Production Operations",
+      "Agroecology and Sustainable Agriculture",
+      "Animal/Livestock Husbandry and Production",
+      "Aquaculture",
+      "Crop Production",
+      "Dairy Husbandry and Production",
+      "Horse Husbandry/Equine Science and Management",
+      "Viticulture and Enology"
+    ]
+  },
+  {
+    "name": "Agricultural Production Operations",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Agroecology and Sustainable Agriculture",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Animal/Livestock Husbandry and Production",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Aquaculture",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Crop Production",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Dairy Husbandry and Production",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Horse Husbandry/Equine Science and Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Viticulture and Enology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Agricultural Public Services",
+    "level": "sub-domain",
+    "aliases": ["Agri Public Services", "Agricultural Extension Services"],
+    "related_to": [
+      "Agriculture"
+    ],
+    "children": [
+      "Agricultural and Extension Education Services",
+      "Agricultural Communication/Journalism"
+    ]
+  },
+  {
+    "name": "Agricultural and Extension Education Services",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Agricultural Communication/Journalism",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Animal Sciences",
+    "level": "sub-domain",
+    "aliases": ["Animal Science", "Zoology"],
+    "related_to": [
+      "Agriculture"
+    ],
+    "children": [
+      "Agricultural Animal Breeding",
+      "Animal Health",
+      "Animal Nutrition",
+      "Animal Sciences",
+      "Dairy Science",
+      "Livestock Management",
+      "Poultry Science"
+    ]
+  },
+  {
+    "name": "Agricultural Animal Breeding",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Animal Health",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Animal Nutrition",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Animal Sciences",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Dairy Science",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Livestock Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Poultry Science",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Applied Horticulture and Horticultural Business Services",
+    "level": "sub-domain",
+    "aliases": ["Applied Horticulture", "Horticultural Business Services"],
+    "related_to": [
+      "Agriculture"
+    ],
+    "children": [
+      "Applied Horticulture/Horticulture Operations",
+      "Floriculture/Floristry Operations and Management",
+      "Greenhouse Operations and Management",
+      "Landscaping and Groundskeeping",
+      "Ornamental Horticulture",
+      "Plant Nursery Operations and Management",
+      "Turf and Turfgrass Management"
+    ]
+  },
+  {
+    "name": "Applied Horticulture/Horticulture Operations",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Floriculture/Floristry Operations and Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Greenhouse Operations and Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Landscaping and Groundskeeping",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Ornamental Horticulture",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Plant Nursery Operations and Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Turf and Turfgrass Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Food Science and Technology",
+    "level": "sub-domain",
+    "aliases": ["Food Technology", "Food Science"],
+    "related_to": [
+      "Agriculture"
+    ],
+    "children": [
+      "Food Science",
+      "Food Technology and Processing"
+    ]
+  },
+  {
+    "name": "Food Science",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Food Technology and Processing",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "International Agriculture",
+    "level": "sub-domain",
+    "aliases": ["Global Agriculture", "International Agri"],
+    "related_to": [
+      "Agriculture"
+    ],
+    "children": [
+      "International Agriculture"
+    ]
+  },
+  {
+    "name": "Plant Sciences",
+    "level": "sub-domain",
+    "aliases": ["Plant Science", "Botany"],
+    "related_to": [
+      "Agriculture"
+    ],
+    "children": [
+      "Agricultural and Horticultural Plant Breeding",
+      "Agronomy and Crop Science",
+      "Horticultural Science",
+      "Plant Protection and Integrated Pest Management",
+      "Plant Sciences",
+      "Range Science and Management"
+    ]
+  },
+  {
+    "name": "Range Science and Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Agricultural and Horticultural Plant Breeding",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Agronomy and Crop Science",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Horticultural Science",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Plant Protection and Integrated Pest Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Plant Sciences",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Soil Sciences",
+    "level": "sub-domain",
+    "aliases": ["Soil Science", "Soil Studies"],
+    "related_to": [
+      "Agriculture"
+    ],
+    "children": [
+      "Soil Chemistry and Physics",
+      "Soil Microbiology",
+      "Soil Science and Agronomy"
+    ]
+  },
+  {
+    "name": "Soil Chemistry and Physics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Soil Microbiology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Soil Science and Agronomy",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Architecture and Related Services",
+    "level": "primary",
+    "aliases": ["Architectural Services", "Architecture Services"],
+    "related_to": ["Urban Planning", "Construction Management", "Civil Engineering"],
+    "children": [
+      "Architectural History and Criticism",
+      "Architectural Sciences and Technology",
+      "Architecture",
+      "City/Urban Community and Regional Planning",
+      "Environmental Design",
+      "Interior Architecture",
+      "Landscape Architecture",
+      "Real Estate Development"
+    ]
+  },
+  {
+    "name": "Architectural History and Criticism",
+    "level": "sub-domain",
+    "aliases": ["Architectural Critique", "History of Architecture"],
+    "related_to": [
+      "Architecture"
+    ],
+    "children": [
+      "Architectural History and Criticism"
+    ]
+  },
+  {
+    "name": "Architectural History and Criticism",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Architectural Sciences and Technology",
+    "level": "sub-domain",
+    "aliases": ["Architectural Technology", "Architectural Engineering"],
+    "related_to": [
+      "Architecture"
+    ],
+    "children": [
+      "Architectural and Building Sciences/Technology",
+      "Architectural Technology/Technician"
+    ]
+  },
+  {
+    "name": "Architectural and Building Sciences/Technology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Architectural Technology/Technician",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Architecture",
+    "level": "sub-domain",
+    "aliases": ["Architecture Design", "Architectural Studies"],
+    "related_to": [
+      "Architecture"
+    ],
+    "children": [
+      "Architecture"
+    ]
+  },
+  {
+    "name": "Architecture",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "City/Urban, Community and Regional Planning",
+    "level": "sub-domain",
+    "aliases": ["Urban Planning", "Community Planning", "Regional Planning"],
+    "related_to": [
+      "Architecture"
+    ],
+    "children": [
+      "City/Urban, Community and Regional Planning"
+    ]
+  },
+  {
+    "name": "City/Urban, Community and Regional Planning",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Environmental Design",
+    "level": "sub-domain",
+    "aliases": ["Eco-Design", "Sustainable Design"],
+    "related_to": [
+      "Architecture"
+    ],
+    "children": [
+      "Environmental Design/Architecture"
+    ]
+  },
+  {
+    "name": "Environmental Design/Architecture",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Interior Architecture",
+    "level": "sub-domain",
+    "aliases": ["Interior Design", "Interior Architecture Design"],
+    "related_to": [
+      "Architecture"
+    ],
+    "children": [
+      "Interior Architecture"
+    ]
+  },
+  {
+    "name": "Interior Architecture",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Landscape Architecture",
+    "level": "sub-domain",
+    "aliases": ["Landscape Design", "Land Planning"],
+    "related_to": [
+      "Architecture"
+    ],
+    "children": [
+      "Landscape Architecture"
+    ]
+  },
+  {
+    "name": "Landscape Architecture",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Real Estate Development",
+    "level": "sub-domain",
+    "aliases": ["Property Development", "Real Estate Management"],
+    "related_to": [
+      "Architecture"
+    ],
+    "children": [
+      "Real Estate Development"
+    ]
+  },
+  {
+    "name": "Real Estate Development",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Area, Ethnic, Cultural, Gender, and Group Studies",
+    "level": "primary",
+    "aliases": ["Cultural Studies", "Social Studies", "Identity Studies"],
+    "related_to": ["Sociology", "Anthropology", "Gender Studies", "Ethnic Studies"],
+    "children": [
+      "Area Studies",
+      "Ethnic Studies"
+    ]
+  },
+  {
+    "name": "Ethnic Studies",
+    "level": "sub-domain",
+    "aliases": ["Ethnic and Racial Studies", "Cultural Identity Studies"],
+    "related_to": ["Sociology", "Cultural Studies", "History", "Social Justice"],
+    "children": [
+      "African-American/Black Studies;American Indian/Native American Studies;Asian-American Studies",
+      "Deaf Studies",
+      "Disability Studies",
+      "Folklore Studies",
+      "Gay/Lesbian Studies",
+      "Hispanic-American, Puerto Rican and Mexican-American/Chicano Studies",
+      "Women's Studies"
+    ]
+  },
+  {
+    "name": "African-American/Black Studies",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "American Indian/Native American Studies",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Asian-American Studies",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Deaf Studies",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Disability Studies",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Folklore Studies",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Gay/Lesbian Studies",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Hispanic-American, Puerto Rican, and Mexican-American/Chicano Studies",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Women's Studies",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Aviation",
+    "level": "primary",
+    "aliases": ["Aeronautics", "Aviation Studies"],
+    "related_to": ["Aerospace Engineering", "Pilot Training", "Air Traffic Control"],
+    "children": [
+      "Aviation / Flight Training (UND Aerospace)"
+    ]
+  },
+  {
+    "name": "Aviation / Flight Training (UND Aerospace)",
+    "level": "sub-domain",
+    "aliases": ["Flight Training", "Aerospace Flight Training"],
+    "related_to": ["Aviation Safety", "Pilot Certification", "Aircraft Operations"],
+    "children": []
+  },
+  {
+    "name": "Biological and Biomedical Sciences",
+    "level": "primary",
+    "aliases": ["Life Sciences", "Biomedical Studies"],
+    "related_to": ["Biotechnology", "Medicine", "Public Health", "Genetics"],
+    "children": [
+      "Biochemistry, Biophysics and Molecular Biology",
+      "Biology",
+      "Biomathematics, Bioinformatics, and Computational Biology ",
+      "Biotechnology ",
+      "Botany/Plant Biology",
+      "Cell/Cellular Biology and Anatomical Sciences ",
+      "Ecology, Evolution, Systematics,and Population Biology ",
+      "Genetics ",
+      "Microbiological Sciences and Immunology ",
+      "Molecular Medicine ",
+      "Neurobiology and Neurosciences ",
+      "Pharmacology and Toxicology ",
+      "Physiology, Pathology and Related Sciences ",
+      "Zoology/Animal Biology"
+    ]
+  },
+  {
+    "name": "Biochemistry, Biophysics and Molecular Biology",
+    "level": "sub-domain",
+    "aliases": ["Biochemical Sciences", "Molecular Biosciences"],
+    "related_to": ["Biotechnology", "Cell Biology", "Genetics", "Pharmacology"],
+    "children": [
+      "Biochemistry",
+      "Biochemistry and Molecular Biology",
+      "Biophysics",
+      "Molecular Biochemistry",
+      "Molecular Biology",
+      "Molecular Biophysics",
+      "Photobiology",
+      "Radiation Biology/Radiobiology ",
+      "Structural Biology"
+    ]
+  },
+  {
+    "name": "Biochemistry",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Biochemistry and Molecular Biology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Biophysics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Molecular Biochemistry",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Molecular Biology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Molecular Biophysics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Photobiology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Radiation Biology/Radiobiology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Structural Biology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Biology",
+    "level": "sub-domain",
+    "aliases": ["Life Science", "Biological Science"],
+    "related_to": ["Ecology", "Zoology", "Botany", "Microbiology"],
+    "children": [
+      "Biology/Biological Sciences",
+      "Biomedical Sciences"
+    ]
+  },
+  {
+    "name": "Biology/Biological Sciences",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Biomedical Sciences",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Biomathematics, Bioinformatics, and Computational Biology",
+    "level": "sub-domain",
+    "aliases": ["Computational Life Sciences", "Bioinformatics Science"],
+    "related_to": ["Mathematical Biology", "Data Science", "Genomics", "Systems Biology"],
+    "children": [
+      "Bioinformatics",
+      "Biometry/Biometrics",
+      "Biostatistics",
+      "Computational Biology"
+    ]
+  },
+  {
+    "name": "Bioinformatics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Biometry/Biometrics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Biostatistics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Computational Biology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Biotechnology",
+    "level": "sub-domain",
+    "aliases": ["Biotech", "Biological Technology"],
+    "related_to": ["Genetic Engineering", "Pharmaceuticals", "Agricultural Biotechnology", "Bioinformatics"],
+    "children": [
+      "Biotechnology"
+    ]
+  },
+  {
+    "name": "Biotechnology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Botany/Plant Biology",
+    "level": "sub-domain",
+    "aliases": ["Plant Sciences", "Plant Biology"],
+    "related_to": ["Ecology", "Horticulture", "Agronomy", "Environmental Science"],
+    "children": [
+      "Botany/Plant Biology",
+      "Plant Molecular Biology",
+      "Plant Pathology/Phytopathology",
+      "Plant Physiology"
+    ]
+  },
+  {
+    "name": "Botany/Plant Biology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Plant Molecular Biology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Plant Pathology/Phytopathology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Plant Physiology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Cell/Cellular Biology and Anatomical Sciences",
+    "level": "sub-domain",
+    "aliases": ["Cell Biology", "Anatomy and Cell Sciences"],
+    "related_to": ["Molecular Biology", "Physiology", "Histology", "Developmental Biology"],
+    "children": [
+      "Anatomy",
+      "Cell Biology and Anatomy",
+      "Cell/Cellular and Molecular Biology",
+      "Cell/Cellular Biology and Histology",
+      "Developmental Biology and Embryology"
+    ]
+  },
+  {
+    "name": "Anatomy",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Cell Biology and Anatomy",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Cell/Cellular and Molecular Biology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Cell/Cellular Biology and Histology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Developmental Biology and Embryology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Ecology, Evolution, Systematics, and Population Biology",
+    "level": "sub-domain",
+    "aliases": ["Ecological Biology", "Evolutionary Biology"],
+    "related_to": ["Ecological Biology", "Evolutionary Biology"],
+    "children": [
+      "Aquatic Biology/Limnology",
+      "Conservation Biology",
+      "Ecology",
+      "Ecology and Evolutionary Biology",
+      "Environmental Biology",
+      "Epidemiology",
+      "Evolutionary Biology",
+      "Marine Biology and Biological Oceanography",
+      "Population Biology",
+      "Systematic Biology/Biological Systematics"
+    ]
+  },
+  {
+    "name": "Aquatic Biology/Limnology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Conservation Biology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Ecology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Ecology and Evolutionary Biology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Environmental Biology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Epidemiology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Evolutionary Biology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Marine Biology and Biological Oceanography",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Population Biology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Systematic Biology/Biological Systematics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Genetics",
+    "level": "sub-domain",
+    "aliases": ["Genomic Science", "Heredity Studies"],
+    "related_to": ["Molecular Biology", "Biotechnology", "Genomics", "Medical Genetics"],
+    "children": [
+      "Animal Genetics",
+      "Genetics",
+      "Genome Sciences/Genomics",
+      "Human/Medical Genetics",
+      "Microbial and Eukaryotic Genetics",
+      "Molecular Genetics",
+      "Plant Genetics"
+    ]
+  },
+  {
+    "name": "Animal Genetics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Genetics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Genome Sciences/Genomics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Human/Medical Genetics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Microbial and Eukaryotic Genetics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Molecular Genetics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Plant Genetics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Microbiological Sciences and Immunology",
+    "level": "sub-domain",
+    "aliases": ["Microbiology", "Immunology"],
+    "related_to": ["Microbiology", "Immunology"],
+    "children": [
+      "Immunology",
+      "Medical Microbiology and Bacteriology",
+      "Microbiology",
+      "Microbiology and Immunology",
+      "Mycology",
+      "Parasitology",
+      "Virology"
+    ]
+  },
+  {
+    "name": "Immunology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Medical Microbiology and Bacteriology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Microbiology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Microbiology and Immunology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Mycology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Parasitology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Virology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Molecular Medicine",
+    "level": "sub-domain",
+    "aliases": ["Molecular Health Sciences", "Translational Medicine"],
+    "related_to": ["Genomics", "Biotechnology", "Pharmacology", "Clinical Research"],
+    "children": [
+      "Molecular Medicine"
+    ]
+  },
+  {
+    "name": "Molecular Medicine",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Neurobiology and Neurosciences",
+    "level": "sub-domain",
+    "aliases": ["Neuroscience", "Neurobiology Studies"],
+    "related_to": ["Psychology", "Cognitive Science", "Neurology", "Behavioral Science"],
+    "children": [
+      "Neuroanatomy",
+      "Neurobiology and Anatomy",
+      "Neurobiology and Behavior",
+      "Neuroscience"
+    ]
+  },
+  {
+    "name": "Neuroanatomy",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Neurobiology and Anatomy",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Neurobiology and Behavior",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Neuroscience",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Pharmacology and Toxicology",
+    "level": "sub-domain",
+    "aliases": ["Pharmacological Sciences", "Toxicological Sciences"],
+    "related_to": ["Pharmacy", "Drug Development", "Clinical Toxicology", "Biochemistry"],
+    "children": [
+      "Environmental Toxicology",
+      "Molecular Pharmacology",
+      "Molecular Toxicology",
+      "Neuropharmacology",
+      "Pharmacology",
+      "Pharmacology and Toxicology;Toxicology"
+    ]
+  },
+  {
+    "name": "Environmental Toxicology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Molecular Pharmacology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Molecular Toxicology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Neuropharmacology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Pharmacology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Pharmacology and Toxicology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Toxicology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Physiology, Pathology and Related Sciences",
+    "level": "sub-domain",
+    "aliases": ["Physiological Sciences", "Pathological Sciences"],
+    "related_to": ["Anatomy", "Biomedical Sciences", "Clinical Medicine", "Health Sciences"],
+    "children": [
+      "Aerospace Physiology and Medicine",
+      "Cardiovascular Science",
+      "Cell Physiology",
+      "Endocrinology",
+      "Exercise Physiology",
+      "Molecular Physiology",
+      "Oncology and Cancer Biology ",
+      "Pathology/Experimental Pathology",
+      "Physiology",
+      "Reproductive Biology",
+      "Vision Science/Physiological Optics"
+    ]
+  },
+  {
+    "name": "Aerospace Physiology and Medicine",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Cardiovascular Science",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Cell Physiology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Endocrinology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Exercise Physiology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Molecular Physiology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Oncology and Cancer Biology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Pathology/Experimental Pathology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Physiology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Reproductive Biology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Vision Science/Physiological Optics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Zoology/Animal Biology",
+    "level": "sub-domain",
+    "aliases": ["Animal Sciences", "Animal Biology"],
+    "related_to": ["Ecology", "Conservation Biology", "Wildlife Management", "Veterinary Science"],
+    "children": [
+      "Animal Behavior and Ethology",
+      "Animal Physiology",
+      "Entomology",
+      "Wildlife Biology",
+      "Zoology/Animal Biology"
+    ]
+  },
+  {
+    "name": "Animal Behavior and Ethology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Animal Physiology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Entomology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Wildlife Biology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Zoology/Animal Biology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Business, Management, Marketing, and Related Support Services",
+    "level": "primary",
+    "aliases": ["Business Management", "Marketing Services"],
+    "related_to": ["Entrepreneurship", "Finance", "Human Resource Management", "Supply Chain Management"],
+    "children": [
+      "Accounting and Related Services",
+      "Business Administration, Management and Operations",
+      "Business Operations Support and Assistant Services",
+      "Business/Commerce",
+      "Business/Corporate Communications",
+      "Business/Managerial Economics",
+      "Construction Management",
+      "Entrepreneurial and Small Business Operations",
+      "Finance and Financial Management Services",
+      "General Sales, Merchandising and Related Marketing Operations;",
+      "Hospitality Administration/Management",
+      "Human Resources Management and Services",
+      "Insurance",
+      "International Business",
+      "Management Information Systems and Services",
+      "Management Sciences and Quantitative Methods",
+      "Marketing",
+      "Real Estate",
+      "Specialized Sales, Merchandising and Marketing Operations",
+      "Taxations",
+      "Telecommunications Management;"
+    ]
+  },
+  {
+    "name": "Accounting and Related Services",
+    "level": "sub-domain",
+    "aliases": ["Accounting Services", "Financial Accounting"],
+    "related_to": ["Auditing", "Taxation", "Financial Management", "Bookkeeping"],
+    "children": [
+      "Accounting",
+      "Accounting and Business/Management",
+      "Accounting and Finance",
+      "Accounting Technology/Technician and Bookkeeping",
+      "Auditing"
+    ]
+  },
+  {
+    "name": "Accounting",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Accounting and Business/Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Accounting and Finance",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Accounting Technology/Technician and Bookkeeping",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Auditing",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Business Administration, Management and Operations",
+    "level": "sub-domain",
+    "aliases": ["Business Management", "Operations Management"],
+    "related_to": ["Strategic Management", "Organizational Behavior", "Project Management", "Entrepreneurship"],
+    "children": [
+      "Business Administration and Management",
+      "Customer Service Management",
+      "E-Commerce/Electronic Commerce",
+      "Logistics, Materials, and Supply Chain Management",
+      "Non-Profit/Public/Organizational Management",
+      "Office Management and Supervision",
+      "Operations Management and Supervision",
+      "Organizational Leadership",
+      "Project Management;",
+      "Purchasing, Procurement/Acquisitions and Contracts Management",
+      "Research and Development Management",
+      "Retail Management",
+      "Transportation/Mobility Management"
+    ]
+  },
+  {
+    "name": "Business Administration and Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Customer Service Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "E-Commerce/Electronic Commerce",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Logistics, Materials, and Supply Chain Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Non-Profit/Public/Organizational Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Office Management and Supervision",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Operations Management and Supervision",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Organizational Leadership",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Project Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Purchasing, Procurement/Acquisitions and Contracts Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Research and Development Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Retail Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Transportation/Mobility Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Business Operations Support and Assistant Services",
+    "level": "sub-domain",
+    "aliases": ["Operations Support Services", "Business Support Services"],
+    "related_to": ["Administrative Support", "Customer Service", "Office Management", "Project Coordination"],
+    "children": [
+      "Administrative Assistant and Secretarial Science",
+      "Business/Office",
+      "Automation/Technology/Data Entry",
+      "Customer Service Support/Call Center/Teleservice Operation",
+      "Executive Assistant/Executive Secretary",
+      "General Office Occupations and Clerical Services",
+      "Parts, Warehousing, and Inventory Management Operations",
+      "Receptionist",
+      "Traffic, Customs, and Transportation Clerk/Technician"
+    ]
+  },
+  {
+    "name": "Administrative Assistant and Secretarial Science",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Business/Office Automation/Technology/Data Entry",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Customer Service Support/Call Center/Teleservice Operation",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Executive Assistant/Executive Secretary",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "General Office Occupations and Clerical Services",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Parts, Warehousing, and Inventory Management Operations",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Receptionist",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Traffic, Customs, and Transportation Clerk/Technician",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Business/Commerce",
+    "level": "sub-domain",
+    "aliases": ["Commerce", "Commercial Studies"],
+    "related_to": ["Economics", "Marketing", "Supply Chain Management", "Entrepreneurship"],
+    "children": [
+      "Business/Commerce"
+    ]
+  },
+  {
+    "name": "Business/Commerce",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Business/Corporate Communications",
+    "level": "sub-domain",
+    "aliases": ["Corporate Communication", "Business Communication"],
+    "related_to": ["Public Relations", "Marketing Communication", "Media Relations", "Internal Communications"],
+    "children": [
+      "Business/Corporate Communications"
+    ]
+  },
+  {
+    "name": "Business/Corporate Communications",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Business/Managerial Economics",
+    "level": "sub-domain",
+    "aliases": ["Managerial Economics", "Business Economics"],
+    "related_to": ["Microeconomics", "Macroeconomics", "Financial Management", "Strategic Decision Making"],
+    "children": [
+      "Business/Managerial Economics"
+    ]
+  },
+  {
+    "name": "Business/Managerial Economics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Construction Management",
+    "level": "sub-domain",
+    "aliases": ["Construction Project Management", "Construction Administration"],
+    "related_to": ["Civil Engineering", "Architecture", "Project Management", "Real Estate Development"],
+    "children": [
+      "Construction Management"
+    ]
+  },
+  {
+    "name": "Construction Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": [
+      " "
+    ]
+  },
+  {
+    "name": "Entrepreneurial and Small Business Operations",
+    "level": "sub-domain",
+    "aliases": ["Entrepreneurship", "Small Business Management"],
+    "related_to": ["Startup Development", "Business Strategy", "Marketing for Small Businesses", "Financial Management"],
+    "children": [
+      "Entrepreneurship/Entrepreneurial Studies",
+      "Franchising and Franchise Operations",
+      "Small Business Administration/Management"
+    ]
+  },
+  {
+    "name": "Entrepreneurship/Entrepreneurial Studies",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Franchising and Franchise Operations",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Small Business Administration/Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Finance and Financial Management Services",
+    "level": "sub-domain",
+    "aliases": ["Financial Services", "Finance Management"],
+    "related_to": ["Investment Management", "Corporate Finance", "Risk Management", "Banking"],
+    "children": [
+      "Banking and Financial Support Services",
+      "Credit Management",
+      "Finance",
+      "Financial",
+      "Planning and Services",
+      "International Finance",
+      "Investments and Securities",
+      "Public Finance"
+    ]
+  },
+  {
+    "name": "Banking and Financial Support Services",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Credit Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Finance",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Financial Planning and Services",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "International Finance",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Investments and Securities",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Public Finance",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "General Sales, Merchandising and Related Marketing Operations",
+    "level": "sub-domain",
+    "aliases": ["Sales and Marketing Operations", "Merchandising Services"],
+    "related_to": ["Retail Management", "Market Research", "Customer Relationship Management", "Sales Strategy"],
+    "children": [
+      "Merchandising and Buying Operations",
+      "Retailing and Retail Operations",
+      "Sales, Distribution, and Marketing Operations",
+      "Selling Skills and Sales Operations"
+    ]
+  },
+  {
+    "name": "Merchandising and Buying Operations",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Retailing and Retail Operations",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Sales, Distribution, and Marketing Operations",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Selling Skills and Sales Operations",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Hospitality Administration/Management",
+    "level": "sub-domain",
+    "aliases": ["Hospitality Management", "Hotel Management"],
+    "related_to": ["Tourism Management", "Event Management", "Food and Beverage Management", "Customer Service"],
+    "children": [
+      "Casino Management",
+      "Hospitality Administration/Management",
+      "Hotel, Motel, and Restaurant Management",
+      "Hotel/Motel Administration/Management",
+      "Meeting and Event Planning",
+      "Resort Management",
+      "Restaurant/Food Services Management",
+      "Tourism and Travel Services Management"
+    ]
+  },
+  {
+    "name": "Casino Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Hospitality Administration/Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Hotel, Motel, and Restaurant Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Hotel/Motel Administration/Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Meeting and Event Planning",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Resort Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Restaurant/Food Services Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Tourism and Travel Services Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Human Resources Management and Services",
+    "level": "sub-domain",
+    "aliases": ["HR Management", "Human Resource Services"],
+    "related_to": ["Talent Management", "Organizational Development", "Employee Relations", "Recruitment and Staffing"],
+    "children": [
+      "Human Resources Development",
+      "Human Resources Management/Personnel Administration",
+      "Labor and Industrial Relations",
+      "Labor Studies",
+      "Organizational Behavior Studies"
+    ]
+  },
+  {
+    "name": "Human Resources Development",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Human Resources Management/Personnel Administration",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Labor and Industrial Relations",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Labor Studies",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Organizational Behavior Studies",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Insurance",
+    "level": "sub-domain",
+    "aliases": [],
+    "related_to": [],
+    "children": [
+      "Insurance"
+    ]
+  },
+  {
+    "name": "Insurance",
+    "level": "category",
+    "aliases": ["Insurance Services", "Risk Management"],
+    "related_to": ["Underwriting", "Claims Management", "Actuarial Science", "Financial Services"],
+    "children": []
+  },
+  {
+    "name": "International Business",
+    "level": "sub-domain",
+    "aliases": ["Global Business", "International Trade"],
+    "related_to": ["Global Economics", "Cross-Cultural Management", "International Marketing", "Supply Chain Management"],
+    "children": [
+      "International Business/Trade/Commerce"
+    ]
+  },
+  {
+    "name": "International Business/Trade/Commerce",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Management Information Systems and Services",
+    "level": "sub-domain",
+    "aliases": ["MIS", "Management Information Services"],
+    "related_to": ["Information Technology", "Data Management", "Business Analytics", "Systems Analysis"],
+    "children": [
+      "Information Resources Management",
+      "Knowledge Management",
+      "Management Information Systems"
+    ]
+  },
+  {
+    "name": "Information Resources Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Knowledge Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Management Information Systems",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Management Sciences and Quantitative Methods",
+    "level": "sub-domain",
+    "aliases": ["Management Sciences", "Quantitative Methods"],
+    "related_to": ["Operations Research", "Statistics", "Data Analysis", "Business Analytics"],
+    "children": [
+      "Actuarial Science",
+      "Business Statistics",
+      "Management Science"
+    ]
+  },
+  {
+    "name": "Actuarial Science",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Business Statistics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Management Science",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Marketing",
+    "level": "sub-domain",
+    "aliases": ["Marketing Management", "Market Research"],
+    "related_to": ["Advertising", "Brand Management", "Digital Marketing", "Sales Strategy"],
+    "children": [
+      "International Marketing",
+      "Marketing Research",
+      "Marketing/Marketing Management"
+    ]
+  },
+  {
+    "name": "International Marketing",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Marketing Research",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Marketing/Marketing Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Real Estate",
+    "level": "sub-domain",
+    "aliases": ["Property Management", "Real Estate Management"],
+    "related_to": ["Real Estate Development", "Commercial Real Estate", "Residential Real Estate", "Real Estate Investment"],
+    "children": [
+      "Real Estate"
+    ]
+  },
+  {
+    "name": "Real Estate",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Specialized Sales, Merchandising and Marketing Operations",
+    "level": "sub-domain",
+    "aliases": ["Specialized Sales, Merchandising and Marketing Operations"],
+    "related_to": ["Retail Management", "Product Merchandising", "Sales Strategy", "Market Analysis"],
+    "children": [
+      "Apparel and Accessories Marketing Operations",
+      "Auctioneering",
+      "Business and Personal/Financial Services Marketing Operations",
+      "Fashion Merchandising",
+      "Fashion Modeling",
+      "Hospitality and Recreation Marketing Operations",
+      "Special Products Marketing Operations",
+      "Tourism and Travel Services Marketing Operations",
+      "Tourism Promotion Operations",
+      "Vehicle and Vehicle Parts and Accessories Marketing Operations"
+    ]
+  },
+  {
+    "name": "Apparel and Accessories Marketing Operations",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Auctioneering",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Business and Personal/Financial Services Marketing Operations",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Fashion Merchandising",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Fashion Modeling",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Hospitality and Recreation Marketing Operations",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Special Products Marketing Operations",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Tourism and Travel Services Marketing Operations",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Tourism Promotion Operations",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Vehicle and Vehicle Parts and Accessories Marketing Operations",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Taxation",
+    "level": "sub-domain",
+    "aliases": ["Tax Management", "Tax Compliance"],
+    "related_to": ["Accounting", "Tax Planning", "Corporate Taxation", "Personal Taxation"],
+    "children": [
+      "Taxation"
+    ]
+  },
+  {
+    "name": "Taxation",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Telecommunications Management",
+    "level": "sub-domain",
+    "aliases": ["Telecom Management", "Telecommunications Services"],
+    "related_to": ["Network Management", "Information Technology", "Project Management", "Telecommunications Policy"],
+    "children": [
+      "Telecommunications Management"
+    ]
+  },
+  {
+    "name": "Telecommunications Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Communication, Journalism, and Related Programs",
+    "level": "primary",
+    "aliases": ["Media Studies", "Journalism Programs"],
+    "related_to": ["Public Relations", "Broadcasting", "Digital Media", "Advertising"],
+    "children": [
+      "Communication and Media Studies",
+      "Journalism",
+      "Public Relations, Advertising, and Applied Communication",
+      "Publishing",
+      "Radio, Television, and Digital Communication"
+    ]
+  },
+  {
+    "name": "Communication and Media Studies",
+    "level": "sub-domain",
+    "aliases": ["Media Studies", "Communication Studies"],
+    "related_to": ["Mass Communication", "Media Production", "Journalism", "Public Relations"],
+    "children": [
+      "Mass Communication/Media Studies",
+      "Speech Communication and Rhetoric"
+    ]
+  },
+  {
+    "name": "Mass Communication/Media Studies",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Speech Communication and Rhetoric",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Journalism",
+    "level": "sub-domain",
+    "aliases": ["News Reporting", "Journalistic Studies"],
+    "related_to": ["Media Ethics", "Investigative Reporting", "Broadcast Journalism", "Digital Journalism"],
+    "children": [
+      "Broadcast Journalism",
+      "Journalism",
+      "Photojournalism"
+    ]
+  },
+  {
+    "name": "Broadcast Journalism",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Journalism",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Photojournalism",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Public Relations, Advertising, and Applied Communication",
+    "level": "sub-domain",
+    "aliases": ["PR and Advertising", "Applied Communication"],
+    "related_to": ["Media Relations", "Marketing Communication", "Brand Management", "Crisis Communication"],
+    "children": [
+      "Advertising",
+      "Health Communication",
+      "International and Intercultural Communication",
+      "Organizational Communication",
+      "Political Communication",
+      "Public Relations/Image Management",
+      "Sports Communication",
+      "Technical and Scientific Communication"
+    ]
+  },
+  {
+    "name": "Advertising",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Health Communication",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "International and Intercultural Communication",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Organizational Communication",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Political Communication",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Public Relations/Image Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Sports Communication",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Technical and Scientific Communication",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Publishing",
+    "level": "sub-domain",
+    "aliases": ["Book Publishing", "Media Publishing"],
+    "related_to": ["Editing", "Content Creation", "Digital Publishing", "Print Media"],
+    "children": [
+      "Publishing"
+    ]
+  },
+  {
+    "name": "Publishing",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Radio, Television, and Digital Communication",
+    "level": "sub-domain",
+    "aliases": ["Broadcast Media", "Digital Communication"],
+    "related_to": ["Media Production", "Journalism", "Television Production", "Radio Broadcasting"],
+    "children": [
+      "Digital Communication and Media/Multimedia",
+      "Radio and Television"
+    ]
+  },
+  {
+    "name": "Digital Communication and Media/Multimedia",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Radio and Television",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Communications Technologies/technicians and Support Services",
+    "level": "primary",
+    "aliases": ["Communication Technology Services", "Tech Support Services"],
+    "related_to": ["Telecommunications", "Network Support", "Information Technology", "Technical Assistance"],
+    "children": [
+      "Audiovisual Communications Technologies/Technicians",
+      "Communications Technology/Technician",
+      "Graphic Communications"
+    ]
+  },
+  {
+    "name": "Audiovisual Communications Technologies/Technicians",
+    "level": "sub-domain",
+    "aliases": ["AV Technology", "Audiovisual Technology"],
+    "related_to": ["Media Production", "Broadcasting", "Multimedia Design", "Sound Engineering"],
+    "children": [
+      "Photographic and Film/Video Technology/Technician and Assistant",
+      "Radio and Television Broadcasting Technology/Technician",
+      "Recording Arts Technology/Technician"
+    ]
+  },
+  {
+    "name": "Photographic and Film/Video Technology/Technician and Assistant",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Radio and Television Broadcasting Technology/Technician",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Recording Arts Technology/Technician",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Communications Technology/Technician",
+    "level": "sub-domain",
+    "aliases": ["Communication Technology", "Communications Technician"],
+    "related_to": ["Telecommunications", "Network Engineering", "Technical Support", "Information Technology"],
+    "children": [
+      "Communications Technology/Technician"
+    ]
+  },
+  {
+    "name": "Communications Technology/Technician",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Graphic Communications",
+    "level": "sub-domain",
+    "aliases": ["Graphic Design", "Visual Communications"],
+    "related_to": ["Print Media", "Digital Media", "Advertising", "Multimedia Design"],
+    "children": [
+      "Animation, Interactive Technology, Video Graphics and Special Effects",
+      "Computer Typography and Composition Equipment Operator",
+      "Graphic and Printing Equipment Operator Production",
+      "Graphic Communications",
+      "Platemaker/Imager",
+      "Prepress/Desktop Publishing and Digital Imaging Design",
+      "Printing Management",
+      "Printing Press Operator"
+    ]
+  },
+  {
+    "name": "Animation, Interactive Technology, Video Graphics and Special Effects",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Computer Typography and Composition Equipment Operator",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Graphic and Printing Equipment Operator Production",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Graphic Communications",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Platemaker/Imager",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Prepress/Desktop Publishing and Digital Imaging Design",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Printing Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Printing Press Operator",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Computer and Information Sciences and Support Services",
+    "level": "primary",
+    "aliases": ["Computer Science", "Information Technology Support"],
+    "related_to": ["Software Development", "Network Administration", "Database Management", "Technical Support"],
+    "children": [
+      "Computer and Information Sciences",
+      "Computer Programming",
+      "Computer Science",
+      "Computer Software and Media Applications",
+      "Computer Systems Analysis",
+      "Computer Systems Networking and Telecommunications",
+      "Computer/Information Technology Administration and Management",
+      "Data Entry/Microcomputer Applications",
+      "Data Processing",
+      "Information Science/Studies"
+    ]
+  },
+  {
+    "name": "Computer and Information Sciences",
+    "level": "sub-domain",
+    "aliases": ["Computer Science", "Information Technology"],
+    "related_to": ["Software Engineering", "Data Science", "Cybersecurity", "Information Systems"],
+    "children": [
+      "Artificial Intelligence",
+      "Computer and Information Sciences",
+      "Informatics",
+      "Information Technology"
+    ]
+  },
+  {
+    "name": "Artificial Intelligence",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Computer and Information Sciences",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Informatics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Information Technology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Computer Programming",
+    "level": "sub-domain",
+    "aliases": ["Coding", "Software Development"],
+    "related_to": ["Software Engineering", "Web Development", "Application Development", "Algorithm Design"],
+    "children": [
+      "Computer Programming, Specific Applications",
+      "Computer Programming, Vendor/Product Certification",
+      "Computer Programming/Programmer"
+    ]
+  },
+  {
+    "name": "Computer Programming, Specific Applications",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Computer Programming, Vendor/Product Certification",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Computer Programming/Programmer",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Computer Science",
+    "level": "sub-domain",
+    "aliases": ["CS", "Computing Science"],
+    "related_to": ["Software Engineering", "Data Science", "Artificial Intelligence", "Cybersecurity"],
+    "children": [
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Computer Science",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Computer Software and Media Applications",
+    "level": "sub-domain",
+    "aliases": ["Software Applications", "Media Software"],
+    "related_to": ["Multimedia Design", "Web Development", "Mobile App Development", "Game Development"],
+    "children": [
+      "Computer Graphics",
+      "Data Modeling/Warehousing and Database Administration",
+      "Modeling, Virtual Environments and Simulation",
+      "Web Page, Digital/Multimedia and Information Resources Design"
+    ]
+  },
+  {
+    "name": "Computer Graphics",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Data Modeling/Warehousing and Database Administration",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Modeling, Virtual Environments and Simulation",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Web Page, Digital/Multimedia and Information Resources Design",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Computer Systems Analysis",
+    "level": "sub-domain",
+    "aliases": ["Systems Analysis", "Systematic Analysis"],
+    "related_to": ["Information Systems", "Software Engineering", "Business Analysis", "IT Consulting"],
+    "children": [
+      "Computer Systems Analysis/Analyst"
+    ]
+  },
+  {
+    "name": "Computer Systems Analysis/Analyst",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Computer Systems Networking and Telecommunications",
+    "level": "sub-domain",
+    "aliases": ["Networking and Telecommunications", "Network Systems"],
+    "related_to": ["Network Administration", "Telecommunications Engineering", "Information Technology", "Cybersecurity"],
+    "children": [
+      "Computer Systems Networking and Telecommunications"
+    ]
+  },
+  {
+    "name": "Computer Systems Networking and Telecommunications",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Computer/Information Technology Administration and Management",
+    "level": "sub-domain",
+    "aliases": ["IT Administration", "Technology Management"],
+    "related_to": ["Information Systems Management", "Network Administration", "IT Project Management", "Systems Analysis"],
+    "children": [
+      "Computer and Information Systems Security/Information Assurance",
+      "Computer Support Specialist",
+      "Information Technology Project Management",
+      "Network and System Administration/Administrator",
+      "System, Networking, and LAN/WAN Management/Manager",
+      "Web/Multimedia Management and Webmaster"
+    ]
+  },
+  {
+    "name": "Computer and Information Systems Security/Information Assurance",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Computer Support Specialist",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Information Technology Project Management",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Network and System Administration/Administrator",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "System, Networking, and LAN/WAN Management/Manager",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Web/Multimedia Management and Webmaster",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Data Entry/Microcomputer Applications",
+    "level": "sub-domain",
+    "aliases": ["Data Entry Applications", "Microcomputer Software"],
+    "related_to": ["Office Applications", "Database Management", "Spreadsheet Software", "Information Management"],
+    "children": [
+      "Data Entry/Microcomputer Applications",
+      "Word Processing"
+    ]
+  },
+  {
+    "name": "Data Entry/Microcomputer Applications",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Word Processing",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Data Processing",
+    "level": "sub-domain",
+    "aliases": ["Data Management", "Data Handling"],
+    "related_to": ["Information Technology", "Data Analysis", "Database Management", "Business Intelligence"],
+    "children": [
+      "Data Processing and Data Processing Technology/Technician"
+    ]
+  },
+  {
+    "name": "Data Processing and Data Processing Technology/Technician",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Information Science/Studies",
+    "level": "sub-domain",
+    "aliases": ["Information Studies", "Library and Information Science"],
+    "related_to": ["Data Management", "Information Technology", "Knowledge Management", "User Experience Design"],
+    "children": [
+      "Information Science/Studies"
+    ]
+  },
+  {
+    "name": "Information Science/Studies",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Construction Trades",
+    "level": "primary",
+    "aliases": ["Construction Skills", "Trade Skills"],
+    "related_to": ["Building Trades", "Skilled Labor", "Construction Management", "Craftsmanship"],
+    "children": [
+      "Building/Construction Finishing, Management, and Inspection",
+      "Carpenters",
+      "Electrical and Power Transmission Installers",
+      "Mason/Masonry",
+      "Plumbing and Related Water Supply Services"
+    ]
+  },
+  {
+    "name": "Building/Construction Finishing, Management, and Inspection",
+    "level": "sub-domain",
+    "aliases": ["Construction Finishing", "Building Management"],
+    "related_to": ["Quality Control", "Construction Management", "Building Codes", "Site Inspection"],
+    "children": [
+      "Building Construction Technology",
+      "Building/Construction Site Management/Manager",
+      "Building/Home/Construction Inspection/Inspector",
+      "Building/Property Maintenance",
+      "Carpet, Floor, and Tile Worker",
+      "Concrete Finishing/Concrete Finisher",
+      "Drywall Installation/Drywaller",
+      "Glazier ;Insulator",
+      "Metal Building Assembly/Assembler",
+      "Painting/Painter and Wall Coverer",
+      "Roofer"
+    ]
+  },
+  {
+    "name": "Building Construction Technology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Building/Construction Site Management/Manager",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Building/Home/Construction Inspection/Inspector",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Building/Property Maintenance",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Carpet, Floor, and Tile Worker",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Concrete Finishing/Concrete Finisher",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Drywall Installation/Drywaller",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Glazier",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Insulator",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Metal Building Assembly/Assembler",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Painting/Painter and Wall Coverer",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Roofer",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Carpenters",
+    "level": "sub-domain",
+    "aliases": [],
+    "related_to": [],
+    "children": [
+      "Carpentry/Carpenter"
+    ]
+  },
+  {
+    "name": "Carpentry/Carpenter",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Electrical and Power Transmission Installers",
+    "level": "sub-domain",
+    "aliases": ["Electrical Installers", "Power Transmission Technicians"],
+    "related_to": ["Electrical Engineering", "Renewable Energy", "Installation Services", "Utility Management"],
+    "children": [
+      "Electrical and Power Transmission Installation/Installer",
+      "Electrician",
+      "Lineworker"
+    ]
+  },
+  {
+    "name": "Electrical and Power Transmission Installation/Installer",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Electrician",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Lineworker",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Mason/Masonry",
+    "level": "sub-domain",
+    "aliases": ["Masonry Trade", "Bricklaying"],
+    "related_to": ["Construction", "Stonework", "Brickwork", "Building Trades"],
+    "children": [
+      "Mason/Masonry"
+    ]
+  },
+  {
+    "name": "Mason/Masonry",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Plumbing and Related Water Supply Services",
+    "level": "sub-domain",
+    "aliases": ["Plumbing Services", "Water Supply Installation"],
+    "related_to": ["Pipefitting", "Drainage Systems", "Heating Systems", "Sewer Services"],
+    "children": [
+      "Blasting/Blaster",
+      "Pipefitting/Pipefitter and Sprinkler Fitter",
+      "Plumbing Technology/Plumber",
+      "Well Drilling/Driller"
+    ]
+  },
+  {
+    "name": "Blasting/Blaster",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Pipefitting/Pipefitter and Sprinkler Fitter",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Plumbing Technology/Plumber",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Well Drilling/Driller",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Education",
+    "level": "primary",
+    "aliases": ["Learning", "Teaching"],
+    "related_to": ["Pedagogy", "Curriculum Development", "Educational Psychology", "Instructional Design"],
+    "children": [
+      "Bilingual, Multilingual, and Multicultural Education",
+      "Curriculum and Instruction Educational Administration and Supervision ",
+      "Educational Assessment, Evaluation, and Research",
+      "Educational/Instructional Media Design",
+      "Education",
+      "International and Comparative Education",
+      "Social and Philosophical Foundations of Education",
+      "Special Education and Teaching",
+      "Student Counseling and Personnel Services",
+      "Teacher Education and Professional Development, Specific Levels and Methods",
+      "Teacher Education and Professional Development, Specific Subject Areas",
+      "Teaching Assistants/Aides",
+      "Teaching English or French as a Second or Foreign Language"
+    ]
+  },
+  {
+    "name": "Bilingual, Multilingual, and Multicultural Education",
+    "level": "sub-domain",
+    "aliases": ["Multilingual Education", "Cultural Education"],
+    "related_to": ["Language Acquisition", "Cross-Cultural Communication", "Diversity in Education", "Language Teaching"],
+    "children": [
+      "Bilingual and Multilingual Education",
+      "Indian/Native American Education",
+      "Multicultural Education"
+    ]
+  },
+  {
+    "name": "Bilingual and Multilingual Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Indian/Native American Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Multicultural Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Curriculum and Instruction",
+    "level": "sub-domain",
+    "aliases": ["Curriculum Development", "Instructional Design"],
+    "related_to": ["Teaching Strategies", "Educational Assessment", "Learning Theory", "Educational Standards"],
+    "children": [
+      "Curriculum and Instruction"
+    ]
+  },
+  {
+    "name": "Curriculum and Instruction",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Educational Administration and Supervision",
+    "level": "sub-domain",
+    "aliases": ["Educational Leadership", "School Administration"],
+    "related_to": ["Education Management", "Instructional Leadership", "Policy Development", "School Improvement"],
+    "children": [
+      "Administration of Special Education",
+      "Adult and Continuing Education Administration",
+      "Community College Education",
+      "Educational Leadership and Administration",
+      "Educational, Instructional, and Curriculum Supervision",
+      "Elementary and Middle School Administration/Principalship",
+      "Higher Education/Higher Education Administration",
+      "Secondary School Administration/Principalship",
+      "Superintendency and Educational System Administration",
+      "Urban Education and Leadership"
+    ]
+  },
+  {
+    "name": "Administration of Special Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Adult and Continuing Education Administration",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Community College Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Educational Leadership and Administration",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Educational, Instructional, and Curriculum Supervision",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Elementary and Middle School Administration/Principalship",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Higher Education/Higher Education Administration",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Secondary School Administration/Principalship",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Superintendency and Educational System Administration",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Urban Education and Leadership",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Educational Assessment, Evaluation, and Research",
+    "level": "sub-domain",
+    "aliases": ["Educational Evaluation", "Assessment Research"],
+    "related_to": ["Testing and Measurement", "Program Evaluation", "Educational Research", "Data Analysis in Education"],
+    "children": [
+      "Educational Assessment, Testing, and Measurement",
+      "Educational Evaluation and Research",
+      "Educational Statistics and Research Methods",
+      "Learning Sciences"
+    ]
+  },
+  {
+    "name": "Educational Assessment, Testing, and Measurement",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Educational Evaluation and Research",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Educational Statistics and Research Methods",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Learning Sciences",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Educational/Instructional Media Design",
+    "level": "sub-domain",
+    "aliases": ["Instructional Media", "Educational Media Design"],
+    "related_to": ["Multimedia Design", "E-Learning", "Visual Communication", "Curriculum Development"],
+    "children": [
+      "Educational/Instructional Technology"
+    ]
+  },
+  {
+    "name": "Educational/Instructional Technology",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Education",
+    "level": "sub-domain",
+    "aliases": ["Learning", "Teaching"],
+    "related_to": ["Pedagogy", "Curriculum Development", "Educational Psychology", "Instructional Design"],
+    "children": [
+      "Education"
+    ]
+  },
+  {
+    "name": "Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "International and Comparative Education",
+    "level": "sub-domain",
+    "aliases": ["Global Education", "Comparative Education"],
+    "related_to": ["International Development", "Cross-Cultural Education", "Educational Policy", "Global Studies"],
+    "children": [
+      "International and Comparative Education"
+    ]
+  },
+  {
+    "name": "International and Comparative Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Social and Philosophical Foundations of Education",
+    "level": "sub-domain",
+    "aliases": ["Philosophy of Education", "Social Foundations of Education"],
+    "related_to": ["Educational Theory", "Cultural Studies", "Ethics in Education", "Sociology of Education"],
+    "children": [
+      "Social and Philosophical Foundations of Education"
+    ]
+  },
+  {
+    "name": "Social and Philosophical Foundations of Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Special Education and Teaching",
+    "level": "sub-domain",
+    "aliases": ["Special Needs Education", "Inclusive Education"],
+    "related_to": ["Differentiated Instruction", "Learning Disabilities", "Educational Psychology", "Assistive Technology"],
+    "children": [
+      "Education/Teaching of Individuals in Early Childhood Special Education Programs",
+      "Education/Teaching of Individuals in Elementary Special Education Programs",
+      "Education/Teaching of Individuals in Junior High/Middle School Special Education Programs",
+      "Education/Teaching of Individuals in Secondary Special Education Programs",
+      "Education/Teaching of Individuals Who are Developmentally Delayed",
+      "Education/Teaching of Individuals with Autism",
+      "Education/Teaching of Individuals with Emotional Disturbances",
+      "Education/Teaching of Individuals with Hearing Impairments Including Deafness",
+      "Education/Teaching of Individuals with Mental Retardation",
+      "Education/Teaching of Individuals with Multiple Disabilities ",
+      "Education/Teaching of Individuals with Specific Learning Disabilities",
+      "Education/Teaching of Individuals with Speech or Language Impairments",
+      "Education/Teaching of Individuals with Traumatic Brain Injuries",
+      "Education/Teaching of Individuals with Vision Impairments Including Blindness",
+      "Education/Teaching of the Gifted and Talented",
+      "Special Education and Teaching"
+    ]
+  },
+  {
+    "name": "Education/Teaching of Individuals in Early Childhood Special Education Programs",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Education/Teaching of Individuals in Elementary Special Education Programs",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Education/Teaching of Individuals in Junior High/Middle School Special Education Programs",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Education/Teaching of Individuals in Secondary Special Education Programs",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Education/Teaching of Individuals Who are Developmentally Delayed",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Education/Teaching of Individuals with Autism",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Education/Teaching of Individuals with Emotional Disturbances",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Education/Teaching of Individuals with Hearing Impairments Including Deafness",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Education/Teaching of Individuals with Mental Retardation",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Education/Teaching of Individuals with Multiple Disabilities",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Education/Teaching of Individuals with Specific Learning Disabilities",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Education/Teaching of Individuals with Speech or Language Impairments",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Education/Teaching of Individuals with Traumatic Brain Injuries",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Education/Teaching of Individuals with Vision Impairments Including Blindness",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Education/Teaching of the Gifted and Talented",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Special Education and Teaching",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Student Counseling and Personnel Services",
+    "level": "sub-domain",
+    "aliases": ["Counseling Services", "Student Support Services"],
+    "related_to": ["Guidance Counseling", "Mental Health Services", "Career Counseling", "Educational Psychology"],
+    "children": [
+      "College Student Counseling and Personnel Services",
+      "Counselor Education/School Counseling and Guidance Services"
+    ]
+  },
+  {
+    "name": "College Student Counseling and Personnel Services",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Counselor Education/School Counseling and Guidance Services",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Teacher Education and Professional Development, Specific Levels and Methods",
+    "level": "sub-domain",
+    "aliases": ["Teacher Training", "Professional Development for Educators"],
+    "related_to": ["Pedagogical Methods", "Curriculum Development", "Educational Leadership", "Continuing Education"],
+    "children": [
+      "Adult and Continuing Education and Teaching",
+      "Early Childhood Education and Teaching",
+      "Elementary Education and Teaching",
+      "Junior High/Intermediate/Middle School Education and Teaching",
+      "Kindergarten/Preschool Education and Teaching",
+      "Montessori Teacher Education",
+      "Secondary Education and Teaching",
+      "Teacher Education, Multiple Levels",
+      "Waldorf/Steiner Teacher Education"
+    ]
+  },
+  {
+    "name": "Adult and Continuing Education and Teaching",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Early Childhood Education and Teaching",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Elementary Education and Teaching",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Junior High/Intermediate/Middle School Education and Teaching",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Kindergarten/Preschool Education and Teaching",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Montessori Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Secondary Education and Teaching",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Teacher Education, Multiple Levels",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Waldorf/Steiner Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Teacher Education and Professional Development, Specific Subject Areas",
+    "level": "sub-domain",
+    "aliases": ["Subject-Specific Teacher Training", "Professional Development in Education"],
+    "related_to": ["Curriculum Design", "Subject Matter Expertise", "Educational Standards", "Teacher Certification"],
+    "children": [
+      "Agricultural Teacher Education",
+      "Art Teacher Education",
+      "Biology Teacher Education",
+      "Business Teacher Education",
+      "Chemistry Teacher Education",
+      "Computer Teacher Education",
+      "Drama and Dance Teacher Education",
+      "Driver and Safety Teacher Education",
+      "Earth Science Teacher Education",
+      "English/Language Arts Teacher Education",
+      "Environmental Education",
+      "Family and Consumer Sciences/Home Economics Teacher Education",
+      "Foreign Language Teacher Education",
+      "French Language Teacher Education",
+      "Geography Teacher Education",
+      "German Language Teacher Education",
+      "Health Occupations Teacher Education",
+      "Health Teacher Education",
+      "History Teacher Education",
+      "Latin Teacher Education",
+      "Mathematics Teacher Education",
+      "Music Teacher Education",
+      "Physical Education Teaching and Coaching",
+      "Physics Teacher Education",
+      "Psychology Teacher Education",
+      "Reading Teacher Education",
+      "Sales and Marketing Operations/Marketing and Distribution Teacher Education",
+      "School Librarian/School Library Media Specialist",
+      "Science Teacher Education/General Science Teacher Education",
+      "Social Science Teacher Education",
+      "Social Studies Teacher Education",
+      "Spanish Language Teacher Education",
+      "Speech Teacher Education",
+      "Technical Teacher Education",
+      "Technology Teacher Education/Industrial Arts Teacher Education",
+      "Trade and Industrial Teacher Education;"
+    ]
+  },
+  {
+    "name": "Agricultural Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Art Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Biology Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Business Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Chemistry Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Computer Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Drama and Dance Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Driver and Safety Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Earth Science Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "English/Language Arts Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Environmental Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Family and Consumer Sciences/Home Economics Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Foreign Language Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "French Language Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Geography Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "German Language Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Health Occupations Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Health Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "History Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Latin Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Mathematics Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Music Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Physical Education Teaching and Coaching",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Physics Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Psychology Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Reading Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Sales and Marketing Operations/Marketing and Distribution Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "School Librarian/School Library Media Specialist",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Science Teacher Education/General Science Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Social Science Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Social Studies Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Spanish Language Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Speech Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Technical Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Technology Teacher Education/Industrial Arts Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Trade and Industrial Teacher Education",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Teaching Assistants/Aides",
+    "level": "sub-domain",
+    "aliases": ["Teaching Aides", "Educational Assistants"],
+    "related_to": ["Classroom Support", "Student Assistance", "Teacher Support", "Special Education Aides"],
+    "children": [
+      "Adult Literacy Tutor/Instructor",
+      "Teacher Assistant/Aide"
+    ]
+  },
+  {
+    "name": "Adult Literacy Tutor/Instructor",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Teacher Assistant/Aide",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Teaching English or French as a Second or Foreign Language",
+    "level": "sub-domain",
+    "aliases": ["TESL", "TEFL", "FLE"],
+    "related_to": ["Language Acquisition", "Second Language Instruction", "Cultural Competence", "Curriculum Development"],
+    "children": [
+      "Teaching English as a Second or Foreign Language/ESL Language Instructor",
+      "Teaching French as a Second or Foreign Language"
+    ]
+  },
+  {
+    "name": "Teaching English as a Second or Foreign Language/ESL Language Instructor",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  },
+  {
+    "name": "Teaching French as a Second or Foreign Language",
+    "level": "category",
+    "aliases": [],
+    "related_to": [],
+    "children": []
+  }
+    ]
+}
+

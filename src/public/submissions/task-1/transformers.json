@@ -1,0 +1,1527 @@
+{
+  "team_name": "University Career Guide Team",
+  "members": [
+    {
+      "id": "F2021376088",
+      "name": "Ahmad Bilal Bhatti"
+    },
+    {
+      "id": "F2021376096",
+      "name": "Muhammad Mohsnain Haider"
+    },
+    {
+      "id": "F2021376002",
+      "name": "Anns Ijaz"
+    },
+    {
+      "id": "F2021376097",
+      "name": "Muhammad Sarosh Tahir"
+    },
+    {
+      "id": "F2021376035",
+      "name": "Awais Ali"
+    }
+  ],
+  "domains": [
+    {
+      "name": "Artificial Intelligence",
+      "level": "domain-level",
+      "aliases": [
+        "AI Researcher"
+      ],
+      "related_to": [
+        "AI Researcher",
+        "NLP Engineer"
+      ],
+      "children": [
+        "Artificial Intelligence - AI Researcher",
+        "Artificial Intelligence - NLP Engineer"
+      ]
+    },
+    {
+      "name": "Human Resources",
+      "level": "domain-level",
+      "aliases": [
+        "Recruitment Specialist"
+      ],
+      "related_to": [
+        "Training Coordinator",
+        "HR Manager"
+      ],
+      "children": [
+        "Human Resources - Training Coordinator",
+        "Human Resources - HR Manager"
+      ]
+    },
+    {
+      "name": "Dentistry",
+      "level": "domain-level",
+      "aliases": [
+        "Orthodontist"
+      ],
+      "related_to": [
+        "Dental Surgeon",
+        "Dentist"
+      ],
+      "children": [
+        "Dentistry - Dental Surgeon",
+        "Dentistry - Dentist"
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "level": "domain-level",
+      "aliases": [
+        "Network Security Engineer"
+      ],
+      "related_to": [
+        "Security Consultant",
+        "Cybersecurity Analyst"
+      ],
+      "children": [
+        "Cybersecurity - Security Consultant",
+        "Cybersecurity - Cybersecurity Analyst"
+      ]
+    },
+    {
+      "name": "Civil Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Structural Engineer"
+      ],
+      "related_to": [
+        "Civil Engineer",
+        "Environmental Consultant"
+      ],
+      "children": [
+        "Civil Engineering - Civil Engineer",
+        "Civil Engineering - Environmental Consultant"
+      ]
+    },
+    {
+      "name": "Civil Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Environmental Consultant"
+      ],
+      "related_to": [
+        "Structural Engineer",
+        "Civil Engineer"
+      ],
+      "children": [
+        "Civil Engineering - Structural Engineer",
+        "Civil Engineering - Civil Engineer"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "domain-level",
+      "aliases": [
+        "Data Analyst"
+      ],
+      "related_to": [
+        "Data Scientist",
+        "Data Analyst"
+      ],
+      "children": [
+        "Data Science - Data Scientist",
+        "Data Science - Data Analyst"
+      ]
+    },
+    {
+      "name": "Marketing",
+      "level": "domain-level",
+      "aliases": [
+        "Brand Manager"
+      ],
+      "related_to": [
+        "Marketing Specialist",
+        "SEO Specialist"
+      ],
+      "children": [
+        "Marketing - Marketing Specialist",
+        "Marketing - SEO Specialist"
+      ]
+    },
+    {
+      "name": "Public Health",
+      "level": "domain-level",
+      "aliases": [
+        "Health Educator"
+      ],
+      "related_to": [
+        "Health Educator",
+        "Epidemiologist"
+      ],
+      "children": [
+        "Public Health - Health Educator",
+        "Public Health - Epidemiologist"
+      ]
+    },
+    {
+      "name": "Information Systems",
+      "level": "domain-level",
+      "aliases": [
+        "IT Consultant"
+      ],
+      "related_to": [
+        "Database Administrator",
+        "Business Analyst"
+      ],
+      "children": [
+        "Information Systems - Database Administrator",
+        "Information Systems - Business Analyst"
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "level": "domain-level",
+      "aliases": [
+        "Cybersecurity Analyst"
+      ],
+      "related_to": [
+        "Cybersecurity Analyst",
+        "Security Consultant"
+      ],
+      "children": [
+        "Cybersecurity - Cybersecurity Analyst",
+        "Cybersecurity - Security Consultant"
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "level": "domain-level",
+      "aliases": [
+        "Network Security Engineer"
+      ],
+      "related_to": [
+        "Cybersecurity Analyst",
+        "Security Consultant"
+      ],
+      "children": [
+        "Cybersecurity - Cybersecurity Analyst",
+        "Cybersecurity - Security Consultant"
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "level": "domain-level",
+      "aliases": [
+        "Data Engineer"
+      ],
+      "related_to": [
+        "Software Developer",
+        "System Analyst"
+      ],
+      "children": [
+        "Computer Science - Software Developer",
+        "Computer Science - System Analyst"
+      ]
+    },
+    {
+      "name": "Finance",
+      "level": "domain-level",
+      "aliases": [
+        "Portfolio Manager"
+      ],
+      "related_to": [
+        "Portfolio Manager",
+        "Financial Analyst"
+      ],
+      "children": [
+        "Finance - Portfolio Manager",
+        "Finance - Financial Analyst"
+      ]
+    },
+    {
+      "name": "Civil Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Structural Engineer"
+      ],
+      "related_to": [
+        "Environmental Consultant",
+        "Civil Engineer"
+      ],
+      "children": [
+        "Civil Engineering - Environmental Consultant",
+        "Civil Engineering - Civil Engineer"
+      ]
+    },
+    {
+      "name": "Mechanical Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Maintenance Engineer"
+      ],
+      "related_to": [
+        "Mechanical Engineer",
+        "Product Design Engineer"
+      ],
+      "children": [
+        "Mechanical Engineering - Mechanical Engineer",
+        "Mechanical Engineering - Product Design Engineer"
+      ]
+    },
+    {
+      "name": "Nursing",
+      "level": "domain-level",
+      "aliases": [
+        "Nurse Practitioner"
+      ],
+      "related_to": [
+        "Registered Nurse",
+        "Nurse Practitioner"
+      ],
+      "children": [
+        "Nursing - Registered Nurse",
+        "Nursing - Nurse Practitioner"
+      ]
+    },
+    {
+      "name": "Entrepreneurship",
+      "level": "domain-level",
+      "aliases": [
+        "Product Manager"
+      ],
+      "related_to": [
+        "Product Manager",
+        "Business Strategist"
+      ],
+      "children": [
+        "Entrepreneurship - Product Manager",
+        "Entrepreneurship - Business Strategist"
+      ]
+    },
+    {
+      "name": "Public Health",
+      "level": "domain-level",
+      "aliases": [
+        "Epidemiologist"
+      ],
+      "related_to": [
+        "Epidemiologist",
+        "Public Health Specialist"
+      ],
+      "children": [
+        "Public Health - Epidemiologist",
+        "Public Health - Public Health Specialist"
+      ]
+    },
+    {
+      "name": "Pharmacy",
+      "level": "domain-level",
+      "aliases": [
+        "Pharmaceutical Researcher"
+      ],
+      "related_to": [
+        "Pharmaceutical Researcher",
+        "Pharmacist"
+      ],
+      "children": [
+        "Pharmacy - Pharmaceutical Researcher",
+        "Pharmacy - Pharmacist"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "level": "domain-level",
+      "aliases": [
+        "Machine Learning Engineer"
+      ],
+      "related_to": [
+        "NLP Engineer",
+        "Machine Learning Engineer"
+      ],
+      "children": [
+        "Artificial Intelligence - NLP Engineer",
+        "Artificial Intelligence - Machine Learning Engineer"
+      ]
+    },
+    {
+      "name": "Public Health",
+      "level": "domain-level",
+      "aliases": [
+        "Epidemiologist"
+      ],
+      "related_to": [
+        "Public Health Specialist",
+        "Health Educator"
+      ],
+      "children": [
+        "Public Health - Public Health Specialist",
+        "Public Health - Health Educator"
+      ]
+    },
+    {
+      "name": "Civil Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Environmental Consultant"
+      ],
+      "related_to": [
+        "Environmental Consultant",
+        "Civil Engineer"
+      ],
+      "children": [
+        "Civil Engineering - Environmental Consultant",
+        "Civil Engineering - Civil Engineer"
+      ]
+    },
+    {
+      "name": "Entrepreneurship",
+      "level": "domain-level",
+      "aliases": [
+        "Startup Founder"
+      ],
+      "related_to": [
+        "Startup Founder",
+        "Product Manager"
+      ],
+      "children": [
+        "Entrepreneurship - Startup Founder",
+        "Entrepreneurship - Product Manager"
+      ]
+    },
+    {
+      "name": "Chemical Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Chemical Technician"
+      ],
+      "related_to": [
+        "Chemical Technician",
+        "Process Engineer"
+      ],
+      "children": [
+        "Chemical Engineering - Chemical Technician",
+        "Chemical Engineering - Process Engineer"
+      ]
+    },
+    {
+      "name": "Human Resources",
+      "level": "domain-level",
+      "aliases": [
+        "HR Manager"
+      ],
+      "related_to": [
+        "Training Coordinator",
+        "HR Manager"
+      ],
+      "children": [
+        "Human Resources - Training Coordinator",
+        "Human Resources - HR Manager"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "domain-level",
+      "aliases": [
+        "Data Scientist"
+      ],
+      "related_to": [
+        "Machine Learning Engineer",
+        "Data Scientist"
+      ],
+      "children": [
+        "Data Science - Machine Learning Engineer",
+        "Data Science - Data Scientist"
+      ]
+    },
+    {
+      "name": "Nursing",
+      "level": "domain-level",
+      "aliases": [
+        "Clinical Nurse Specialist"
+      ],
+      "related_to": [
+        "Clinical Nurse Specialist",
+        "Registered Nurse"
+      ],
+      "children": [
+        "Nursing - Clinical Nurse Specialist",
+        "Nursing - Registered Nurse"
+      ]
+    },
+    {
+      "name": "Medicine",
+      "level": "domain-level",
+      "aliases": [
+        "Pediatrician"
+      ],
+      "related_to": [
+        "Pediatrician",
+        "Physician"
+      ],
+      "children": [
+        "Medicine - Pediatrician",
+        "Medicine - Physician"
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "level": "domain-level",
+      "aliases": [
+        "System Analyst"
+      ],
+      "related_to": [
+        "System Analyst",
+        "Software Developer"
+      ],
+      "children": [
+        "Computer Science - System Analyst",
+        "Computer Science - Software Developer"
+      ]
+    },
+    {
+      "name": "Dentistry",
+      "level": "domain-level",
+      "aliases": [
+        "Dental Surgeon"
+      ],
+      "related_to": [
+        "Orthodontist",
+        "Dental Surgeon"
+      ],
+      "children": [
+        "Dentistry - Orthodontist",
+        "Dentistry - Dental Surgeon"
+      ]
+    },
+    {
+      "name": "Medicine",
+      "level": "domain-level",
+      "aliases": [
+        "Physician"
+      ],
+      "related_to": [
+        "Pediatrician",
+        "Surgeon"
+      ],
+      "children": [
+        "Medicine - Pediatrician",
+        "Medicine - Surgeon"
+      ]
+    },
+    {
+      "name": "Civil Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Structural Engineer"
+      ],
+      "related_to": [
+        "Civil Engineer",
+        "Structural Engineer"
+      ],
+      "children": [
+        "Civil Engineering - Civil Engineer",
+        "Civil Engineering - Structural Engineer"
+      ]
+    },
+    {
+      "name": "Nursing",
+      "level": "domain-level",
+      "aliases": [
+        "Nurse Practitioner"
+      ],
+      "related_to": [
+        "Clinical Nurse Specialist",
+        "Registered Nurse"
+      ],
+      "children": [
+        "Nursing - Clinical Nurse Specialist",
+        "Nursing - Registered Nurse"
+      ]
+    },
+    {
+      "name": "Public Health",
+      "level": "domain-level",
+      "aliases": [
+        "Public Health Specialist"
+      ],
+      "related_to": [
+        "Epidemiologist",
+        "Public Health Specialist"
+      ],
+      "children": [
+        "Public Health - Epidemiologist",
+        "Public Health - Public Health Specialist"
+      ]
+    },
+    {
+      "name": "Information Systems",
+      "level": "domain-level",
+      "aliases": [
+        "Database Administrator"
+      ],
+      "related_to": [
+        "IT Consultant",
+        "Business Analyst"
+      ],
+      "children": [
+        "Information Systems - IT Consultant",
+        "Information Systems - Business Analyst"
+      ]
+    },
+    {
+      "name": "Human Resources",
+      "level": "domain-level",
+      "aliases": [
+        "Recruitment Specialist"
+      ],
+      "related_to": [
+        "Training Coordinator",
+        "Recruitment Specialist"
+      ],
+      "children": [
+        "Human Resources - Training Coordinator",
+        "Human Resources - Recruitment Specialist"
+      ]
+    },
+    {
+      "name": "Pharmacy",
+      "level": "domain-level",
+      "aliases": [
+        "Pharmaceutical Researcher"
+      ],
+      "related_to": [
+        "Pharmacist",
+        "Pharmaceutical Researcher"
+      ],
+      "children": [
+        "Pharmacy - Pharmacist",
+        "Pharmacy - Pharmaceutical Researcher"
+      ]
+    },
+    {
+      "name": "Public Health",
+      "level": "domain-level",
+      "aliases": [
+        "Epidemiologist"
+      ],
+      "related_to": [
+        "Public Health Specialist",
+        "Health Educator"
+      ],
+      "children": [
+        "Public Health - Public Health Specialist",
+        "Public Health - Health Educator"
+      ]
+    },
+    {
+      "name": "Public Health",
+      "level": "domain-level",
+      "aliases": [
+        "Epidemiologist"
+      ],
+      "related_to": [
+        "Health Educator",
+        "Epidemiologist"
+      ],
+      "children": [
+        "Public Health - Health Educator",
+        "Public Health - Epidemiologist"
+      ]
+    },
+    {
+      "name": "Mechanical Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Product Design Engineer"
+      ],
+      "related_to": [
+        "Maintenance Engineer",
+        "Mechanical Engineer"
+      ],
+      "children": [
+        "Mechanical Engineering - Maintenance Engineer",
+        "Mechanical Engineering - Mechanical Engineer"
+      ]
+    },
+    {
+      "name": "Medicine",
+      "level": "domain-level",
+      "aliases": [
+        "Surgeon"
+      ],
+      "related_to": [
+        "Surgeon",
+        "Pediatrician"
+      ],
+      "children": [
+        "Medicine - Surgeon",
+        "Medicine - Pediatrician"
+      ]
+    },
+    {
+      "name": "Public Health",
+      "level": "domain-level",
+      "aliases": [
+        "Epidemiologist"
+      ],
+      "related_to": [
+        "Public Health Specialist",
+        "Health Educator"
+      ],
+      "children": [
+        "Public Health - Public Health Specialist",
+        "Public Health - Health Educator"
+      ]
+    },
+    {
+      "name": "Business Administration",
+      "level": "domain-level",
+      "aliases": [
+        "Operations Manager"
+      ],
+      "related_to": [
+        "Operations Manager",
+        "Project Coordinator"
+      ],
+      "children": [
+        "Business Administration - Operations Manager",
+        "Business Administration - Project Coordinator"
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "level": "domain-level",
+      "aliases": [
+        "Cybersecurity Analyst"
+      ],
+      "related_to": [
+        "Security Consultant",
+        "Cybersecurity Analyst"
+      ],
+      "children": [
+        "Cybersecurity - Security Consultant",
+        "Cybersecurity - Cybersecurity Analyst"
+      ]
+    },
+    {
+      "name": "Marketing",
+      "level": "domain-level",
+      "aliases": [
+        "Brand Manager"
+      ],
+      "related_to": [
+        "Brand Manager",
+        "SEO Specialist"
+      ],
+      "children": [
+        "Marketing - Brand Manager",
+        "Marketing - SEO Specialist"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "domain-level",
+      "aliases": [
+        "Machine Learning Engineer"
+      ],
+      "related_to": [
+        "Data Scientist",
+        "Machine Learning Engineer"
+      ],
+      "children": [
+        "Data Science - Data Scientist",
+        "Data Science - Machine Learning Engineer"
+      ]
+    },
+    {
+      "name": "Electrical Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Circuit Designer"
+      ],
+      "related_to": [
+        "Electrical Engineer",
+        "Circuit Designer"
+      ],
+      "children": [
+        "Electrical Engineering - Electrical Engineer",
+        "Electrical Engineering - Circuit Designer"
+      ]
+    },
+    {
+      "name": "Marketing",
+      "level": "domain-level",
+      "aliases": [
+        "Brand Manager"
+      ],
+      "related_to": [
+        "Brand Manager",
+        "Marketing Specialist"
+      ],
+      "children": [
+        "Marketing - Brand Manager",
+        "Marketing - Marketing Specialist"
+      ]
+    },
+    {
+      "name": "Marketing",
+      "level": "domain-level",
+      "aliases": [
+        "SEO Specialist"
+      ],
+      "related_to": [
+        "Brand Manager",
+        "Marketing Specialist"
+      ],
+      "children": [
+        "Marketing - Brand Manager",
+        "Marketing - Marketing Specialist"
+      ]
+    },
+    {
+      "name": "Aerospace Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Aerodynamicist"
+      ],
+      "related_to": [
+        "Aerospace Engineer",
+        "Flight Systems Engineer"
+      ],
+      "children": [
+        "Aerospace Engineering - Aerospace Engineer",
+        "Aerospace Engineering - Flight Systems Engineer"
+      ]
+    },
+    {
+      "name": "Business Administration",
+      "level": "domain-level",
+      "aliases": [
+        "Operations Manager"
+      ],
+      "related_to": [
+        "Operations Manager",
+        "Business Consultant"
+      ],
+      "children": [
+        "Business Administration - Operations Manager",
+        "Business Administration - Business Consultant"
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "level": "domain-level",
+      "aliases": [
+        "Security Consultant"
+      ],
+      "related_to": [
+        "Security Consultant",
+        "Cybersecurity Analyst"
+      ],
+      "children": [
+        "Cybersecurity - Security Consultant",
+        "Cybersecurity - Cybersecurity Analyst"
+      ]
+    },
+    {
+      "name": "Civil Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Structural Engineer"
+      ],
+      "related_to": [
+        "Structural Engineer",
+        "Environmental Consultant"
+      ],
+      "children": [
+        "Civil Engineering - Structural Engineer",
+        "Civil Engineering - Environmental Consultant"
+      ]
+    },
+    {
+      "name": "Pharmacy",
+      "level": "domain-level",
+      "aliases": [
+        "Pharmacist"
+      ],
+      "related_to": [
+        "Pharmaceutical Researcher",
+        "Clinical Pharmacist"
+      ],
+      "children": [
+        "Pharmacy - Pharmaceutical Researcher",
+        "Pharmacy - Clinical Pharmacist"
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "level": "domain-level",
+      "aliases": [
+        "Data Engineer"
+      ],
+      "related_to": [
+        "Data Engineer",
+        "Software Developer"
+      ],
+      "children": [
+        "Computer Science - Data Engineer",
+        "Computer Science - Software Developer"
+      ]
+    },
+    {
+      "name": "Pharmacy",
+      "level": "domain-level",
+      "aliases": [
+        "Clinical Pharmacist"
+      ],
+      "related_to": [
+        "Pharmaceutical Researcher",
+        "Clinical Pharmacist"
+      ],
+      "children": [
+        "Pharmacy - Pharmaceutical Researcher",
+        "Pharmacy - Clinical Pharmacist"
+      ]
+    },
+    {
+      "name": "Mechanical Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Mechanical Engineer"
+      ],
+      "related_to": [
+        "Maintenance Engineer",
+        "Mechanical Engineer"
+      ],
+      "children": [
+        "Mechanical Engineering - Maintenance Engineer",
+        "Mechanical Engineering - Mechanical Engineer"
+      ]
+    },
+    {
+      "name": "Medicine",
+      "level": "domain-level",
+      "aliases": [
+        "Physician"
+      ],
+      "related_to": [
+        "Surgeon",
+        "Pediatrician"
+      ],
+      "children": [
+        "Medicine - Surgeon",
+        "Medicine - Pediatrician"
+      ]
+    },
+    {
+      "name": "Civil Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Structural Engineer"
+      ],
+      "related_to": [
+        "Environmental Consultant",
+        "Civil Engineer"
+      ],
+      "children": [
+        "Civil Engineering - Environmental Consultant",
+        "Civil Engineering - Civil Engineer"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "level": "domain-level",
+      "aliases": [
+        "Machine Learning Engineer"
+      ],
+      "related_to": [
+        "NLP Engineer",
+        "Machine Learning Engineer"
+      ],
+      "children": [
+        "Artificial Intelligence - NLP Engineer",
+        "Artificial Intelligence - Machine Learning Engineer"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "level": "domain-level",
+      "aliases": [
+        "NLP Engineer"
+      ],
+      "related_to": [
+        "NLP Engineer",
+        "Machine Learning Engineer"
+      ],
+      "children": [
+        "Artificial Intelligence - NLP Engineer",
+        "Artificial Intelligence - Machine Learning Engineer"
+      ]
+    },
+    {
+      "name": "Finance",
+      "level": "domain-level",
+      "aliases": [
+        "Portfolio Manager"
+      ],
+      "related_to": [
+        "Investment Banker",
+        "Financial Analyst"
+      ],
+      "children": [
+        "Finance - Investment Banker",
+        "Finance - Financial Analyst"
+      ]
+    },
+    {
+      "name": "Human Resources",
+      "level": "domain-level",
+      "aliases": [
+        "HR Manager"
+      ],
+      "related_to": [
+        "Training Coordinator",
+        "Recruitment Specialist"
+      ],
+      "children": [
+        "Human Resources - Training Coordinator",
+        "Human Resources - Recruitment Specialist"
+      ]
+    },
+    {
+      "name": "Entrepreneurship",
+      "level": "domain-level",
+      "aliases": [
+        "Startup Founder"
+      ],
+      "related_to": [
+        "Business Strategist",
+        "Startup Founder"
+      ],
+      "children": [
+        "Entrepreneurship - Business Strategist",
+        "Entrepreneurship - Startup Founder"
+      ]
+    },
+    {
+      "name": "Civil Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Environmental Consultant"
+      ],
+      "related_to": [
+        "Environmental Consultant",
+        "Civil Engineer"
+      ],
+      "children": [
+        "Civil Engineering - Environmental Consultant",
+        "Civil Engineering - Civil Engineer"
+      ]
+    },
+    {
+      "name": "Entrepreneurship",
+      "level": "domain-level",
+      "aliases": [
+        "Product Manager"
+      ],
+      "related_to": [
+        "Business Strategist",
+        "Product Manager"
+      ],
+      "children": [
+        "Entrepreneurship - Business Strategist",
+        "Entrepreneurship - Product Manager"
+      ]
+    },
+    {
+      "name": "Marketing",
+      "level": "domain-level",
+      "aliases": [
+        "Brand Manager"
+      ],
+      "related_to": [
+        "Brand Manager",
+        "SEO Specialist"
+      ],
+      "children": [
+        "Marketing - Brand Manager",
+        "Marketing - SEO Specialist"
+      ]
+    },
+    {
+      "name": "Mechanical Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Product Design Engineer"
+      ],
+      "related_to": [
+        "Product Design Engineer",
+        "Maintenance Engineer"
+      ],
+      "children": [
+        "Mechanical Engineering - Product Design Engineer",
+        "Mechanical Engineering - Maintenance Engineer"
+      ]
+    },
+    {
+      "name": "Nursing",
+      "level": "domain-level",
+      "aliases": [
+        "Clinical Nurse Specialist"
+      ],
+      "related_to": [
+        "Clinical Nurse Specialist",
+        "Registered Nurse"
+      ],
+      "children": [
+        "Nursing - Clinical Nurse Specialist",
+        "Nursing - Registered Nurse"
+      ]
+    },
+    {
+      "name": "Mechanical Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Maintenance Engineer"
+      ],
+      "related_to": [
+        "Maintenance Engineer",
+        "Product Design Engineer"
+      ],
+      "children": [
+        "Mechanical Engineering - Maintenance Engineer",
+        "Mechanical Engineering - Product Design Engineer"
+      ]
+    },
+    {
+      "name": "Finance",
+      "level": "domain-level",
+      "aliases": [
+        "Financial Analyst"
+      ],
+      "related_to": [
+        "Portfolio Manager",
+        "Investment Banker"
+      ],
+      "children": [
+        "Finance - Portfolio Manager",
+        "Finance - Investment Banker"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "domain-level",
+      "aliases": [
+        "Machine Learning Engineer"
+      ],
+      "related_to": [
+        "Data Scientist",
+        "Machine Learning Engineer"
+      ],
+      "children": [
+        "Data Science - Data Scientist",
+        "Data Science - Machine Learning Engineer"
+      ]
+    },
+    {
+      "name": "Pharmacy",
+      "level": "domain-level",
+      "aliases": [
+        "Pharmacist"
+      ],
+      "related_to": [
+        "Clinical Pharmacist",
+        "Pharmacist"
+      ],
+      "children": [
+        "Pharmacy - Clinical Pharmacist",
+        "Pharmacy - Pharmacist"
+      ]
+    },
+    {
+      "name": "Information Systems",
+      "level": "domain-level",
+      "aliases": [
+        "IT Consultant"
+      ],
+      "related_to": [
+        "Database Administrator",
+        "Business Analyst"
+      ],
+      "children": [
+        "Information Systems - Database Administrator",
+        "Information Systems - Business Analyst"
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "level": "domain-level",
+      "aliases": [
+        "Data Engineer"
+      ],
+      "related_to": [
+        "Data Engineer",
+        "System Analyst"
+      ],
+      "children": [
+        "Computer Science - Data Engineer",
+        "Computer Science - System Analyst"
+      ]
+    },
+    {
+      "name": "Marketing",
+      "level": "domain-level",
+      "aliases": [
+        "Brand Manager"
+      ],
+      "related_to": [
+        "Marketing Specialist",
+        "SEO Specialist"
+      ],
+      "children": [
+        "Marketing - Marketing Specialist",
+        "Marketing - SEO Specialist"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "domain-level",
+      "aliases": [
+        "Machine Learning Engineer"
+      ],
+      "related_to": [
+        "Data Scientist",
+        "Data Analyst"
+      ],
+      "children": [
+        "Data Science - Data Scientist",
+        "Data Science - Data Analyst"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "domain-level",
+      "aliases": [
+        "Machine Learning Engineer"
+      ],
+      "related_to": [
+        "Data Scientist",
+        "Data Analyst"
+      ],
+      "children": [
+        "Data Science - Data Scientist",
+        "Data Science - Data Analyst"
+      ]
+    },
+    {
+      "name": "Human Resources",
+      "level": "domain-level",
+      "aliases": [
+        "Training Coordinator"
+      ],
+      "related_to": [
+        "Training Coordinator",
+        "Recruitment Specialist"
+      ],
+      "children": [
+        "Human Resources - Training Coordinator",
+        "Human Resources - Recruitment Specialist"
+      ]
+    },
+    {
+      "name": "Aerospace Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Flight Systems Engineer"
+      ],
+      "related_to": [
+        "Aerodynamicist",
+        "Aerospace Engineer"
+      ],
+      "children": [
+        "Aerospace Engineering - Aerodynamicist",
+        "Aerospace Engineering - Aerospace Engineer"
+      ]
+    },
+    {
+      "name": "Civil Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Civil Engineer"
+      ],
+      "related_to": [
+        "Environmental Consultant",
+        "Civil Engineer"
+      ],
+      "children": [
+        "Civil Engineering - Environmental Consultant",
+        "Civil Engineering - Civil Engineer"
+      ]
+    },
+    {
+      "name": "Mechanical Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Mechanical Engineer"
+      ],
+      "related_to": [
+        "Maintenance Engineer",
+        "Product Design Engineer"
+      ],
+      "children": [
+        "Mechanical Engineering - Maintenance Engineer",
+        "Mechanical Engineering - Product Design Engineer"
+      ]
+    },
+    {
+      "name": "Marketing",
+      "level": "domain-level",
+      "aliases": [
+        "Brand Manager"
+      ],
+      "related_to": [
+        "SEO Specialist",
+        "Marketing Specialist"
+      ],
+      "children": [
+        "Marketing - SEO Specialist",
+        "Marketing - Marketing Specialist"
+      ]
+    },
+    {
+      "name": "Entrepreneurship",
+      "level": "domain-level",
+      "aliases": [
+        "Business Strategist"
+      ],
+      "related_to": [
+        "Product Manager",
+        "Startup Founder"
+      ],
+      "children": [
+        "Entrepreneurship - Product Manager",
+        "Entrepreneurship - Startup Founder"
+      ]
+    },
+    {
+      "name": "Medicine",
+      "level": "domain-level",
+      "aliases": [
+        "Surgeon"
+      ],
+      "related_to": [
+        "Surgeon",
+        "Pediatrician"
+      ],
+      "children": [
+        "Medicine - Surgeon",
+        "Medicine - Pediatrician"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "domain-level",
+      "aliases": [
+        "Machine Learning Engineer"
+      ],
+      "related_to": [
+        "Data Scientist",
+        "Data Analyst"
+      ],
+      "children": [
+        "Data Science - Data Scientist",
+        "Data Science - Data Analyst"
+      ]
+    },
+    {
+      "name": "Information Systems",
+      "level": "domain-level",
+      "aliases": [
+        "Database Administrator"
+      ],
+      "related_to": [
+        "IT Consultant",
+        "Database Administrator"
+      ],
+      "children": [
+        "Information Systems - IT Consultant",
+        "Information Systems - Database Administrator"
+      ]
+    },
+    {
+      "name": "Chemical Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Process Engineer"
+      ],
+      "related_to": [
+        "Production Manager",
+        "Process Engineer"
+      ],
+      "children": [
+        "Chemical Engineering - Production Manager",
+        "Chemical Engineering - Process Engineer"
+      ]
+    },
+    {
+      "name": "Information Systems",
+      "level": "domain-level",
+      "aliases": [
+        "IT Consultant"
+      ],
+      "related_to": [
+        "Database Administrator",
+        "Business Analyst"
+      ],
+      "children": [
+        "Information Systems - Database Administrator",
+        "Information Systems - Business Analyst"
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "level": "domain-level",
+      "aliases": [
+        "Cybersecurity Analyst"
+      ],
+      "related_to": [
+        "Network Security Engineer",
+        "Cybersecurity Analyst"
+      ],
+      "children": [
+        "Cybersecurity - Network Security Engineer",
+        "Cybersecurity - Cybersecurity Analyst"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "domain-level",
+      "aliases": [
+        "Machine Learning Engineer"
+      ],
+      "related_to": [
+        "Data Scientist",
+        "Machine Learning Engineer"
+      ],
+      "children": [
+        "Data Science - Data Scientist",
+        "Data Science - Machine Learning Engineer"
+      ]
+    },
+    {
+      "name": "Dentistry",
+      "level": "domain-level",
+      "aliases": [
+        "Dentist"
+      ],
+      "related_to": [
+        "Dentist",
+        "Dental Surgeon"
+      ],
+      "children": [
+        "Dentistry - Dentist",
+        "Dentistry - Dental Surgeon"
+      ]
+    },
+    {
+      "name": "Information Systems",
+      "level": "domain-level",
+      "aliases": [
+        "Business Analyst"
+      ],
+      "related_to": [
+        "IT Consultant",
+        "Business Analyst"
+      ],
+      "children": [
+        "Information Systems - IT Consultant",
+        "Information Systems - Business Analyst"
+      ]
+    },
+    {
+      "name": "Chemical Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Process Engineer"
+      ],
+      "related_to": [
+        "Process Engineer",
+        "Production Manager"
+      ],
+      "children": [
+        "Chemical Engineering - Process Engineer",
+        "Chemical Engineering - Production Manager"
+      ]
+    },
+    {
+      "name": "Aerospace Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Aerodynamicist"
+      ],
+      "related_to": [
+        "Aerodynamicist",
+        "Aerospace Engineer"
+      ],
+      "children": [
+        "Aerospace Engineering - Aerodynamicist",
+        "Aerospace Engineering - Aerospace Engineer"
+      ]
+    },
+    {
+      "name": "Nursing",
+      "level": "domain-level",
+      "aliases": [
+        "Nurse Practitioner"
+      ],
+      "related_to": [
+        "Registered Nurse",
+        "Clinical Nurse Specialist"
+      ],
+      "children": [
+        "Nursing - Registered Nurse",
+        "Nursing - Clinical Nurse Specialist"
+      ]
+    },
+    {
+      "name": "Business Administration",
+      "level": "domain-level",
+      "aliases": [
+        "Business Consultant"
+      ],
+      "related_to": [
+        "Operations Manager",
+        "Project Coordinator"
+      ],
+      "children": [
+        "Business Administration - Operations Manager",
+        "Business Administration - Project Coordinator"
+      ]
+    },
+    {
+      "name": "Mechanical Engineering",
+      "level": "domain-level",
+      "aliases": [
+        "Product Design Engineer"
+      ],
+      "related_to": [
+        "Product Design Engineer",
+        "Mechanical Engineer"
+      ],
+      "children": [
+        "Mechanical Engineering - Product Design Engineer",
+        "Mechanical Engineering - Mechanical Engineer"
+      ]
+    },
+    {
+      "name": "Medicine",
+      "level": "domain-level",
+      "aliases": [
+        "Pediatrician"
+      ],
+      "related_to": [
+        "Physician",
+        "Surgeon"
+      ],
+      "children": [
+        "Medicine - Physician",
+        "Medicine - Surgeon"
+      ]
+    }
+  ]
+}
