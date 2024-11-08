@@ -1,5 +1,5 @@
 ---
-title: "Setup you GitHub"
+title: "Setup your GitHub"
 date: "2024-11-03"
 authors:
   - name: "M Ahmed."
@@ -10,7 +10,7 @@ description: "Learn how to setup github accound, create repository and push your
 
 # GitHub Setup
 
-**Here is the detialed video, where we have discussed followings:-**
+**Here is a detailed video, where we have discussed followings:-**
 - Create GitHub Account
 - Create GitHub Repository
 - Clone and Push Repository 
