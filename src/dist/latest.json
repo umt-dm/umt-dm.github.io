@@ -1,6 +1,22 @@
 [
   {
-    "title": "Setup you GitHub",
+    "title": "Sprint 2 - Tasks",
+    "date": "2024-11-07",
+    "authors": [
+      {
+        "name": "M Ahmed.",
+        "avatar": "/assets/images/avatar/john-doe.jpg"
+      }
+    ],
+    "tags": [
+      "Announcement"
+    ],
+    "description": "A detailed breakdown of Sprint 2 tasks",
+    "slug": "sprint-2-tasks",
+    "url": "/sprint-2-tasks"
+  },
+  {
+    "title": "Setup your GitHub",
     "date": "2024-11-03",
     "authors": [
       {
